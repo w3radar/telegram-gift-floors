@@ -11,6 +11,7 @@ Daily floor prices of every Telegram collectible gift collection listed on [Frag
 |---|---|
 | `data/floors-daily.csv` | `date, collection_slug, collection_name, floor_gram, recent_sales` (one row per collection per day) |
 | `data/floors-daily.json` | same data as JSON, grouped by collection |
+| `data/weekly/<YYYY-Www>.csv` | one file per published [weekly market report](https://tggifts.com/reports): week-over-week floor change per collection (`open_date, open_floor_gram, close_date, close_floor_gram, change_pct, recent_sales_at_close, days_with_data`) |
 | `data/track-record.json` | snapshot of the radar's public [track record](https://tggifts.com/track-record): below-floor listings it alerted on and what happened to them afterwards (sold / still listed / unknown) |
 
 `floor_gram` is the cheapest Fragment listing price in GRAM (formerly TON). `recent_sales` is the number of recent sales visible on the collection page that day.
