@@ -6,12 +6,18 @@ Daily floor prices of every Telegram collectible gift collection listed on [Frag
 - **Source:** public Fragment collection pages, scanned every 15 seconds; the first floor seen each UTC day is stored.
 - **Live version:** [`https://tggifts.com/data/floors-daily.json`](https://tggifts.com/data/floors-daily.json) (free, no key, CORS enabled, cached 1 h). This repo holds dated snapshots of it.
 
+## TG Gifts Index (TGGI)
+A daily, chain-linked, liquidity-weighted index of Fragment gift collection floors (base 100 on 2026-10-18). Latest: **100.62** on 2026-10-19. Methodology (v1.0), constituents and weights: [tggifts.com/index](https://tggifts.com/index). Published values are frozen; corrections are listed on that page.
+
 ## Files
 | File | What it is |
 |---|---|
+| `data/index.csv` | TG Gifts Index history: `date, value, change_pct, constituents` |
+| `data/index.json` | TG Gifts Index: latest value, history, today's constituents and weights, method version |
 | `data/floors-daily.csv` | `date, collection_slug, collection_name, floor_gram, recent_sales` (one row per collection per day) |
 | `data/floors-daily.json` | same data as JSON, grouped by collection |
 | `data/weekly/<YYYY-Www>.csv` | one file per published [weekly market report](https://tggifts.com/reports): week-over-week floor change per collection (`open_date, open_floor_gram, close_date, close_floor_gram, change_pct, recent_sales_at_close, days_with_data`) |
+| `data/models/<YYYY-MM-DD>.csv` | per-model floors for that day: `date, collection_slug, collection_name, model, rarity_permille, floor_gram, buy_now_listings` (one row per model with a listing that day; live JSON: [`/data/models-daily.json`](https://tggifts.com/data/models-daily.json)) |
 | `data/track-record.json` | snapshot of the radar's public [track record](https://tggifts.com/track-record): below-floor listings it alerted on and what happened to them afterwards (sold / still listed / unknown) |
 
 `floor_gram` is the cheapest Fragment listing price in GRAM (formerly TON). `recent_sales` is the number of recent sales visible on the collection page that day.
