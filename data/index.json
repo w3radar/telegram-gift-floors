@@ -1,0 +1,882 @@
+{
+ "name": "TG Gifts Index",
+ "symbol": "TGGI",
+ "method_version": "1.0",
+ "methodology": "https://tggifts.com/index#method",
+ "base_date": "2026-10-18",
+ "base_value": 100,
+ "unit": "index points (GRAM-denominated floors)",
+ "source": "Public Fragment pages, read by TG Gifts (tggifts.com)",
+ "license": "CC BY 4.0 — attribution required: \"TG Gifts Index (tggifts.com)\" with a link",
+ "latest": {
+  "date": "2026-10-19",
+  "value": 100.62,
+  "change_1d_pct": 0.62,
+  "change_7d_pct": null,
+  "change_30d_pct": null,
+  "constituents": 94
+ },
+ "constituents": [
+  {
+   "slug": "artisanbrick",
+   "name": "Artisan Bricks",
+   "floor_prev_gram": 70,
+   "floor_gram": 70,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "astralshard",
+   "name": "Astral Shards",
+   "floor_prev_gram": 149,
+   "floor_gram": 149,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "bdaycandle",
+   "name": "B-Day Candles",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "bigyear",
+   "name": "Big Years",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "blingbinky",
+   "name": "Bling Binkies",
+   "floor_prev_gram": 30,
+   "floor_gram": 30,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "bondedring",
+   "name": "Bonded Rings",
+   "floor_prev_gram": 44,
+   "floor_gram": 43,
+   "change_pct": -2.27,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "bowtie",
+   "name": "Bow Ties",
+   "floor_prev_gram": 6,
+   "floor_gram": 6,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "bunnymuffin",
+   "name": "Bunny Muffins",
+   "floor_prev_gram": 9,
+   "floor_gram": 9,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "candycane",
+   "name": "Candy Canes",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "chillflame",
+   "name": "Chill Flames",
+   "floor_prev_gram": 4,
+   "floor_gram": 5,
+   "change_pct": 25,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "cloverpin",
+   "name": "Clover Pins",
+   "floor_prev_gram": 5,
+   "floor_gram": 6,
+   "change_pct": 20,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "cookieheart",
+   "name": "Cookie Hearts",
+   "floor_prev_gram": 6,
+   "floor_gram": 6,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "crystalball",
+   "name": "Crystal Balls",
+   "floor_prev_gram": 14,
+   "floor_gram": 14,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "cupidcharm",
+   "name": "Cupid Charms",
+   "floor_prev_gram": 23,
+   "floor_gram": 23,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "deskcalendar",
+   "name": "Desk Calendars",
+   "floor_prev_gram": 7,
+   "floor_gram": 7,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "diamondring",
+   "name": "Diamond Rings",
+   "floor_prev_gram": 33,
+   "floor_gram": 33,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "easteregg",
+   "name": "Easter Eggs",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "electricskull",
+   "name": "Electric Skulls",
+   "floor_prev_gram": 29,
+   "floor_gram": 29,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "eternalcandle",
+   "name": "Eternal Candles",
+   "floor_prev_gram": 7,
+   "floor_gram": 7,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "faithamulet",
+   "name": "Faith Amulets",
+   "floor_prev_gram": 7,
+   "floor_gram": 7,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "finepen",
+   "name": "Fine Pens",
+   "floor_prev_gram": 8,
+   "floor_gram": 8,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "flyingbroom",
+   "name": "Flying Brooms",
+   "floor_prev_gram": 13,
+   "floor_gram": 13,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "freshsocks",
+   "name": "Fresh Socks",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "gemsignet",
+   "name": "Gem Signets",
+   "floor_prev_gram": 72,
+   "floor_gram": 72,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "genielamp",
+   "name": "Genie Lamps",
+   "floor_prev_gram": 40,
+   "floor_gram": 40,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "gingercookie",
+   "name": "Ginger Cookies",
+   "floor_prev_gram": 6,
+   "floor_gram": 6,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "hangingstar",
+   "name": "Hanging Stars",
+   "floor_prev_gram": 10,
+   "floor_gram": 10,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "happybrownie",
+   "name": "Happy Brownies",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "heroichelmet",
+   "name": "Heroic Helmets",
+   "floor_prev_gram": 219,
+   "floor_gram": 219,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "hypnolollipop",
+   "name": "Hypno Lollipops",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "icecream",
+   "name": "Ice Creams",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "inputkey",
+   "name": "Input Keys",
+   "floor_prev_gram": 7,
+   "floor_gram": 7,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "instantramen",
+   "name": "Instant Ramens",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "iongem",
+   "name": "Ion Gems",
+   "floor_prev_gram": 79,
+   "floor_gram": 79,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "ionicdryer",
+   "name": "Ionic Dryers",
+   "floor_prev_gram": 16,
+   "floor_gram": 16,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "jackinthebox",
+   "name": "Jacks-in-the-Box",
+   "floor_prev_gram": 6,
+   "floor_gram": 6,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "jesterhat",
+   "name": "Jester Hats",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "jinglebells",
+   "name": "Jingle Bells",
+   "floor_prev_gram": 11,
+   "floor_gram": 11,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "jollychimp",
+   "name": "Jolly Chimps",
+   "floor_prev_gram": 8,
+   "floor_gram": 8,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "joyfulbundle",
+   "name": "Joyful Bundles",
+   "floor_prev_gram": 11,
+   "floor_gram": 11,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "khabibspapakha",
+   "name": "Khabib’s Papakhas",
+   "floor_prev_gram": 29,
+   "floor_gram": 29,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "libertyfigure",
+   "name": "Liberty Figures",
+   "floor_prev_gram": 5,
+   "floor_gram": 6,
+   "change_pct": 20,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "lightsword",
+   "name": "Light Swords",
+   "floor_prev_gram": 7,
+   "floor_gram": 7,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "lolpop",
+   "name": "Lol Pops",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "lootbag",
+   "name": "Loot Bags",
+   "floor_prev_gram": 141,
+   "floor_gram": 141,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "lovecandle",
+   "name": "Love Candles",
+   "floor_prev_gram": 12,
+   "floor_gram": 12,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "lovepotion",
+   "name": "Love Potions",
+   "floor_prev_gram": 15,
+   "floor_gram": 15,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "lowrider",
+   "name": "Low Riders",
+   "floor_prev_gram": 63,
+   "floor_gram": 63,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "lunarsnake",
+   "name": "Lunar Snakes",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "lushbouquet",
+   "name": "Lush Bouquets",
+   "floor_prev_gram": 7,
+   "floor_gram": 7,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "madpumpkin",
+   "name": "Mad Pumpkins",
+   "floor_prev_gram": 17,
+   "floor_gram": 18,
+   "change_pct": 5.88,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "mightyarm",
+   "name": "Mighty Arms",
+   "floor_prev_gram": 150,
+   "floor_gram": 150,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "minioscar",
+   "name": "Mini Oscars",
+   "floor_prev_gram": 78,
+   "floor_gram": 78,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "moneypot",
+   "name": "Money Pots",
+   "floor_prev_gram": 6,
+   "floor_gram": 6,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "moodpack",
+   "name": "Mood Packs",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "moonpendant",
+   "name": "Moon Pendants",
+   "floor_prev_gram": 7,
+   "floor_gram": 7,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "moussecake",
+   "name": "Mousse Cakes",
+   "floor_prev_gram": 6,
+   "floor_gram": 6,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "nailbracelet",
+   "name": "Nail Bracelets",
+   "floor_prev_gram": 125,
+   "floor_gram": 125,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "nekohelmet",
+   "name": "Neko Helmets",
+   "floor_prev_gram": 40,
+   "floor_gram": 40,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "partysparkler",
+   "name": "Party Sparklers",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "petsnake",
+   "name": "Pet Snakes",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "poolfloat",
+   "name": "Pool Floats",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "prettyposy",
+   "name": "Pretty Posies",
+   "floor_prev_gram": 6,
+   "floor_gram": 6,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "rarebird",
+   "name": "Rare Birds",
+   "floor_prev_gram": 30,
+   "floor_gram": 30,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "recordplayer",
+   "name": "Record Players",
+   "floor_prev_gram": 13,
+   "floor_gram": 13,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "restlessjar",
+   "name": "Restless Jars",
+   "floor_prev_gram": 6,
+   "floor_gram": 6,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "sakuraflower",
+   "name": "Sakura Flowers",
+   "floor_prev_gram": 10,
+   "floor_gram": 10,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "skystilettos",
+   "name": "Sky Stilettos",
+   "floor_prev_gram": 19,
+   "floor_gram": 19,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "sleighbell",
+   "name": "Sleigh Bells",
+   "floor_prev_gram": 8,
+   "floor_gram": 8,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "snakebox",
+   "name": "Snake Boxes",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "snoopcigar",
+   "name": "Snoop Cigars",
+   "floor_prev_gram": 16,
+   "floor_gram": 16,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "snoopdogg",
+   "name": "Snoop Doggs",
+   "floor_prev_gram": 6,
+   "floor_gram": 6,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "snowglobe",
+   "name": "Snow Globes",
+   "floor_prev_gram": 7,
+   "floor_gram": 7,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "snowmittens",
+   "name": "Snow Mittens",
+   "floor_prev_gram": 7,
+   "floor_gram": 7,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "springbasket",
+   "name": "Spring Baskets",
+   "floor_prev_gram": 6,
+   "floor_gram": 6,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "starnotepad",
+   "name": "Star Notepads",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "stellarrocket",
+   "name": "Stellar Rockets",
+   "floor_prev_gram": 6,
+   "floor_gram": 6,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "surgeboard",
+   "name": "Surge Boards",
+   "floor_prev_gram": 9,
+   "floor_gram": 8,
+   "change_pct": -11.11,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "swagbag",
+   "name": "Swag Bags",
+   "floor_prev_gram": 6,
+   "floor_gram": 6,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "swisswatch",
+   "name": "Swiss Watches",
+   "floor_prev_gram": 56,
+   "floor_gram": 56,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "tamagadget",
+   "name": "Tama Gadgets",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "timelessbook",
+   "name": "Timeless Books",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "tophat",
+   "name": "Top Hats",
+   "floor_prev_gram": 11,
+   "floor_gram": 11,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "toybear",
+   "name": "Toy Bears",
+   "floor_prev_gram": 37,
+   "floor_gram": 37,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "ufcstrike",
+   "name": "UFC Strikes",
+   "floor_prev_gram": 17,
+   "floor_gram": 17,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "valentinebox",
+   "name": "Valentine Boxes",
+   "floor_prev_gram": 13,
+   "floor_gram": 13,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "vicecream",
+   "name": "Vice Creams",
+   "floor_prev_gram": 4,
+   "floor_gram": 4,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "victorymedal",
+   "name": "Victory Medals",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "whipcupcake",
+   "name": "Whip Cupcakes",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "winterwreath",
+   "name": "Winter Wreaths",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "witchhat",
+   "name": "Witch Hats",
+   "floor_prev_gram": 8,
+   "floor_gram": 8,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "xmasstocking",
+   "name": "Xmas Stockings",
+   "floor_prev_gram": 5,
+   "floor_gram": 5,
+   "change_pct": 0,
+   "recent_sales": "60+",
+   "weight_pct": 1.07
+  },
+  {
+   "slug": "durovsglasses",
+   "name": "Durov’s Glasses",
+   "floor_prev_gram": 189,
+   "floor_gram": 189,
+   "change_pct": 0,
+   "recent_sales": 33,
+   "weight_pct": 0.59
+  },
+  {
+   "slug": "heartlocket",
+   "name": "Heart Lockets",
+   "floor_prev_gram": 1444,
+   "floor_gram": 1444,
+   "change_pct": 0,
+   "recent_sales": 29,
+   "weight_pct": 0.52
+  }
+ ],
+ "series": [
+  {
+   "date": "2026-10-18",
+   "value": 100,
+   "change_pct": null,
+   "constituents": 86
+  },
+  {
+   "date": "2026-10-19",
+   "value": 100.62,
+   "change_pct": 0.62,
+   "constituents": 94
+  }
+ ],
+ "corrections": []
+}
