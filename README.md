@@ -22,6 +22,9 @@ A daily, chain-linked, liquidity-weighted index of Fragment gift collection floo
 
 `floor_gram` is the cheapest Fragment listing price in GRAM (formerly TON). `recent_sales` is the number of recent sales visible on the collection page that day.
 
+## Reading the data: guides
+Plain explanations of the terms in these files (EN / RU / FA): [all guides](https://tggifts.com/guides) · [what a floor price is](https://tggifts.com/guide/telegram-gift-floor-price) · [gift rarity (‰) explained](https://tggifts.com/guide/telegram-gift-rarity) · [most expensive gifts right now](https://tggifts.com/guide/most-expensive-telegram-gifts) · [GRAM vs TON](https://tggifts.com/guide/gram-vs-ton) · [glossary](https://tggifts.com/guide/telegram-gifts-glossary) · [флор подарков (RU)](https://tggifts.com/ru/guide/flor-podarkov-telegram) · [گیفت تلگرام چیست (FA)](https://tggifts.com/fa/guide/what-are-telegram-gifts).
+
 ## Method and limits
 - How values are computed: [tggifts.com/how-we-value](https://tggifts.com/how-we-value).
 - **Fragment only.** Off-chain markets (Portals, Tonnel, MRKT, Getgems off-chain) are not included, so collections that trade only there (e.g. new upgrades before they reach Fragment) have no or misleading floors.
