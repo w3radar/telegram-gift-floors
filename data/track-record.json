@@ -1,6 +1,20 @@
 {
  "source": "https://tggifts.com/track-record",
- "generated": "2026-10-19T17:45:04.259Z",
+ "generated": "2026-10-20T04:36:45.488Z",
  "note": "Hunts younger than 24h are withheld. Outcomes are read from each item's public Fragment page; 'unknown' means no public sale price was found. estimated_profit is an estimate at alert time, not realised profit.",
- "hunts": []
+ "hunts": [
+  {
+   "found": "2026-10-18T23:30:22.121Z",
+   "type": "username",
+   "item": "@gxgggg",
+   "fragment_url": "https://fragment.com/username/gxgggg",
+   "price_at_alert": 36,
+   "our_estimated_value": 97.5,
+   "estimated_profit_after_5pct_fee": 56.63,
+   "outcome": {
+    "status": "still_listed"
+   },
+   "outcome_checked_at": "2026-10-19T22:37:23.235Z"
+  }
+ ]
 }
