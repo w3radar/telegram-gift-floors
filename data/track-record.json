@@ -1,8 +1,23 @@
 {
  "source": "https://tggifts.com/track-record",
- "generated": "2026-10-21T13:00:51.545Z",
+ "generated": "2026-10-21T16:23:22.479Z",
  "note": "Hunts younger than 24h are withheld. Outcomes are read from each item's public Fragment page; 'unknown' means no public sale price was found. estimated_profit is an estimate at alert time, not realised profit.",
  "hunts": [
+  {
+   "found": "2026-10-20T13:05:22.121Z",
+   "type": "username_auction",
+   "item": "@ffgfgf",
+   "fragment_url": "https://fragment.com/username/ffgfgf",
+   "min_bid_at_alert": 11,
+   "our_estimated_value": 106.5,
+   "estimated_profit_after_5pct_fee": null,
+   "outcome": {
+    "status": "sold",
+    "price": 10,
+    "sold_at": "2026-10-20T13:12:48.000Z"
+   },
+   "outcome_checked_at": "2026-10-20T16:06:49.153Z"
+  },
   {
    "found": "2026-10-20T08:25:22.121Z",
    "type": "username",
@@ -14,7 +29,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-21T07:38:06.618Z"
+   "outcome_checked_at": "2026-10-21T13:38:16.660Z"
   },
   {
    "found": "2026-10-20T01:20:22.121Z",
@@ -68,7 +83,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-21T09:38:42.847Z"
+   "outcome_checked_at": "2026-10-21T15:39:31.892Z"
   },
   {
    "found": "2026-10-19T09:10:22.121Z",
@@ -94,7 +109,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-21T07:28:41.694Z"
+   "outcome_checked_at": "2026-10-21T13:28:53.352Z"
   },
   {
    "found": "2026-10-19T07:56:02.772Z",
@@ -107,7 +122,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-21T07:10:54.616Z"
+   "outcome_checked_at": "2026-10-21T13:11:04.390Z"
   },
   {
    "found": "2026-10-19T07:56:02.772Z",
@@ -120,7 +135,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-21T07:11:57.039Z"
+   "outcome_checked_at": "2026-10-21T13:12:06.793Z"
   },
   {
    "found": "2026-10-19T05:10:22.121Z",
