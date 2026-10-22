@@ -105,44 +105,44 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,bdaycandle,B-Day Candles,Wicked,12,6,1
 2026-10-20,bdaycandle,B-Day Candles,Winter Noon,15,6,1
 2026-10-20,bigyear,Big Years,2048,29,6,1
-2026-10-20,bigyear,Big Years,A New Hope,,5,2
+2026-10-20,bigyear,Big Years,A New Hope,18,5,2
 2026-10-20,bigyear,Big Years,AC/DC,,6,1
 2026-10-20,bigyear,Big Years,Christmas Carol,23,6,1
-2026-10-20,bigyear,Big Years,Cyberpunk,,6,2
+2026-10-20,bigyear,Big Years,Cyberpunk,29,6,2
 2026-10-20,bigyear,Big Years,Da Vinci,18,5,3
-2026-10-20,bigyear,Big Years,First Flight,,6,1
+2026-10-20,bigyear,Big Years,First Flight,18,6,1
 2026-10-20,bigyear,Big Years,Freddy,29,6,1
-2026-10-20,bigyear,Big Years,Frida Kahlo,,6,1
+2026-10-20,bigyear,Big Years,Frida Kahlo,12,6,1
 2026-10-20,bigyear,Big Years,Industrial,23,5,3
-2026-10-20,bigyear,Big Years,Mauveine,,6,1
-2026-10-20,bigyear,Big Years,Night Bat,,6,2
+2026-10-20,bigyear,Big Years,Mauveine,18,6,1
+2026-10-20,bigyear,Big Years,Night Bat,23,6,2
 2026-10-20,bigyear,Big Years,Nuclein,23,5,1
-2026-10-20,bigyear,Big Years,Periodic Table,,6,2
-2026-10-20,bigyear,Big Years,Qing Dynasty,,6,2
-2026-10-20,bigyear,Big Years,Salvador Dali,,5,4
+2026-10-20,bigyear,Big Years,Periodic Table,23,6,2
+2026-10-20,bigyear,Big Years,Qing Dynasty,18,6,2
+2026-10-20,bigyear,Big Years,Salvador Dali,18,5,4
 2026-10-20,bigyear,Big Years,Spider Sense,23,6,1
-2026-10-20,bigyear,Big Years,Steve Jobs,,5,2
+2026-10-20,bigyear,Big Years,Steve Jobs,23,5,2
 2026-10-20,bigyear,Big Years,Van Gogh,18,5,2
 2026-10-20,bigyear,Big Years,War and Peace,18,6,2
 2026-10-20,bigyear,Big Years,Wizard Boy,23,6,2
 2026-10-20,bigyear,Big Years,YouTubes,21,6,4
 2026-10-20,blingbinky,Bling Binkies,Black Metal,20,44,1
-2026-10-20,blingbinky,Bling Binkies,Bloodsucker,,55,1
-2026-10-20,blingbinky,Bling Binkies,Bullet,,35,2
-2026-10-20,blingbinky,Bling Binkies,Crystal Wings,,55,1
-2026-10-20,blingbinky,Bling Binkies,Cthulhu,,39,3
+2026-10-20,blingbinky,Bling Binkies,Bloodsucker,30,55,1
+2026-10-20,blingbinky,Bling Binkies,Bullet,30,35,2
+2026-10-20,blingbinky,Bling Binkies,Crystal Wings,25,55,1
+2026-10-20,blingbinky,Bling Binkies,Cthulhu,20,39,3
 2026-10-20,blingbinky,Bling Binkies,Event Horizon,20,38,3
 2026-10-20,blingbinky,Bling Binkies,First Ax,20,37,2
-2026-10-20,blingbinky,Bling Binkies,Gem Seeker,,35,5
+2026-10-20,blingbinky,Bling Binkies,Gem Seeker,30,35,5
 2026-10-20,blingbinky,Bling Binkies,Grizzly Bear,15,48,4
 2026-10-20,blingbinky,Bling Binkies,Ice Queen,15,44,1
 2026-10-20,blingbinky,Bling Binkies,Irish Kiss,30,30,3
 2026-10-20,blingbinky,Bling Binkies,Marmalade,30,35,5
 2026-10-20,blingbinky,Bling Binkies,Peach Flower,10,44,1
-2026-10-20,blingbinky,Bling Binkies,Rancho,,43,6
-2026-10-20,blingbinky,Bling Binkies,Red Bull,,49,1
-2026-10-20,blingbinky,Bling Binkies,Regent,,35,4
-2026-10-20,blingbinky,Bling Binkies,Shellfish,,35,1
+2026-10-20,blingbinky,Bling Binkies,Rancho,25,43,6
+2026-10-20,blingbinky,Bling Binkies,Red Bull,25,49,1
+2026-10-20,blingbinky,Bling Binkies,Regent,30,35,4
+2026-10-20,blingbinky,Bling Binkies,Shellfish,30,35,1
 2026-10-20,blingbinky,Bling Binkies,Shiny Armor,25,40,2
 2026-10-20,blingbinky,Bling Binkies,Soccer,20,33,3
 2026-10-20,blingbinky,Bling Binkies,The Ankh,20,50,3
@@ -158,7 +158,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,bondedring,Bonded Rings,Dalmatian,21,59,1
 2026-10-20,bondedring,Bonded Rings,Duo Vision,21,49,6
 2026-10-20,bondedring,Bonded Rings,Eclipse,21,59,1
-2026-10-20,bondedring,Bonded Rings,Fireball,,75,1
+2026-10-20,bondedring,Bonded Rings,Fireball,12,75,1
 2026-10-20,bondedring,Bonded Rings,Highway,12,88,1
 2026-10-20,bondedring,Bonded Rings,Hot Wheel,18,46,4
 2026-10-20,bondedring,Bonded Rings,Ironwood,21,49,1
@@ -167,7 +167,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,bondedring,Bonded Rings,Line Art,35,80,1
 2026-10-20,bondedring,Bonded Rings,Magic Runes,21,88,1
 2026-10-20,bondedring,Bonded Rings,Miami Art,35,85,2
-2026-10-20,bondedring,Bonded Rings,Neon Pulse,,45,2
+2026-10-20,bondedring,Bonded Rings,Neon Pulse,18,45,2
 2026-10-20,bondedring,Bonded Rings,Pixel Loot,18,59,4
 2026-10-20,bondedring,Bonded Rings,Rainbow,18,72,1
 2026-10-20,bondedring,Bonded Rings,Rainbow Halo,21,88,1
@@ -177,13 +177,13 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,bondedring,Bonded Rings,Spectrum,35,59,1
 2026-10-20,bondedring,Bonded Rings,Tiger Amulet,,75,1
 2026-10-20,bondedring,Bonded Rings,Yin Yang,35,60,5
-2026-10-20,bondedring,Bonded Rings,Zebra,,49,2
+2026-10-20,bondedring,Bonded Rings,Zebra,21,49,2
 2026-10-20,bowtie,Bow Ties,Billiards,30,8,4
 2026-10-20,bowtie,Bow Ties,Blue Morpho,25,8,1
-2026-10-20,bowtie,Bow Ties,Bumblebee,,8,5
+2026-10-20,bowtie,Bow Ties,Bumblebee,30,8,5
 2026-10-20,bowtie,Bow Ties,Cherries,35,7,2
 2026-10-20,bowtie,Bow Ties,Creator,20,10,1
-2026-10-20,bowtie,Bow Ties,Cupid’s Bow,,8,3
+2026-10-20,bowtie,Bow Ties,Cupid’s Bow,40,8,3
 2026-10-20,bowtie,Bow Ties,Dribble,30,8,2
 2026-10-20,bowtie,Bow Ties,Elephant,,8,1
 2026-10-20,bowtie,Bow Ties,Irish Knot,30,6,5
@@ -197,7 +197,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,bowtie,Bow Ties,The Lion,,10,1
 2026-10-20,bowtie,Bow Ties,The Raven,15,10,1
 2026-10-20,bowtie,Bow Ties,Utyan,20,8,1
-2026-10-20,bowtie,Bow Ties,Volleyball,,6,5
+2026-10-20,bowtie,Bow Ties,Volleyball,30,6,5
 2026-10-20,bunnymuffin,Bunny Muffins,Berry Tale,,12,2
 2026-10-20,bunnymuffin,Bunny Muffins,Brave Tiger,,13,1
 2026-10-20,bunnymuffin,Bunny Muffins,Bronze,,13,2
@@ -231,28 +231,28 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,bunnymuffin,Bunny Muffins,Young Chili,,9,4
 2026-10-20,bunnymuffin,Bunny Muffins,Сhamomile,,10,3
 2026-10-20,candycane,Candy Canes,Argento,20,5,2
-2026-10-20,candycane,Candy Canes,Bronzy,,5,5
-2026-10-20,candycane,Candy Canes,Cherry Charm,,7,5
+2026-10-20,candycane,Candy Canes,Bronzy,26,5,5
+2026-10-20,candycane,Candy Canes,Cherry Charm,20,7,5
 2026-10-20,candycane,Candy Canes,Colorfunk,26,6,1
 2026-10-20,candycane,Candy Canes,Demonius,20,6,1
 2026-10-20,candycane,Candy Canes,Diggory,26,6,2
 2026-10-20,candycane,Candy Canes,Golden Jelly,26,6,2
-2026-10-20,candycane,Candy Canes,Honeycomb,,7,3
+2026-10-20,candycane,Candy Canes,Honeycomb,10,7,3
 2026-10-20,candycane,Candy Canes,Iceblink,26,5,2
 2026-10-20,candycane,Candy Canes,Joker,26,6,2
-2026-10-20,candycane,Candy Canes,Lazy Nap,,7,1
+2026-10-20,candycane,Candy Canes,Lazy Nap,20,7,1
 2026-10-20,candycane,Candy Canes,Lime Twist,26,5,5
-2026-10-20,candycane,Candy Canes,Masterpiece,,7,1
-2026-10-20,candycane,Candy Canes,Minty Mirth,,6,1
+2026-10-20,candycane,Candy Canes,Masterpiece,6,7,1
+2026-10-20,candycane,Candy Canes,Minty Mirth,26,6,1
 2026-10-20,candycane,Candy Canes,Mythic Candy,6,7,1
-2026-10-20,candycane,Candy Canes,Neon Wave,,6,1
+2026-10-20,candycane,Candy Canes,Neon Wave,20,6,1
 2026-10-20,candycane,Candy Canes,Nightmare,20,6,3
 2026-10-20,candycane,Candy Canes,Old School,20,7,1
 2026-10-20,candycane,Candy Canes,Phantom,26,6,3
 2026-10-20,candycane,Candy Canes,Pink Mango,26,6,1
 2026-10-20,candycane,Candy Canes,Polka Pop,26,5,2
 2026-10-20,candycane,Candy Canes,Short Circuit,10,6,2
-2026-10-20,candycane,Candy Canes,Silver Frost,,5,1
+2026-10-20,candycane,Candy Canes,Silver Frost,26,5,1
 2026-10-20,candycane,Candy Canes,Starry Cane,26,5,3
 2026-10-20,candycane,Candy Canes,Sugar Crush,26,7,1
 2026-10-20,candycane,Candy Canes,Toxicane,26,7,1
@@ -265,87 +265,87 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,chillflame,Chill Flames,Carousel,,5,1
 2026-10-20,chillflame,Chill Flames,Desk Lamp,10,5,1
 2026-10-20,chillflame,Chill Flames,Elder Wand,15,5,1
-2026-10-20,chillflame,Chill Flames,Eternal Flame,,5,1
-2026-10-20,chillflame,Chill Flames,Flashlight,,5,3
+2026-10-20,chillflame,Chill Flames,Eternal Flame,30,5,1
+2026-10-20,chillflame,Chill Flames,Flashlight,20,5,3
 2026-10-20,chillflame,Chill Flames,Ionic Column,30,5,1
 2026-10-20,chillflame,Chill Flames,Lego,30,5,3
-2026-10-20,chillflame,Chill Flames,Los Angeles,,5,1
+2026-10-20,chillflame,Chill Flames,Los Angeles,30,5,1
 2026-10-20,chillflame,Chill Flames,Oil Lamp,30,5,4
-2026-10-20,chillflame,Chill Flames,Olympia,,5,3
-2026-10-20,chillflame,Chill Flames,Paper Lantern,,5,3
+2026-10-20,chillflame,Chill Flames,Olympia,30,5,3
+2026-10-20,chillflame,Chill Flames,Paper Lantern,30,5,3
 2026-10-20,chillflame,Chill Flames,Prometheus,30,5,1
-2026-10-20,chillflame,Chill Flames,Royal Goblet,,5,1
+2026-10-20,chillflame,Chill Flames,Royal Goblet,30,5,1
 2026-10-20,chillflame,Chill Flames,Spaceship,30,5,1
 2026-10-20,chillflame,Chill Flames,Spark Plug,30,5,4
 2026-10-20,chillflame,Chill Flames,Spring Grove,30,5,1
 2026-10-20,chillflame,Chill Flames,Tiki Torch,30,5,3
-2026-10-20,chillflame,Chill Flames,Tribal Totem,,5,1
+2026-10-20,chillflame,Chill Flames,Tribal Totem,30,5,1
 2026-10-20,chillflame,Chill Flames,Triumph,10,5,1
 2026-10-20,cloverpin,Clover Pins,Berry Waffle,20,7,7
 2026-10-20,cloverpin,Clover Pins,Cheese,15,7,1
-2026-10-20,cloverpin,Clover Pins,Fortune Cookie,,6,9
-2026-10-20,cloverpin,Clover Pins,Golden Ticket,,7,1
-2026-10-20,cloverpin,Clover Pins,Ice Cream,,6,3
-2026-10-20,cloverpin,Clover Pins,Joystick,,7,6
-2026-10-20,cloverpin,Clover Pins,Lava Lamp,,6,3
+2026-10-20,cloverpin,Clover Pins,Fortune Cookie,20,6,9
+2026-10-20,cloverpin,Clover Pins,Golden Ticket,20,7,1
+2026-10-20,cloverpin,Clover Pins,Ice Cream,20,6,3
+2026-10-20,cloverpin,Clover Pins,Joystick,20,7,6
+2026-10-20,cloverpin,Clover Pins,Lava Lamp,20,6,3
 2026-10-20,cloverpin,Clover Pins,Lollipop,20,7,1
 2026-10-20,cloverpin,Clover Pins,Matrix,30,7,1
 2026-10-20,cloverpin,Clover Pins,Needlework,20,7,2
 2026-10-20,cloverpin,Clover Pins,Orange Juice,20,7,4
-2026-10-20,cloverpin,Clover Pins,Pepperoni,,7,6
+2026-10-20,cloverpin,Clover Pins,Pepperoni,15,7,6
 2026-10-20,cloverpin,Clover Pins,Pinwheel,20,7,5
 2026-10-20,cloverpin,Clover Pins,Top Student,30,7,7
 2026-10-20,cookieheart,Cookie Hearts,Carefree,10,6,4
-2026-10-20,cookieheart,Cookie Hearts,Changeling,,6,2
-2026-10-20,cookieheart,Cookie Hearts,Cheesecake,,6,1
-2026-10-20,cookieheart,Cookie Hearts,Chilled,,6,3
+2026-10-20,cookieheart,Cookie Hearts,Changeling,15,6,2
+2026-10-20,cookieheart,Cookie Hearts,Cheesecake,10,6,1
+2026-10-20,cookieheart,Cookie Hearts,Chilled,15,6,3
 2026-10-20,cookieheart,Cookie Hearts,Doughnut,10,6,2
 2026-10-20,cookieheart,Cookie Hearts,Elven Bakery,15,6,2
-2026-10-20,cookieheart,Cookie Hearts,Fried Egg,,6,1
+2026-10-20,cookieheart,Cookie Hearts,Fried Egg,10,6,1
 2026-10-20,cookieheart,Cookie Hearts,Hearth,15,6,1
 2026-10-20,cookieheart,Cookie Hearts,Honeymoon,10,6,4
 2026-10-20,cookieheart,Cookie Hearts,Infinity Gems,10,6,1
 2026-10-20,cookieheart,Cookie Hearts,Late Fall,10,6,1
 2026-10-20,cookieheart,Cookie Hearts,Meadow,15,6,2
-2026-10-20,cookieheart,Cookie Hearts,Mint Cream,,6,1
-2026-10-20,cookieheart,Cookie Hearts,Nightmare,,6,3
+2026-10-20,cookieheart,Cookie Hearts,Mint Cream,15,6,1
+2026-10-20,cookieheart,Cookie Hearts,Nightmare,5,6,3
 2026-10-20,cookieheart,Cookie Hearts,Oatmeal Star,10,6,3
-2026-10-20,cookieheart,Cookie Hearts,Pink Yogurt,,6,1
+2026-10-20,cookieheart,Cookie Hearts,Pink Yogurt,15,6,1
 2026-10-20,cookieheart,Cookie Hearts,Red Apple,10,6,3
-2026-10-20,cookieheart,Cookie Hearts,Red Blues,,6,1
+2026-10-20,cookieheart,Cookie Hearts,Red Blues,15,6,1
 2026-10-20,cookieheart,Cookie Hearts,Rosaria,15,6,1
-2026-10-20,cookieheart,Cookie Hearts,Sprinkles,,6,2
+2026-10-20,cookieheart,Cookie Hearts,Sprinkles,10,6,2
 2026-10-20,cookieheart,Cookie Hearts,Strawberry,10,6,1
 2026-10-20,cookieheart,Cookie Hearts,Sunlight,15,6,2
 2026-10-20,cookieheart,Cookie Hearts,The Star,10,6,1
 2026-10-20,cookieheart,Cookie Hearts,The Triangle,10,6,3
-2026-10-20,cookieheart,Cookie Hearts,The Umbrella,,6,1
+2026-10-20,cookieheart,Cookie Hearts,The Umbrella,10,6,1
 2026-10-20,cookieheart,Cookie Hearts,Vanilla,15,6,1
-2026-10-20,cookieheart,Cookie Hearts,Watermelon,,6,1
+2026-10-20,cookieheart,Cookie Hearts,Watermelon,10,6,1
 2026-10-20,crystalball,Crystal Balls,Bozo Clown,10,17,6
-2026-10-20,crystalball,Crystal Balls,Brain Freeze,,19,1
-2026-10-20,crystalball,Crystal Balls,Cartoon,,15,1
+2026-10-20,crystalball,Crystal Balls,Brain Freeze,30,19,1
+2026-10-20,crystalball,Crystal Balls,Cartoon,20,15,1
 2026-10-20,crystalball,Crystal Balls,Daisy,10,17,10
-2026-10-20,crystalball,Crystal Balls,Deathquik,,16,3
+2026-10-20,crystalball,Crystal Balls,Deathquik,30,16,3
 2026-10-20,crystalball,Crystal Balls,Druid Circle,5,19,2
-2026-10-20,crystalball,Crystal Balls,Fatal Error,,15,1
-2026-10-20,crystalball,Crystal Balls,Futuristic,,17,3
-2026-10-20,crystalball,Crystal Balls,Hot Head,,17,1
-2026-10-20,crystalball,Crystal Balls,Martian,,14,1
+2026-10-20,crystalball,Crystal Balls,Fatal Error,30,15,1
+2026-10-20,crystalball,Crystal Balls,Futuristic,30,17,3
+2026-10-20,crystalball,Crystal Balls,Hot Head,20,17,1
+2026-10-20,crystalball,Crystal Balls,Martian,30,14,1
 2026-10-20,crystalball,Crystal Balls,Nebula,10,16,4
 2026-10-20,crystalball,Crystal Balls,Oculus,10,15,3
-2026-10-20,crystalball,Crystal Balls,Original Sin,,15,4
-2026-10-20,crystalball,Crystal Balls,Peridot,,17,1
-2026-10-20,crystalball,Crystal Balls,Pink Chess,,16,2
-2026-10-20,crystalball,Crystal Balls,Prophet,,19,1
-2026-10-20,crystalball,Crystal Balls,Rainbow,,19,1
-2026-10-20,crystalball,Crystal Balls,Red Skull,,19,1
-2026-10-20,crystalball,Crystal Balls,Refreshing,,19,1
+2026-10-20,crystalball,Crystal Balls,Original Sin,10,15,4
+2026-10-20,crystalball,Crystal Balls,Peridot,30,17,1
+2026-10-20,crystalball,Crystal Balls,Pink Chess,20,16,2
+2026-10-20,crystalball,Crystal Balls,Prophet,30,19,1
+2026-10-20,crystalball,Crystal Balls,Rainbow,20,19,1
+2026-10-20,crystalball,Crystal Balls,Red Skull,30,19,1
+2026-10-20,crystalball,Crystal Balls,Refreshing,30,19,1
 2026-10-20,crystalball,Crystal Balls,Samhain,10,19,3
-2026-10-20,crystalball,Crystal Balls,Seeing Red,,16,2
-2026-10-20,crystalball,Crystal Balls,Skullberry,,16,3
-2026-10-20,crystalball,Crystal Balls,Spice Storm,,18,2
-2026-10-20,crystalball,Crystal Balls,Warhol,,19,1
+2026-10-20,crystalball,Crystal Balls,Seeing Red,30,16,2
+2026-10-20,crystalball,Crystal Balls,Skullberry,10,16,3
+2026-10-20,crystalball,Crystal Balls,Spice Storm,20,18,2
+2026-10-20,crystalball,Crystal Balls,Warhol,20,19,1
 2026-10-20,cupidcharm,Cupid Charms,Azure Gem,25,28,1
 2026-10-20,cupidcharm,Cupid Charms,Blood Gem,30,23,2
 2026-10-20,cupidcharm,Cupid Charms,Blossom,,40,3
@@ -375,12 +375,12 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,cupidcharm,Cupid Charms,Surgery,20,36,1
 2026-10-20,cupidcharm,Cupid Charms,Vault,20,33,4
 2026-10-20,cupidcharm,Cupid Charms,White Claws,30,35,3
-2026-10-20,deskcalendar,Desk Calendars,August,,7,1
+2026-10-20,deskcalendar,Desk Calendars,August,5,7,1
 2026-10-20,deskcalendar,Desk Calendars,Balloon Face,2,8,1
 2026-10-20,deskcalendar,Desk Calendars,Basic Blue,13,7,1
 2026-10-20,deskcalendar,Desk Calendars,Beet Diary,13,8,1
 2026-10-20,deskcalendar,Desk Calendars,Black Flip,14,8,1
-2026-10-20,deskcalendar,Desk Calendars,Blossoms,,8,1
+2026-10-20,deskcalendar,Desk Calendars,Blossoms,14,8,1
 2026-10-20,deskcalendar,Desk Calendars,Burning Time,2,8,1
 2026-10-20,deskcalendar,Desk Calendars,Crunch Time,2,7,1
 2026-10-20,deskcalendar,Desk Calendars,Fire Path,14,8,1
@@ -391,7 +391,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,deskcalendar,Desk Calendars,Lemon,13,8,1
 2026-10-20,deskcalendar,Desk Calendars,Magic Flow,13,7,1
 2026-10-20,deskcalendar,Desk Calendars,Miami Beach,14,7,1
-2026-10-20,deskcalendar,Desk Calendars,Monday,,8,1
+2026-10-20,deskcalendar,Desk Calendars,Monday,5,8,1
 2026-10-20,deskcalendar,Desk Calendars,Pink Hearts,10,8,1
 2026-10-20,deskcalendar,Desk Calendars,Plum Peach,14,8,1
 2026-10-20,deskcalendar,Desk Calendars,Purple Mint,13,7,2
@@ -400,7 +400,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,deskcalendar,Desk Calendars,September,5,8,1
 2026-10-20,deskcalendar,Desk Calendars,Sherlock,4,7,1
 2026-10-20,deskcalendar,Desk Calendars,Tic Tac Toe,3,8,1
-2026-10-20,deskcalendar,Desk Calendars,Wednesday,,7,1
+2026-10-20,deskcalendar,Desk Calendars,Wednesday,5,7,1
 2026-10-20,diamondring,Diamond Rings,Arabian Night,15,37,2
 2026-10-20,diamondring,Diamond Rings,Aurora,15,47,1
 2026-10-20,diamondring,Diamond Rings,Azurite,15,45,1
@@ -425,14 +425,14 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,diamondring,Diamond Rings,Honeydew,15,50,1
 2026-10-20,diamondring,Diamond Rings,Hot Pink,15,39,1
 2026-10-20,diamondring,Diamond Rings,Mikado Yellow,15,33,2
-2026-10-20,diamondring,Diamond Rings,Nightshade,,49,1
+2026-10-20,diamondring,Diamond Rings,Nightshade,15,49,1
 2026-10-20,diamondring,Diamond Rings,Ocean Agate,5,40,1
 2026-10-20,diamondring,Diamond Rings,Peridot,15,44,2
 2026-10-20,diamondring,Diamond Rings,Pink Diamond,5,40,2
 2026-10-20,diamondring,Diamond Rings,Pink Lover,5,48,1
 2026-10-20,diamondring,Diamond Rings,Princess Cut,15,50,4
 2026-10-20,diamondring,Diamond Rings,Quick Silver,15,45,2
-2026-10-20,diamondring,Diamond Rings,Red Velvet,,54,1
+2026-10-20,diamondring,Diamond Rings,Red Velvet,5,54,1
 2026-10-20,diamondring,Diamond Rings,Red Wedding,15,47,1
 2026-10-20,diamondring,Diamond Rings,Space Steel,15,55,1
 2026-10-20,diamondring,Diamond Rings,Sunset,10,50,1
@@ -450,7 +450,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,durovsglasses,Durov’s Glasses,Dogfight,20,350,1
 2026-10-20,durovsglasses,Durov’s Glasses,Finish Line,25,650,2
 2026-10-20,durovsglasses,Durov’s Glasses,Glam Hero,20,300,2
-2026-10-20,durovsglasses,Durov’s Glasses,Googly Eyes,,255,2
+2026-10-20,durovsglasses,Durov’s Glasses,Googly Eyes,30,255,2
 2026-10-20,durovsglasses,Durov’s Glasses,Inuit,15,333,2
 2026-10-20,durovsglasses,Durov’s Glasses,Kaleidoscope,25,366,1
 2026-10-20,durovsglasses,Durov’s Glasses,Leopard Glam,20,700,2
@@ -474,15 +474,15 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,easteregg,Easter Eggs,Ball of Steel,25,6,1
 2026-10-20,easteregg,Easter Eggs,Brick Wall,25,5,3
 2026-10-20,easteregg,Easter Eggs,Bronze,25,6,2
-2026-10-20,easteregg,Easter Eggs,Cactus,,6,1
+2026-10-20,easteregg,Easter Eggs,Cactus,10,6,1
 2026-10-20,easteregg,Easter Eggs,Crown Prince,25,6,1
 2026-10-20,easteregg,Easter Eggs,Eggburger,20,6,3
-2026-10-20,easteregg,Easter Eggs,Egghead,,6,2
+2026-10-20,easteregg,Easter Eggs,Egghead,10,6,2
 2026-10-20,easteregg,Easter Eggs,Fish Pod,20,6,1
 2026-10-20,easteregg,Easter Eggs,Flower Bed,25,6,1
 2026-10-20,easteregg,Easter Eggs,Flowers,25,5,2
-2026-10-20,easteregg,Easter Eggs,Khokhloma,,5,2
-2026-10-20,easteregg,Easter Eggs,Koshchei,,6,2
+2026-10-20,easteregg,Easter Eggs,Khokhloma,25,5,2
+2026-10-20,easteregg,Easter Eggs,Koshchei,10,6,2
 2026-10-20,easteregg,Easter Eggs,Ladybird,20,5,4
 2026-10-20,easteregg,Easter Eggs,Magic Key,20,6,1
 2026-10-20,easteregg,Easter Eggs,Matryoshka,25,5,2
@@ -493,41 +493,41 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,easteregg,Easter Eggs,Purple Bird,25,6,3
 2026-10-20,easteregg,Easter Eggs,Scrambull,20,6,1
 2026-10-20,easteregg,Easter Eggs,Stamper,20,6,1
-2026-10-20,easteregg,Easter Eggs,Starry Gift,,6,2
+2026-10-20,easteregg,Easter Eggs,Starry Gift,10,6,2
 2026-10-20,easteregg,Easter Eggs,Treasure Map,15,6,1
-2026-10-20,electricskull,Electric Skulls,Bone White,,47,1
-2026-10-20,electricskull,Electric Skulls,Brass Fossil,,50,5
-2026-10-20,electricskull,Electric Skulls,Cactus,,48,2
-2026-10-20,electricskull,Electric Skulls,Chromatic,,95,1
-2026-10-20,electricskull,Electric Skulls,Corpse Mint,,60,2
-2026-10-20,electricskull,Electric Skulls,Cute Monster,,66,2
-2026-10-20,electricskull,Electric Skulls,Dead Apple,,56,2
-2026-10-20,electricskull,Electric Skulls,Deadly Sweet,,59,2
-2026-10-20,electricskull,Electric Skulls,Deadman,,45,4
-2026-10-20,electricskull,Electric Skulls,Diablo,,35,1
-2026-10-20,electricskull,Electric Skulls,Frost Wraith,,35,3
-2026-10-20,electricskull,Electric Skulls,Half Alive,,100,1
-2026-10-20,electricskull,Electric Skulls,Happy End,,100,1
-2026-10-20,electricskull,Electric Skulls,Herbal Glow,,100,1
-2026-10-20,electricskull,Electric Skulls,Indigo Husk,,29,2
-2026-10-20,electricskull,Electric Skulls,Neon Green,,49,2
-2026-10-20,electricskull,Electric Skulls,Nightfall,,90,1
-2026-10-20,electricskull,Electric Skulls,Phantom,,60,3
-2026-10-20,electricskull,Electric Skulls,Polka Dead,,80,1
-2026-10-20,electricskull,Electric Skulls,Radiant,,55,3
-2026-10-20,electricskull,Electric Skulls,Red Death,,40,2
-2026-10-20,electricskull,Electric Skulls,Rose Quartz,,32,2
-2026-10-20,electricskull,Electric Skulls,Ruby Eyes,,50,3
-2026-10-20,electricskull,Electric Skulls,Solar Stone,,29,4
-2026-10-20,electricskull,Electric Skulls,Tangerine,,29,6
-2026-10-20,electricskull,Electric Skulls,Twisted Heart,,125,1
-2026-10-20,electricskull,Electric Skulls,Void Totem,,69,1
-2026-10-20,electricskull,Electric Skulls,Wild Desire,,88,2
+2026-10-20,electricskull,Electric Skulls,Bone White,40,47,1
+2026-10-20,electricskull,Electric Skulls,Brass Fossil,40,50,5
+2026-10-20,electricskull,Electric Skulls,Cactus,15,48,2
+2026-10-20,electricskull,Electric Skulls,Chromatic,30,95,1
+2026-10-20,electricskull,Electric Skulls,Corpse Mint,30,60,2
+2026-10-20,electricskull,Electric Skulls,Cute Monster,15,66,2
+2026-10-20,electricskull,Electric Skulls,Dead Apple,10,56,2
+2026-10-20,electricskull,Electric Skulls,Deadly Sweet,30,59,2
+2026-10-20,electricskull,Electric Skulls,Deadman,40,45,4
+2026-10-20,electricskull,Electric Skulls,Diablo,40,35,1
+2026-10-20,electricskull,Electric Skulls,Frost Wraith,30,35,3
+2026-10-20,electricskull,Electric Skulls,Half Alive,8,100,1
+2026-10-20,electricskull,Electric Skulls,Happy End,15,100,1
+2026-10-20,electricskull,Electric Skulls,Herbal Glow,40,100,1
+2026-10-20,electricskull,Electric Skulls,Indigo Husk,40,29,2
+2026-10-20,electricskull,Electric Skulls,Neon Green,40,49,2
+2026-10-20,electricskull,Electric Skulls,Nightfall,20,90,1
+2026-10-20,electricskull,Electric Skulls,Phantom,20,60,3
+2026-10-20,electricskull,Electric Skulls,Polka Dead,15,80,1
+2026-10-20,electricskull,Electric Skulls,Radiant,30,55,3
+2026-10-20,electricskull,Electric Skulls,Red Death,30,40,2
+2026-10-20,electricskull,Electric Skulls,Rose Quartz,40,32,2
+2026-10-20,electricskull,Electric Skulls,Ruby Eyes,40,50,3
+2026-10-20,electricskull,Electric Skulls,Solar Stone,40,29,4
+2026-10-20,electricskull,Electric Skulls,Tangerine,40,29,6
+2026-10-20,electricskull,Electric Skulls,Twisted Heart,10,125,1
+2026-10-20,electricskull,Electric Skulls,Void Totem,10,69,1
+2026-10-20,electricskull,Electric Skulls,Wild Desire,10,88,2
 2026-10-20,eternalcandle,Eternal Candles,Blue Steel,15,8,2
 2026-10-20,eternalcandle,Eternal Candles,Bronze Rose,15,8,1
 2026-10-20,eternalcandle,Eternal Candles,Candyman,15,7,6
 2026-10-20,eternalcandle,Eternal Candles,Cool Metal,15,7,1
-2026-10-20,eternalcandle,Eternal Candles,Cranberry,,8,2
+2026-10-20,eternalcandle,Eternal Candles,Cranberry,15,8,2
 2026-10-20,eternalcandle,Eternal Candles,Floral Scent,10,8,1
 2026-10-20,eternalcandle,Eternal Candles,Gold Stars,10,7,2
 2026-10-20,eternalcandle,Eternal Candles,Gradient Wax,15,8,7
@@ -538,16 +538,16 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,eternalcandle,Eternal Candles,Iceberg,,8,1
 2026-10-20,eternalcandle,Eternal Candles,Jasmine,15,8,1
 2026-10-20,eternalcandle,Eternal Candles,Love Dreams,10,8,1
-2026-10-20,eternalcandle,Eternal Candles,Pop Art,,8,1
+2026-10-20,eternalcandle,Eternal Candles,Pop Art,15,8,1
 2026-10-20,eternalcandle,Eternal Candles,Purple Wave,15,8,1
 2026-10-20,eternalcandle,Eternal Candles,Rainbow,,8,1
 2026-10-20,eternalcandle,Eternal Candles,Red Melter,15,7,4
 2026-10-20,eternalcandle,Eternal Candles,Sugar Skull,10,8,1
 2026-10-20,eternalcandle,Eternal Candles,Sunrise,15,8,7
-2026-10-20,eternalcandle,Eternal Candles,Thick Honey,,7,2
+2026-10-20,eternalcandle,Eternal Candles,Thick Honey,15,7,2
 2026-10-20,eternalcandle,Eternal Candles,Tortuga,10,7,3
 2026-10-20,eternalcandle,Eternal Candles,Toxic Smoke,15,7,2
-2026-10-20,eternalcandle,Eternal Candles,Twilight,,7,1
+2026-10-20,eternalcandle,Eternal Candles,Twilight,15,7,1
 2026-10-20,eternalcandle,Eternal Candles,Unicorn,15,8,2
 2026-10-20,eternalcandle,Eternal Candles,Winter Mist,15,8,1
 2026-10-20,eternalcandle,Eternal Candles,Witch’s Candle,15,7,1
@@ -585,7 +585,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,finepen,Fine Pens,Constellation,20,13,2
 2026-10-20,finepen,Fine Pens,Dream Caster,20,10,1
 2026-10-20,finepen,Fine Pens,Elastic,30,10,3
-2026-10-20,finepen,Fine Pens,Imperial Gem,,14,1
+2026-10-20,finepen,Fine Pens,Imperial Gem,20,14,1
 2026-10-20,finepen,Fine Pens,London Fog,20,14,2
 2026-10-20,finepen,Fine Pens,Lotus Lines,20,12,1
 2026-10-20,finepen,Fine Pens,Master Stroke,15,13,1
@@ -598,33 +598,33 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,finepen,Fine Pens,Tsar Gold,20,14,1
 2026-10-20,finepen,Fine Pens,Umbra Inferno,25,12,1
 2026-10-20,finepen,Fine Pens,Wood Burn,20,9,6
-2026-10-20,flyingbroom,Flying Brooms,Emoji Engine,,15,1
-2026-10-20,flyingbroom,Flying Brooms,Fire Flight,,15,1
-2026-10-20,flyingbroom,Flying Brooms,Glitch Witch,,15,2
-2026-10-20,flyingbroom,Flying Brooms,Graveyard,,15,1
+2026-10-20,flyingbroom,Flying Brooms,Emoji Engine,15,15,1
+2026-10-20,flyingbroom,Flying Brooms,Fire Flight,15,15,1
+2026-10-20,flyingbroom,Flying Brooms,Glitch Witch,20,15,2
+2026-10-20,flyingbroom,Flying Brooms,Graveyard,20,15,1
 2026-10-20,flyingbroom,Flying Brooms,Hulk Juice,15,15,3
-2026-10-20,flyingbroom,Flying Brooms,Mint Sprint,,13,1
-2026-10-20,flyingbroom,Flying Brooms,Ravenclaw,,15,1
-2026-10-20,flyingbroom,Flying Brooms,Slime Time,,13,1
-2026-10-20,flyingbroom,Flying Brooms,Unreliable,,14,1
-2026-10-20,flyingbroom,Flying Brooms,Warm Oak,,15,1
-2026-10-20,flyingbroom,Flying Brooms,Zig-Zag,,15,1
-2026-10-20,freshsocks,Fresh Socks,Ambition,,7,2
+2026-10-20,flyingbroom,Flying Brooms,Mint Sprint,20,13,1
+2026-10-20,flyingbroom,Flying Brooms,Ravenclaw,15,15,1
+2026-10-20,flyingbroom,Flying Brooms,Slime Time,20,13,1
+2026-10-20,flyingbroom,Flying Brooms,Unreliable,15,14,1
+2026-10-20,flyingbroom,Flying Brooms,Warm Oak,25,15,1
+2026-10-20,flyingbroom,Flying Brooms,Zig-Zag,20,15,1
+2026-10-20,freshsocks,Fresh Socks,Ambition,30,7,2
 2026-10-20,freshsocks,Fresh Socks,Barry Allen,20,7,1
 2026-10-20,freshsocks,Fresh Socks,Biohazard,20,5,1
 2026-10-20,freshsocks,Fresh Socks,Brothers,20,6,1
 2026-10-20,freshsocks,Fresh Socks,Drumsticks,30,6,2
-2026-10-20,freshsocks,Fresh Socks,Foundation,,7,1
+2026-10-20,freshsocks,Fresh Socks,Foundation,20,7,1
 2026-10-20,freshsocks,Fresh Socks,Friend In Me,25,6,1
 2026-10-20,freshsocks,Fresh Socks,Garfield,30,6,2
-2026-10-20,freshsocks,Fresh Socks,Gunk Fight,,5,1
+2026-10-20,freshsocks,Fresh Socks,Gunk Fight,20,5,1
 2026-10-20,freshsocks,Fresh Socks,Heavy Rain,25,7,2
 2026-10-20,freshsocks,Fresh Socks,Leopard,30,6,1
 2026-10-20,freshsocks,Fresh Socks,Loyalty,30,6,3
 2026-10-20,freshsocks,Fresh Socks,Monsters,15,6,3
 2026-10-20,freshsocks,Fresh Socks,Moon Prism,15,6,1
 2026-10-20,freshsocks,Fresh Socks,Passion,30,6,3
-2026-10-20,freshsocks,Fresh Socks,Patriot,,6,6
+2026-10-20,freshsocks,Fresh Socks,Patriot,20,6,6
 2026-10-20,freshsocks,Fresh Socks,Peg Leg,20,6,2
 2026-10-20,freshsocks,Fresh Socks,Quest Item,10,7,1
 2026-10-20,freshsocks,Fresh Socks,Radioactive,15,7,1
@@ -640,7 +640,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,gemsignet,Gem Signets,Bloodstone,20,72,4
 2026-10-20,gemsignet,Gem Signets,Brass Zircon,35,150,2
 2026-10-20,gemsignet,Gem Signets,Dark Violet,40,110,1
-2026-10-20,gemsignet,Gem Signets,El Dorado,,199,1
+2026-10-20,gemsignet,Gem Signets,El Dorado,5,199,1
 2026-10-20,gemsignet,Gem Signets,Elven Shade,40,150,3
 2026-10-20,gemsignet,Gem Signets,Fading Crown,15,280,1
 2026-10-20,gemsignet,Gem Signets,Fleur de Mer,42,74,2
@@ -699,11 +699,11 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,gingercookie,Ginger Cookies,Dark Almond,12,6,1
 2026-10-20,gingercookie,Ginger Cookies,Gentleman,16,6,2
 2026-10-20,gingercookie,Ginger Cookies,Ginger Geek,,7,1
-2026-10-20,gingercookie,Ginger Cookies,Hazel Bezel,,6,1
+2026-10-20,gingercookie,Ginger Cookies,Hazel Bezel,7,6,1
 2026-10-20,gingercookie,Ginger Cookies,Ice Latte,,7,1
 2026-10-20,gingercookie,Ginger Cookies,Jolly Roger,,7,1
 2026-10-20,gingercookie,Ginger Cookies,Le Biscuit,6,7,1
-2026-10-20,gingercookie,Ginger Cookies,Lil Ginger,,6,2
+2026-10-20,gingercookie,Ginger Cookies,Lil Ginger,9,6,2
 2026-10-20,gingercookie,Ginger Cookies,Madagascar,12,6,3
 2026-10-20,gingercookie,Ginger Cookies,Marshmallow,,7,1
 2026-10-20,gingercookie,Ginger Cookies,Marzipan,17,6,4
@@ -720,19 +720,19 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,gingercookie,Ginger Cookies,Toblerone,,6,1
 2026-10-20,gingercookie,Ginger Cookies,Truffle,17,6,3
 2026-10-20,hangingstar,Hanging Stars,Beach Ball,11,17,1
-2026-10-20,hangingstar,Hanging Stars,Christmas,,15,1
+2026-10-20,hangingstar,Hanging Stars,Christmas,8,15,1
 2026-10-20,hangingstar,Hanging Stars,Cucumber,11,11,1
 2026-10-20,hangingstar,Hanging Stars,Flicker,14,17,1
-2026-10-20,hangingstar,Hanging Stars,Fusion,,10,4
-2026-10-20,hangingstar,Hanging Stars,Gray Sage,,11,5
+2026-10-20,hangingstar,Hanging Stars,Fusion,14,10,4
+2026-10-20,hangingstar,Hanging Stars,Gray Sage,11,11,5
 2026-10-20,hangingstar,Hanging Stars,Harlequin,14,11,3
 2026-10-20,hangingstar,Hanging Stars,Honeydew,15,14,4
 2026-10-20,hangingstar,Hanging Stars,Like Button,11,15,2
-2026-10-20,hangingstar,Hanging Stars,Lilac Split,,10,6
-2026-10-20,hangingstar,Hanging Stars,Magma,,14,1
+2026-10-20,hangingstar,Hanging Stars,Lilac Split,11,10,6
+2026-10-20,hangingstar,Hanging Stars,Magma,6,14,1
 2026-10-20,hangingstar,Hanging Stars,Pajamas,14,16,1
 2026-10-20,hangingstar,Hanging Stars,Peacock,14,12,1
-2026-10-20,hangingstar,Hanging Stars,Petit Louis,,15,1
+2026-10-20,hangingstar,Hanging Stars,Petit Louis,8,15,1
 2026-10-20,hangingstar,Hanging Stars,Pink Wink,14,10,2
 2026-10-20,hangingstar,Hanging Stars,Play Button,11,11,1
 2026-10-20,hangingstar,Hanging Stars,Purple Pants,14,11,4
@@ -747,49 +747,49 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,hangingstar,Hanging Stars,Spotty,14,11,2
 2026-10-20,hangingstar,Hanging Stars,Super Star,8,16,1
 2026-10-20,hangingstar,Hanging Stars,Surf Sand,11,11,1
-2026-10-20,hangingstar,Hanging Stars,Sweden,,15,1
+2026-10-20,hangingstar,Hanging Stars,Sweden,11,15,1
 2026-10-20,hangingstar,Hanging Stars,Switch,11,11,1
-2026-10-20,hangingstar,Hanging Stars,Venice,,11,4
-2026-10-20,happybrownie,Happy Brownies,Art Supplies,,5,3
-2026-10-20,happybrownie,Happy Brownies,Brownwood,,5,7
-2026-10-20,happybrownie,Happy Brownies,Cactus,,5,1
-2026-10-20,happybrownie,Happy Brownies,Captain Flush,,6,2
-2026-10-20,happybrownie,Happy Brownies,Censored,,5,1
-2026-10-20,happybrownie,Happy Brownies,Dirty Bomb,,5,8
-2026-10-20,happybrownie,Happy Brownies,Frankenstein,,6,1
-2026-10-20,happybrownie,Happy Brownies,Hot Shit,,6,2
-2026-10-20,happybrownie,Happy Brownies,Ice Cream,,6,1
-2026-10-20,happybrownie,Happy Brownies,Pebbles,,6,2
-2026-10-20,happybrownie,Happy Brownies,Plunger,,6,1
-2026-10-20,happybrownie,Happy Brownies,Rattlesnake,,6,3
-2026-10-20,happybrownie,Happy Brownies,Shitty Coffee,,6,1
-2026-10-20,happybrownie,Happy Brownies,Slime,,6,4
-2026-10-20,happybrownie,Happy Brownies,Smelly Yeti,,5,4
-2026-10-20,happybrownie,Happy Brownies,Solid Waste,,5,2
-2026-10-20,happybrownie,Happy Brownies,Stool Sample,,6,1
-2026-10-20,happybrownie,Happy Brownies,Strawberry,,6,1
-2026-10-20,happybrownie,Happy Brownies,Toilet Bot,,6,3
-2026-10-20,happybrownie,Happy Brownies,Unicorn,,6,1
+2026-10-20,hangingstar,Hanging Stars,Venice,8,11,4
+2026-10-20,happybrownie,Happy Brownies,Art Supplies,20,5,3
+2026-10-20,happybrownie,Happy Brownies,Brownwood,30,5,7
+2026-10-20,happybrownie,Happy Brownies,Cactus,30,5,1
+2026-10-20,happybrownie,Happy Brownies,Captain Flush,25,6,2
+2026-10-20,happybrownie,Happy Brownies,Censored,30,5,1
+2026-10-20,happybrownie,Happy Brownies,Dirty Bomb,25,5,8
+2026-10-20,happybrownie,Happy Brownies,Frankenstein,20,6,1
+2026-10-20,happybrownie,Happy Brownies,Hot Shit,20,6,2
+2026-10-20,happybrownie,Happy Brownies,Ice Cream,30,6,1
+2026-10-20,happybrownie,Happy Brownies,Pebbles,25,6,2
+2026-10-20,happybrownie,Happy Brownies,Plunger,25,6,1
+2026-10-20,happybrownie,Happy Brownies,Rattlesnake,25,6,3
+2026-10-20,happybrownie,Happy Brownies,Shitty Coffee,25,6,1
+2026-10-20,happybrownie,Happy Brownies,Slime,30,6,4
+2026-10-20,happybrownie,Happy Brownies,Smelly Yeti,25,5,4
+2026-10-20,happybrownie,Happy Brownies,Solid Waste,20,5,2
+2026-10-20,happybrownie,Happy Brownies,Stool Sample,20,6,1
+2026-10-20,happybrownie,Happy Brownies,Strawberry,30,6,1
+2026-10-20,happybrownie,Happy Brownies,Toilet Bot,20,6,3
+2026-10-20,happybrownie,Happy Brownies,Unicorn,30,6,1
 2026-10-20,heartlocket,Heart Lockets,Acorn Hunter,15,8888,1
-2026-10-20,heartlocket,Heart Lockets,Comic Book,,1775,2
+2026-10-20,heartlocket,Heart Lockets,Comic Book,25,1775,2
 2026-10-20,heartlocket,Heart Lockets,Compass,20,1888,1
 2026-10-20,heartlocket,Heart Lockets,Disco,25,18000,1
 2026-10-20,heartlocket,Heart Lockets,Emocore,20,8888,1
 2026-10-20,heartlocket,Heart Lockets,Glam Furry,20,5000,3
-2026-10-20,heartlocket,Heart Lockets,Golden,,31332,1
-2026-10-20,heartlocket,Heart Lockets,Heartwood,,1444,3
+2026-10-20,heartlocket,Heart Lockets,Golden,10,31332,1
+2026-10-20,heartlocket,Heart Lockets,Heartwood,20,1444,3
 2026-10-20,heartlocket,Heart Lockets,Hell Rise,20,3990,1
 2026-10-20,heartlocket,Heart Lockets,Jupiter,15,5000,1
-2026-10-20,heartlocket,Heart Lockets,Karaoke Bar,,1700,1
+2026-10-20,heartlocket,Heart Lockets,Karaoke Bar,20,1700,1
 2026-10-20,heartlocket,Heart Lockets,Lunar Grail,15,29999,1
-2026-10-20,heartlocket,Heart Lockets,Neptune,,11111,1
+2026-10-20,heartlocket,Heart Lockets,Neptune,10,11111,1
 2026-10-20,heartlocket,Heart Lockets,Ocean Star,15,60000,1
-2026-10-20,heartlocket,Heart Lockets,Pepperoni,,9900,1
-2026-10-20,heartlocket,Heart Lockets,Reactor,,2000,1
-2026-10-20,heartlocket,Heart Lockets,Rebellion,,4999,4
-2026-10-20,heartlocket,Heart Lockets,Sakura,,4444,2
+2026-10-20,heartlocket,Heart Lockets,Pepperoni,25,9900,1
+2026-10-20,heartlocket,Heart Lockets,Reactor,20,2000,1
+2026-10-20,heartlocket,Heart Lockets,Rebellion,15,4999,4
+2026-10-20,heartlocket,Heart Lockets,Sakura,20,4444,2
 2026-10-20,heartlocket,Heart Lockets,Shaman,15,2999,1
-2026-10-20,heartlocket,Heart Lockets,Shield of Sun,,6800,2
+2026-10-20,heartlocket,Heart Lockets,Shield of Sun,15,6800,2
 2026-10-20,heartlocket,Heart Lockets,Soulkeeper,20,1777,2
 2026-10-20,heartlocket,Heart Lockets,Synthwave,15,1778,2
 2026-10-20,heartlocket,Heart Lockets,Telegram,15,10000,2
@@ -827,25 +827,25 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,heroichelmet,Heroic Helmets,Steampunk,20,500,3
 2026-10-20,heroichelmet,Heroic Helmets,Watermelon,20,599,1
 2026-10-20,holidaydrink,Holiday Drinks,Apple Mousse,50,6,2
-2026-10-20,holidaydrink,Holiday Drinks,Area 51,,7,2
-2026-10-20,holidaydrink,Holiday Drinks,Banana Split,,6,2
-2026-10-20,holidaydrink,Holiday Drinks,Black Russian,,7,1
-2026-10-20,holidaydrink,Holiday Drinks,Bubblegum,,7,1
+2026-10-20,holidaydrink,Holiday Drinks,Area 51,13,7,2
+2026-10-20,holidaydrink,Holiday Drinks,Banana Split,49,6,2
+2026-10-20,holidaydrink,Holiday Drinks,Black Russian,47,7,1
+2026-10-20,holidaydrink,Holiday Drinks,Bubblegum,39,7,1
 2026-10-20,holidaydrink,Holiday Drinks,Checkmate,10,7,1
-2026-10-20,holidaydrink,Holiday Drinks,Choco Mint,,6,2
+2026-10-20,holidaydrink,Holiday Drinks,Choco Mint,45,6,2
 2026-10-20,holidaydrink,Holiday Drinks,Citrus,37,6,3
-2026-10-20,holidaydrink,Holiday Drinks,Cotton Candy,,6,2
+2026-10-20,holidaydrink,Holiday Drinks,Cotton Candy,27,6,2
 2026-10-20,holidaydrink,Holiday Drinks,Crystal Shot,14,5,12
-2026-10-20,holidaydrink,Holiday Drinks,Fire Chariot,,5,3
-2026-10-20,holidaydrink,Holiday Drinks,Ginger Joker,,6,2
+2026-10-20,holidaydrink,Holiday Drinks,Fire Chariot,14,5,3
+2026-10-20,holidaydrink,Holiday Drinks,Ginger Joker,31,6,2
 2026-10-20,holidaydrink,Holiday Drinks,Hibiscus Tea,33,6,2
 2026-10-20,holidaydrink,Holiday Drinks,Honeyfire,30,5,1
-2026-10-20,holidaydrink,Holiday Drinks,Hot Fuchsia,,6,3
+2026-10-20,holidaydrink,Holiday Drinks,Hot Fuchsia,26,6,3
 2026-10-20,holidaydrink,Holiday Drinks,Kiwi Box,19,6,1
-2026-10-20,holidaydrink,Holiday Drinks,Lavender Tea,,7,1
+2026-10-20,holidaydrink,Holiday Drinks,Lavender Tea,34,7,1
 2026-10-20,holidaydrink,Holiday Drinks,Leprechaun,9,7,1
 2026-10-20,holidaydrink,Holiday Drinks,Lizard Blood,,6,2
-2026-10-20,holidaydrink,Holiday Drinks,Love Potion,,6,1
+2026-10-20,holidaydrink,Holiday Drinks,Love Potion,14,6,1
 2026-10-20,holidaydrink,Holiday Drinks,Low Poly,18,7,1
 2026-10-20,holidaydrink,Holiday Drinks,Marigold,36,6,2
 2026-10-20,holidaydrink,Holiday Drinks,Matcha,32,5,2
@@ -856,42 +856,42 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,holidaydrink,Holiday Drinks,Rose Velvet,48,7,1
 2026-10-20,holidaydrink,Holiday Drinks,Toxic Waste,12,6,2
 2026-10-20,hypnolollipop,Hypno Lollipops,Beach Ball,,6,2
-2026-10-20,hypnolollipop,Hypno Lollipops,Candy Carrot,,6,2
-2026-10-20,hypnolollipop,Hypno Lollipops,Citrus Fresh,,6,2
-2026-10-20,hypnolollipop,Hypno Lollipops,Classic Vinyl,,8,1
+2026-10-20,hypnolollipop,Hypno Lollipops,Candy Carrot,13,6,2
+2026-10-20,hypnolollipop,Hypno Lollipops,Citrus Fresh,13,6,2
+2026-10-20,hypnolollipop,Hypno Lollipops,Classic Vinyl,8,8,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Color Swap,,8,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Dark Cherry,9,7,1
-2026-10-20,hypnolollipop,Hypno Lollipops,Day Night,,7,2
-2026-10-20,hypnolollipop,Hypno Lollipops,Expired,,6,4
+2026-10-20,hypnolollipop,Hypno Lollipops,Day Night,8,7,2
+2026-10-20,hypnolollipop,Hypno Lollipops,Expired,13,6,4
 2026-10-20,hypnolollipop,Hypno Lollipops,Flashing,7,7,1
-2026-10-20,hypnolollipop,Hypno Lollipops,Flower Sky,,7,1
-2026-10-20,hypnolollipop,Hypno Lollipops,Fragile Orb,,6,1
+2026-10-20,hypnolollipop,Hypno Lollipops,Flower Sky,13,7,1
+2026-10-20,hypnolollipop,Hypno Lollipops,Fragile Orb,8,6,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Glowing Pink,13,7,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Grand Slam,8,6,2
-2026-10-20,hypnolollipop,Hypno Lollipops,Green Goblin,,8,1
-2026-10-20,hypnolollipop,Hypno Lollipops,Greenwich,,8,1
+2026-10-20,hypnolollipop,Hypno Lollipops,Green Goblin,13,8,1
+2026-10-20,hypnolollipop,Hypno Lollipops,Greenwich,13,8,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Hysteria,9,8,4
-2026-10-20,hypnolollipop,Hypno Lollipops,Island Ice,,8,1
+2026-10-20,hypnolollipop,Hypno Lollipops,Island Ice,9,8,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Lemon Zest,,8,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Lime Wedge,9,7,2
 2026-10-20,hypnolollipop,Hypno Lollipops,Mac Loader,,8,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Monster Eye,,8,2
-2026-10-20,hypnolollipop,Hypno Lollipops,Neon Treat,,6,1
+2026-10-20,hypnolollipop,Hypno Lollipops,Neon Treat,13,6,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Nightfall,13,6,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Orange Petal,9,6,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Pink Clouds,13,6,1
-2026-10-20,hypnolollipop,Hypno Lollipops,Purple Petal,,6,1
+2026-10-20,hypnolollipop,Hypno Lollipops,Purple Petal,13,6,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Red Berries,13,6,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Reward,,8,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Saturn,7,7,3
 2026-10-20,hypnolollipop,Hypno Lollipops,Seventies,9,7,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Sickly Sweet,,7,2
-2026-10-20,hypnolollipop,Hypno Lollipops,Strabismus,,7,1
+2026-10-20,hypnolollipop,Hypno Lollipops,Strabismus,8,7,1
 2026-10-20,hypnolollipop,Hypno Lollipops,Teddy Bear,8,7,1
-2026-10-20,hypnolollipop,Hypno Lollipops,The Maze,,6,3
-2026-10-20,hypnolollipop,Hypno Lollipops,Watermelon,,6,3
+2026-10-20,hypnolollipop,Hypno Lollipops,The Maze,9,6,3
+2026-10-20,hypnolollipop,Hypno Lollipops,Watermelon,13,6,3
 2026-10-20,hypnolollipop,Hypno Lollipops,White Bloom,,8,1
-2026-10-20,hypnolollipop,Hypno Lollipops,Windmill,,8,1
+2026-10-20,hypnolollipop,Hypno Lollipops,Windmill,13,8,1
 2026-10-20,icecream,Ice Creams,Beehive,,5,1
 2026-10-20,icecream,Ice Creams,Berry Split,,5,3
 2026-10-20,icecream,Ice Creams,Bite-Size,,5,7
@@ -907,7 +907,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,icecream,Ice Creams,TNT Stick,,5,4
 2026-10-20,icecream,Ice Creams,Ton Cone,15,5,1
 2026-10-20,icecream,Ice Creams,Trio Scoop,,5,6
-2026-10-20,icecream,Ice Creams,Vice Dream,,5,1
+2026-10-20,icecream,Ice Creams,Vice Dream,30,5,1
 2026-10-20,inputkey,Input Keys,Astrobot,15,10,1
 2026-10-20,inputkey,Input Keys,Chill Key,25,8,2
 2026-10-20,inputkey,Input Keys,Coffee,25,11,1
@@ -933,38 +933,38 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,inputkey,Input Keys,Underwood,20,9,2
 2026-10-20,inputkey,Input Keys,Volcano,20,14,1
 2026-10-20,inputkey,Input Keys,Woodland,25,12,1
-2026-10-20,instantramen,Instant Ramens,Anti-Gravity,,5,3
-2026-10-20,instantramen,Instant Ramens,Bacon,,5,3
+2026-10-20,instantramen,Instant Ramens,Anti-Gravity,15,5,3
+2026-10-20,instantramen,Instant Ramens,Bacon,30,5,3
 2026-10-20,instantramen,Instant Ramens,Bento,25,5,1
-2026-10-20,instantramen,Instant Ramens,Broccoli,,5,2
-2026-10-20,instantramen,Instant Ramens,Broth Pack,,5,3
+2026-10-20,instantramen,Instant Ramens,Broccoli,30,5,2
+2026-10-20,instantramen,Instant Ramens,Broth Pack,15,5,3
 2026-10-20,instantramen,Instant Ramens,Chicken,30,5,2
 2026-10-20,instantramen,Instant Ramens,Classic Ramen,25,5,1
 2026-10-20,instantramen,Instant Ramens,Eyeballs,25,5,2
-2026-10-20,instantramen,Instant Ramens,Homemade,,5,1
+2026-10-20,instantramen,Instant Ramens,Homemade,20,5,1
 2026-10-20,instantramen,Instant Ramens,Mushroom,30,5,2
 2026-10-20,instantramen,Instant Ramens,Octopus,15,5,1
-2026-10-20,instantramen,Instant Ramens,Sandbox,,5,4
-2026-10-20,instantramen,Instant Ramens,Sausage Duo,,5,2
+2026-10-20,instantramen,Instant Ramens,Sandbox,10,5,4
+2026-10-20,instantramen,Instant Ramens,Sausage Duo,25,5,2
 2026-10-20,instantramen,Instant Ramens,Seafood,20,5,1
-2026-10-20,instantramen,Instant Ramens,Sewing Stew,,5,5
-2026-10-20,instantramen,Instant Ramens,Shrimp,,5,1
+2026-10-20,instantramen,Instant Ramens,Sewing Stew,30,5,5
+2026-10-20,instantramen,Instant Ramens,Shrimp,30,5,1
 2026-10-20,instantramen,Instant Ramens,Slurp-Slurp,25,5,2
-2026-10-20,instantramen,Instant Ramens,Sunny Loops,,5,2
+2026-10-20,instantramen,Instant Ramens,Sunny Loops,30,5,2
 2026-10-20,instantramen,Instant Ramens,Topokki,30,5,1
 2026-10-20,intelligencecup,Intelligence Cups,Bronze,500,4000,1
 2026-10-20,intelligencecup,Intelligence Cups,Gold,167,6000,5
-2026-10-20,intelligencecup,Intelligence Cups,Silver,,3099,2
+2026-10-20,intelligencecup,Intelligence Cups,Silver,333,3099,2
 2026-10-20,iongem,Ion Gems,Blood Gem,30,150,6
 2026-10-20,iongem,Ion Gems,Blue Zircon,20,80,1
 2026-10-20,iongem,Ion Gems,Botanica,15,125,1
 2026-10-20,iongem,Ion Gems,Bronzite,20,79,2
 2026-10-20,iongem,Ion Gems,Cartoon,20,222,1
-2026-10-20,iongem,Ion Gems,Chaos Emerald,,119,7
+2026-10-20,iongem,Ion Gems,Chaos Emerald,20,119,7
 2026-10-20,iongem,Ion Gems,Cryst-mas,10,288,1
 2026-10-20,iongem,Ion Gems,Girl Power,15,222,1
 2026-10-20,iongem,Ion Gems,Gradient,20,240,1
-2026-10-20,iongem,Ion Gems,Halloween,,110,3
+2026-10-20,iongem,Ion Gems,Halloween,20,110,3
 2026-10-20,iongem,Ion Gems,Himalaya,30,180,1
 2026-10-20,iongem,Ion Gems,Honey Gold,30,135,2
 2026-10-20,iongem,Ion Gems,Ice Crystal,20,145,2
@@ -975,7 +975,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,iongem,Ion Gems,Obsidian,20,222,1
 2026-10-20,iongem,Ion Gems,Pink Sapphire,20,80,2
 2026-10-20,iongem,Ion Gems,Princess Cut,20,170,1
-2026-10-20,iongem,Ion Gems,Redwood,,222,1
+2026-10-20,iongem,Ion Gems,Redwood,20,222,1
 2026-10-20,iongem,Ion Gems,Sakura,20,125,1
 2026-10-20,iongem,Ion Gems,Saltwater,10,200,1
 2026-10-20,iongem,Ion Gems,Sapphire,20,84,1
@@ -986,66 +986,66 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,iongem,Ion Gems,Tiberium,20,205,1
 2026-10-20,iongem,Ion Gems,Time Stone,20,150,1
 2026-10-20,iongem,Ion Gems,Ultraviolet,20,150,2
-2026-10-20,ionicdryer,Ionic Dryers,Ace Machine,,40,1
-2026-10-20,ionicdryer,Ionic Dryers,Barbiecore,,37,6
-2026-10-20,ionicdryer,Ionic Dryers,Beetlejuice,,40,1
-2026-10-20,ionicdryer,Ionic Dryers,Catwalk,,35,2
-2026-10-20,ionicdryer,Ionic Dryers,Cooling Kiss,,17,2
-2026-10-20,ionicdryer,Ionic Dryers,Cyber Prism,,16,1
-2026-10-20,ionicdryer,Ionic Dryers,Dried Flowers,,16,2
-2026-10-20,ionicdryer,Ionic Dryers,Dry Wood,,20,3
-2026-10-20,ionicdryer,Ionic Dryers,Gunslinger,,35,1
-2026-10-20,ionicdryer,Ionic Dryers,Hot Bot,,50,2
-2026-10-20,ionicdryer,Ionic Dryers,Love Burst,,50,1
-2026-10-20,ionicdryer,Ionic Dryers,Music Player,,30,2
-2026-10-20,ionicdryer,Ionic Dryers,Pink Voxel,,23,2
-2026-10-20,ionicdryer,Ionic Dryers,Polka Dot,,40,1
-2026-10-20,ionicdryer,Ionic Dryers,Popcorn,,30,3
-2026-10-20,ionicdryer,Ionic Dryers,Rad-Dry 9000,,17,3
-2026-10-20,ionicdryer,Ionic Dryers,Rough Sketch,,50,1
-2026-10-20,ionicdryer,Ionic Dryers,Saguaro,,19,2
-2026-10-20,ionicdryer,Ionic Dryers,Savannah,,19,2
-2026-10-20,ionicdryer,Ionic Dryers,Scorchwing,,34,2
-2026-10-20,ionicdryer,Ionic Dryers,Shooting Star,,29,1
-2026-10-20,ionicdryer,Ionic Dryers,Sound Wave,,28,3
-2026-10-20,ionicdryer,Ionic Dryers,Sugar Breeze,,25,2
-2026-10-20,ionicdryer,Ionic Dryers,Taser,,40,1
-2026-10-20,ionicdryer,Ionic Dryers,Tiger Wave,,21,2
-2026-10-20,ionicdryer,Ionic Dryers,Turbo Heat,,49,3
-2026-10-20,ionicdryer,Ionic Dryers,Valentine,,29,1
-2026-10-20,ionicdryer,Ionic Dryers,Vortex,,50,2
-2026-10-20,ionicdryer,Ionic Dryers,Wet Styling,,35,1
-2026-10-20,ionicdryer,Ionic Dryers,Zephyrus,,25,2
+2026-10-20,ionicdryer,Ionic Dryers,Ace Machine,20,40,1
+2026-10-20,ionicdryer,Ionic Dryers,Barbiecore,30,37,6
+2026-10-20,ionicdryer,Ionic Dryers,Beetlejuice,20,40,1
+2026-10-20,ionicdryer,Ionic Dryers,Catwalk,30,35,2
+2026-10-20,ionicdryer,Ionic Dryers,Cooling Kiss,20,17,2
+2026-10-20,ionicdryer,Ionic Dryers,Cyber Prism,20,16,1
+2026-10-20,ionicdryer,Ionic Dryers,Dried Flowers,15,16,2
+2026-10-20,ionicdryer,Ionic Dryers,Dry Wood,30,20,3
+2026-10-20,ionicdryer,Ionic Dryers,Gunslinger,10,35,1
+2026-10-20,ionicdryer,Ionic Dryers,Hot Bot,30,50,2
+2026-10-20,ionicdryer,Ionic Dryers,Love Burst,30,50,1
+2026-10-20,ionicdryer,Ionic Dryers,Music Player,30,30,2
+2026-10-20,ionicdryer,Ionic Dryers,Pink Voxel,15,23,2
+2026-10-20,ionicdryer,Ionic Dryers,Polka Dot,30,40,1
+2026-10-20,ionicdryer,Ionic Dryers,Popcorn,15,30,3
+2026-10-20,ionicdryer,Ionic Dryers,Rad-Dry 9000,30,17,3
+2026-10-20,ionicdryer,Ionic Dryers,Rough Sketch,10,50,1
+2026-10-20,ionicdryer,Ionic Dryers,Saguaro,20,19,2
+2026-10-20,ionicdryer,Ionic Dryers,Savannah,30,19,2
+2026-10-20,ionicdryer,Ionic Dryers,Scorchwing,15,34,2
+2026-10-20,ionicdryer,Ionic Dryers,Shooting Star,20,29,1
+2026-10-20,ionicdryer,Ionic Dryers,Sound Wave,30,28,3
+2026-10-20,ionicdryer,Ionic Dryers,Sugar Breeze,20,25,2
+2026-10-20,ionicdryer,Ionic Dryers,Taser,20,40,1
+2026-10-20,ionicdryer,Ionic Dryers,Tiger Wave,30,21,2
+2026-10-20,ionicdryer,Ionic Dryers,Turbo Heat,30,49,3
+2026-10-20,ionicdryer,Ionic Dryers,Valentine,10,29,1
+2026-10-20,ionicdryer,Ionic Dryers,Vortex,20,50,2
+2026-10-20,ionicdryer,Ionic Dryers,Wet Styling,25,35,1
+2026-10-20,ionicdryer,Ionic Dryers,Zephyrus,30,25,2
 2026-10-20,jackinthebox,Jacks-in-the-Box,Blue Friend,25,7,1
 2026-10-20,jackinthebox,Jacks-in-the-Box,Bombox,15,6,3
-2026-10-20,jackinthebox,Jacks-in-the-Box,Christmas,,7,2
-2026-10-20,jackinthebox,Jacks-in-the-Box,Cockcrow,,6,2
-2026-10-20,jackinthebox,Jacks-in-the-Box,Dentures,,6,1
-2026-10-20,jackinthebox,Jacks-in-the-Box,Doghouse,,7,3
-2026-10-20,jackinthebox,Jacks-in-the-Box,Doughnut,,6,1
+2026-10-20,jackinthebox,Jacks-in-the-Box,Christmas,25,7,2
+2026-10-20,jackinthebox,Jacks-in-the-Box,Cockcrow,30,6,2
+2026-10-20,jackinthebox,Jacks-in-the-Box,Dentures,30,6,1
+2026-10-20,jackinthebox,Jacks-in-the-Box,Doghouse,30,7,3
+2026-10-20,jackinthebox,Jacks-in-the-Box,Doughnut,30,6,1
 2026-10-20,jackinthebox,Jacks-in-the-Box,Fake Flower,15,6,1
-2026-10-20,jackinthebox,Jacks-in-the-Box,Jack-a-Snake,,6,2
+2026-10-20,jackinthebox,Jacks-in-the-Box,Jack-a-Snake,20,6,2
 2026-10-20,jackinthebox,Jacks-in-the-Box,Joker,15,7,2
-2026-10-20,jackinthebox,Jacks-in-the-Box,Knockdown,,7,1
+2026-10-20,jackinthebox,Jacks-in-the-Box,Knockdown,30,7,1
 2026-10-20,jackinthebox,Jacks-in-the-Box,Let’s Rock,15,6,5
 2026-10-20,jackinthebox,Jacks-in-the-Box,Luggage,5,6,1
-2026-10-20,jackinthebox,Jacks-in-the-Box,Lunch Break,,6,7
+2026-10-20,jackinthebox,Jacks-in-the-Box,Lunch Break,30,6,7
 2026-10-20,jackinthebox,Jacks-in-the-Box,Mamma Mia,10,6,1
 2026-10-20,jackinthebox,Jacks-in-the-Box,Minifigure,15,6,1
 2026-10-20,jackinthebox,Jacks-in-the-Box,Piñata,15,6,1
 2026-10-20,jackinthebox,Jacks-in-the-Box,Recursion,15,6,1
 2026-10-20,jackinthebox,Jacks-in-the-Box,Spaceship,20,7,1
 2026-10-20,jackinthebox,Jacks-in-the-Box,Super Block,30,7,1
-2026-10-20,jackinthebox,Jacks-in-the-Box,Teddy Bear,,6,1
-2026-10-20,jackinthebox,Jacks-in-the-Box,Thumbs Up,,6,2
+2026-10-20,jackinthebox,Jacks-in-the-Box,Teddy Bear,25,6,1
+2026-10-20,jackinthebox,Jacks-in-the-Box,Thumbs Up,30,6,2
 2026-10-20,jackinthebox,Jacks-in-the-Box,Trash Panda,15,6,1
-2026-10-20,jackinthebox,Jacks-in-the-Box,Trickster,,6,2
+2026-10-20,jackinthebox,Jacks-in-the-Box,Trickster,30,6,2
 2026-10-20,jackinthebox,Jacks-in-the-Box,Undead,10,6,5
 2026-10-20,jackinthebox,Jacks-in-the-Box,Unicorn,16,6,2
-2026-10-20,jackinthebox,Jacks-in-the-Box,Wonderland,,7,1
+2026-10-20,jackinthebox,Jacks-in-the-Box,Wonderland,30,7,1
 2026-10-20,jesterhat,Jester Hats,Aquarium,,6,1
 2026-10-20,jesterhat,Jester Hats,Chuckle Crown,15,6,1
-2026-10-20,jesterhat,Jester Hats,Comeback,,6,1
+2026-10-20,jesterhat,Jester Hats,Comeback,5,6,1
 2026-10-20,jesterhat,Jester Hats,Comedian,10,5,2
 2026-10-20,jesterhat,Jester Hats,Court Jester,,5,1
 2026-10-20,jesterhat,Jester Hats,Dashed Prank,10,5,2
@@ -1060,12 +1060,12 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,jesterhat,Jester Hats,Harley Quinn,13,7,1
 2026-10-20,jesterhat,Jester Hats,Heartwarming,8,6,1
 2026-10-20,jesterhat,Jester Hats,Honk&#33;,,6,1
-2026-10-20,jesterhat,Jester Hats,Jolly Orange,,5,1
+2026-10-20,jesterhat,Jester Hats,Jolly Orange,15,5,1
 2026-10-20,jesterhat,Jester Hats,Joy Dance,15,6,1
 2026-10-20,jesterhat,Jester Hats,King of Jokes,,6,1
 2026-10-20,jesterhat,Jester Hats,Lemon Spin,10,6,1
 2026-10-20,jesterhat,Jester Hats,Madcap,,5,1
-2026-10-20,jesterhat,Jester Hats,Marshmallow,,6,1
+2026-10-20,jesterhat,Jester Hats,Marshmallow,15,6,1
 2026-10-20,jesterhat,Jester Hats,Mind Blown,,7,1
 2026-10-20,jesterhat,Jester Hats,Party Drink,,6,1
 2026-10-20,jesterhat,Jester Hats,Pop Art,,5,1
@@ -1078,15 +1078,15 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,jesterhat,Jester Hats,Xmas Prank,,6,1
 2026-10-20,jesterhat,Jester Hats,Сourt Jester,,6,2
 2026-10-20,jinglebells,Jingle Bells,Barbie,14,15,1
-2026-10-20,jinglebells,Jingle Bells,Bellrog,,15,1
+2026-10-20,jinglebells,Jingle Bells,Bellrog,6,15,1
 2026-10-20,jinglebells,Jingle Bells,Bumblebell,6,12,1
 2026-10-20,jinglebells,Jingle Bells,Cast Bronze,,11,1
 2026-10-20,jinglebells,Jingle Bells,Classic Cane,10,15,2
 2026-10-20,jinglebells,Jingle Bells,Color Shift,6,15,2
-2026-10-20,jinglebells,Jingle Bells,Confection,,11,1
+2026-10-20,jinglebells,Jingle Bells,Confection,3,11,1
 2026-10-20,jinglebells,Jingle Bells,Cozy Winter,3,18,1
-2026-10-20,jinglebells,Jingle Bells,Crimson Steel,,15,2
-2026-10-20,jinglebells,Jingle Bells,Festive Night,,15,1
+2026-10-20,jinglebells,Jingle Bells,Crimson Steel,13,15,2
+2026-10-20,jinglebells,Jingle Bells,Festive Night,3,15,1
 2026-10-20,jinglebells,Jingle Bells,Flashlights,3,12,2
 2026-10-20,jinglebells,Jingle Bells,Fractal,3,15,1
 2026-10-20,jinglebells,Jingle Bells,Golden Cane,,11,1
@@ -1094,37 +1094,37 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,jinglebells,Jingle Bells,Jungle Bloom,1,16,1
 2026-10-20,jinglebells,Jingle Bells,Melting,4,14,1
 2026-10-20,jinglebells,Jingle Bells,Monochrome,15,15,1
-2026-10-20,jinglebells,Jingle Bells,Nightshade,,16,1
+2026-10-20,jinglebells,Jingle Bells,Nightshade,13,16,1
 2026-10-20,jinglebells,Jingle Bells,Orchestra,3,14,2
 2026-10-20,jinglebells,Jingle Bells,Peppermint,11,12,3
 2026-10-20,jinglebells,Jingle Bells,Pink Crystal,13,16,1
-2026-10-20,jinglebells,Jingle Bells,Placeholder,,15,1
+2026-10-20,jinglebells,Jingle Bells,Placeholder,14,15,1
 2026-10-20,jinglebells,Jingle Bells,Polynesia,8,13,2
 2026-10-20,jinglebells,Jingle Bells,Rainforest,13,12,2
-2026-10-20,jinglebells,Jingle Bells,Red Sparkle,,13,2
+2026-10-20,jinglebells,Jingle Bells,Red Sparkle,7,13,2
 2026-10-20,jinglebells,Jingle Bells,Reindeer,3,16,2
 2026-10-20,jinglebells,Jingle Bells,Rose Gold,13,18,1
 2026-10-20,jinglebells,Jingle Bells,Royal Charm,3,17,2
-2026-10-20,jinglebells,Jingle Bells,Saltwater,,15,1
-2026-10-20,jinglebells,Jingle Bells,Soft Blush,,15,1
-2026-10-20,jinglebells,Jingle Bells,Spring Knell,,12,3
+2026-10-20,jinglebells,Jingle Bells,Saltwater,13,15,1
+2026-10-20,jinglebells,Jingle Bells,Soft Blush,14,15,1
+2026-10-20,jinglebells,Jingle Bells,Spring Knell,3,12,3
 2026-10-20,jinglebells,Jingle Bells,Steampunk,3,13,1
 2026-10-20,jinglebells,Jingle Bells,Sylvan Echo,2,18,2
-2026-10-20,jinglebells,Jingle Bells,Tulip Time,,12,3
+2026-10-20,jinglebells,Jingle Bells,Tulip Time,9,12,3
 2026-10-20,jinglebells,Jingle Bells,Uranium,,15,1
 2026-10-20,jinglebells,Jingle Bells,Waffle Cone,7,17,1
 2026-10-20,jinglebells,Jingle Bells,White Gold,13,18,1
 2026-10-20,jinglebells,Jingle Bells,Wind Chimes,2,17,1
 2026-10-20,jinglebells,Jingle Bells,Woodland,12,12,3
 2026-10-20,jollychimp,Jolly Chimps,Abubu,20,10,1
-2026-10-20,jollychimp,Jolly Chimps,Alarm Ape,,10,2
+2026-10-20,jollychimp,Jolly Chimps,Alarm Ape,25,10,2
 2026-10-20,jollychimp,Jolly Chimps,Ape Puppet,15,11,1
 2026-10-20,jollychimp,Jolly Chimps,Artist,30,9,3
 2026-10-20,jollychimp,Jolly Chimps,Baby Kong,30,10,3
 2026-10-20,jollychimp,Jolly Chimps,Bananas,20,10,1
 2026-10-20,jollychimp,Jolly Chimps,Bellboy,30,8,3
-2026-10-20,jollychimp,Jolly Chimps,Belle Bang,,11,1
-2026-10-20,jollychimp,Jolly Chimps,Busy Mom,,11,2
+2026-10-20,jollychimp,Jolly Chimps,Belle Bang,20,11,1
+2026-10-20,jollychimp,Jolly Chimps,Busy Mom,15,11,2
 2026-10-20,jollychimp,Jolly Chimps,Clash Elixir,30,9,5
 2026-10-20,jollychimp,Jolly Chimps,Early Adopter,30,8,5
 2026-10-20,jollychimp,Jolly Chimps,Farm Girl,30,8,4
@@ -1133,24 +1133,24 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,jollychimp,Jolly Chimps,Genie,20,8,1
 2026-10-20,jollychimp,Jolly Chimps,Grayscale,25,9,1
 2026-10-20,jollychimp,Jolly Chimps,Hex Witch,20,8,1
-2026-10-20,jollychimp,Jolly Chimps,Patchwork,,10,3
-2026-10-20,jollychimp,Jolly Chimps,Robo Kong,,10,1
+2026-10-20,jollychimp,Jolly Chimps,Patchwork,30,10,3
+2026-10-20,jollychimp,Jolly Chimps,Robo Kong,15,10,1
 2026-10-20,jollychimp,Jolly Chimps,Shaman,20,10,1
 2026-10-20,jollychimp,Jolly Chimps,Tourist,30,9,4
 2026-10-20,joyfulbundle,Joyful Bundles,Antarctica,20,15,4
 2026-10-20,joyfulbundle,Joyful Bundles,Axolotl Sven,25,15,4
-2026-10-20,joyfulbundle,Joyful Bundles,Biscuit,,15,3
-2026-10-20,joyfulbundle,Joyful Bundles,Bronze,,15,4
-2026-10-20,joyfulbundle,Joyful Bundles,Candy Basket,,13,1
+2026-10-20,joyfulbundle,Joyful Bundles,Biscuit,30,15,3
+2026-10-20,joyfulbundle,Joyful Bundles,Bronze,25,15,4
+2026-10-20,joyfulbundle,Joyful Bundles,Candy Basket,25,13,1
 2026-10-20,joyfulbundle,Joyful Bundles,Charming,30,20,1
 2026-10-20,joyfulbundle,Joyful Bundles,Dalmatian,25,13,5
 2026-10-20,joyfulbundle,Joyful Bundles,Ed Opossum,20,27,1
-2026-10-20,joyfulbundle,Joyful Bundles,Frankenstein,,25,1
+2026-10-20,joyfulbundle,Joyful Bundles,Frankenstein,15,25,1
 2026-10-20,joyfulbundle,Joyful Bundles,Gem Stash,10,25,1
 2026-10-20,joyfulbundle,Joyful Bundles,Honey Bear,30,18,1
 2026-10-20,joyfulbundle,Joyful Bundles,Ladypug,30,12,3
 2026-10-20,joyfulbundle,Joyful Bundles,Love Letter,25,22,1
-2026-10-20,joyfulbundle,Joyful Bundles,Ninja Turtles,,13,1
+2026-10-20,joyfulbundle,Joyful Bundles,Ninja Turtles,10,13,1
 2026-10-20,joyfulbundle,Joyful Bundles,One Piece,20,16,2
 2026-10-20,joyfulbundle,Joyful Bundles,Patchwork,30,15,1
 2026-10-20,joyfulbundle,Joyful Bundles,Pool Party,25,20,5
@@ -1158,21 +1158,21 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,joyfulbundle,Joyful Bundles,Professor,10,23,1
 2026-10-20,joyfulbundle,Joyful Bundles,Rose Pink,30,25,3
 2026-10-20,joyfulbundle,Joyful Bundles,Sad Clown,15,12,1
-2026-10-20,joyfulbundle,Joyful Bundles,Sailor Moon,,19,1
+2026-10-20,joyfulbundle,Joyful Bundles,Sailor Moon,15,19,1
 2026-10-20,joyfulbundle,Joyful Bundles,Silver,10,21,4
-2026-10-20,joyfulbundle,Joyful Bundles,Steve’s Pet,,27,1
+2026-10-20,joyfulbundle,Joyful Bundles,Steve’s Pet,10,27,1
 2026-10-20,joyfulbundle,Joyful Bundles,The Big Bang,25,11,2
 2026-10-20,khabibspapakha,Khabib’s Papakhas,29-0 Record,5,50,1
-2026-10-20,khabibspapakha,Khabib’s Papakhas,Autumn,,45,1
+2026-10-20,khabibspapakha,Khabib’s Papakhas,Autumn,25,45,1
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Bloodstones,10,45,1
-2026-10-20,khabibspapakha,Khabib’s Papakhas,Boom Fists,,38,4
-2026-10-20,khabibspapakha,Khabib’s Papakhas,Breakfast,,40,2
+2026-10-20,khabibspapakha,Khabib’s Papakhas,Boom Fists,29,38,4
+2026-10-20,khabibspapakha,Khabib’s Papakhas,Breakfast,29,40,2
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Brown Fur,29,29,6
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Champion,5,66,1
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Champion Belt,2,66,1
-2026-10-20,khabibspapakha,Khabib’s Papakhas,Eagles MMA,,32,1
-2026-10-20,khabibspapakha,Khabib’s Papakhas,Feared Beard,,33,3
-2026-10-20,khabibspapakha,Khabib’s Papakhas,Fighting Ring,,35,1
+2026-10-20,khabibspapakha,Khabib’s Papakhas,Eagles MMA,29,32,1
+2026-10-20,khabibspapakha,Khabib’s Papakhas,Feared Beard,29,33,3
+2026-10-20,khabibspapakha,Khabib’s Papakhas,Fighting Ring,10,35,1
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Flying High,15,40,4
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Golden Wool,20,49,1
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Highland Bard,20,40,1
@@ -1180,18 +1180,18 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Madridista,10,50,1
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Magic Carpet,29,64,1
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Monument,10,44,3
-2026-10-20,khabibspapakha,Khabib’s Papakhas,Papakha Swag,,31,3
+2026-10-20,khabibspapakha,Khabib’s Papakhas,Papakha Swag,29,31,3
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Pile Of Hats,15,29,2
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Precious,10,50,1
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Spring Flowers,10,66,1
-2026-10-20,khabibspapakha,Khabib’s Papakhas,Stealth,,33,2
+2026-10-20,khabibspapakha,Khabib’s Papakhas,Stealth,29,33,2
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Summer,20,60,1
-2026-10-20,khabibspapakha,Khabib’s Papakhas,Thunder,,39,2
+2026-10-20,khabibspapakha,Khabib’s Papakhas,Thunder,29,39,2
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Titan Relics,25,35,3
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Tradition,29,30,2
 2026-10-20,khabibspapakha,Khabib’s Papakhas,Vineyard Crown,29,45,6
-2026-10-20,khabibspapakha,Khabib’s Papakhas,Winged K,,61,1
-2026-10-20,khabibspapakha,Khabib’s Papakhas,Wise Elder,,33,2
+2026-10-20,khabibspapakha,Khabib’s Papakhas,Winged K,29,61,1
+2026-10-20,khabibspapakha,Khabib’s Papakhas,Wise Elder,40,33,2
 2026-10-20,libertyfigure,Liberty Figures,Chieftain,20,6,2
 2026-10-20,libertyfigure,Liberty Figures,Columbia,15,6,1
 2026-10-20,libertyfigure,Liberty Figures,Columbus,20,6,7
@@ -1206,7 +1206,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,libertyfigure,Liberty Figures,Jordan,,6,1
 2026-10-20,libertyfigure,Liberty Figures,Lincoln,15,6,1
 2026-10-20,libertyfigure,Liberty Figures,Pitcher,25,6,1
-2026-10-20,libertyfigure,Liberty Figures,Plushie,,6,1
+2026-10-20,libertyfigure,Liberty Figures,Plushie,20,6,1
 2026-10-20,libertyfigure,Liberty Figures,Quarterback,20,6,3
 2026-10-20,libertyfigure,Liberty Figures,Rebellion,15,6,3
 2026-10-20,libertyfigure,Liberty Figures,Settler,25,6,5
@@ -1214,9 +1214,9 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,libertyfigure,Liberty Figures,Washington,15,6,2
 2026-10-20,libertyfigure,Liberty Figures,West Egg,25,6,3
 2026-10-20,lightsword,Light Swords,Absinthe,,8,1
-2026-10-20,lightsword,Light Swords,Brand Name,,8,5
+2026-10-20,lightsword,Light Swords,Brand Name,30,8,5
 2026-10-20,lightsword,Light Swords,Duelist,30,8,1
-2026-10-20,lightsword,Light Swords,Fukushimmer,,7,6
+2026-10-20,lightsword,Light Swords,Fukushimmer,10,7,6
 2026-10-20,lightsword,Light Swords,Jedi Princess,30,8,1
 2026-10-20,lightsword,Light Swords,Lava Lash,10,7,6
 2026-10-20,lightsword,Light Swords,Lotus Saber,30,7,3
@@ -1232,7 +1232,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,lolpop,Lol Pops,Choco Pop,12,5,2
 2026-10-20,lolpop,Lol Pops,Citrone,12,5,1
 2026-10-20,lolpop,Lol Pops,Cucumber,12,5,1
-2026-10-20,lolpop,Lol Pops,Gobstopper,,5,2
+2026-10-20,lolpop,Lol Pops,Gobstopper,12,5,2
 2026-10-20,lolpop,Lol Pops,Grape Gin,12,5,1
 2026-10-20,lolpop,Lol Pops,Holidaze,12,5,2
 2026-10-20,lolpop,Lol Pops,Honey Bee,12,5,3
@@ -1253,17 +1253,17 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,lolpop,Lol Pops,Sweet Yogurt,12,5,1
 2026-10-20,lolpop,Lol Pops,Watermelon,5,5,1
 2026-10-20,lolpop,Lol Pops,Wild Mango,12,5,1
-2026-10-20,lootbag,Loot Bags,Academic,,189,4
+2026-10-20,lootbag,Loot Bags,Academic,20,189,4
 2026-10-20,lootbag,Loot Bags,Aero Swift,15,145,2
 2026-10-20,lootbag,Loot Bags,Anemone,15,180,2
 2026-10-20,lootbag,Loot Bags,Biscuit,15,188,1
 2026-10-20,lootbag,Loot Bags,Bleu Officier,20,180,2
 2026-10-20,lootbag,Loot Bags,Burgun Bag,20,143,5
-2026-10-20,lootbag,Loot Bags,Cargo Citron,,150,1
+2026-10-20,lootbag,Loot Bags,Cargo Citron,20,150,1
 2026-10-20,lootbag,Loot Bags,Cherry Croc,15,228,1
-2026-10-20,lootbag,Loot Bags,Chrome Clutch,,180,3
+2026-10-20,lootbag,Loot Bags,Chrome Clutch,20,180,3
 2026-10-20,lootbag,Loot Bags,Circus,5,177,1
-2026-10-20,lootbag,Loot Bags,Contour,,190,1
+2026-10-20,lootbag,Loot Bags,Contour,10,190,1
 2026-10-20,lootbag,Loot Bags,Cortado,20,229,1
 2026-10-20,lootbag,Loot Bags,Courchevel,15,190,2
 2026-10-20,lootbag,Loot Bags,Grizzly,15,149,2
@@ -1272,52 +1272,52 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,lootbag,Loot Bags,Menthol,15,228,1
 2026-10-20,lootbag,Loot Bags,Metro Trench,10,155,1
 2026-10-20,lootbag,Loot Bags,Orange Croc,15,155,2
-2026-10-20,lootbag,Loot Bags,Poison Dart,,200,1
-2026-10-20,lootbag,Loot Bags,Potamus,,194,2
+2026-10-20,lootbag,Loot Bags,Poison Dart,5,200,1
+2026-10-20,lootbag,Loot Bags,Potamus,20,194,2
 2026-10-20,lootbag,Loot Bags,Reptile Noir,15,197,1
-2026-10-20,lootbag,Loot Bags,Riviera,,190,3
-2026-10-20,lootbag,Loot Bags,Sakura,,222,1
+2026-10-20,lootbag,Loot Bags,Riviera,20,190,3
+2026-10-20,lootbag,Loot Bags,Sakura,20,222,1
 2026-10-20,lootbag,Loot Bags,Satin Beige,15,159,1
 2026-10-20,lootbag,Loot Bags,Soft Suede,15,180,2
 2026-10-20,lootbag,Loot Bags,Steel Agate,15,199,3
 2026-10-20,lootbag,Loot Bags,Sunrise Bands,15,148,2
-2026-10-20,lootbag,Loot Bags,Sunset Stripes,,180,1
+2026-10-20,lootbag,Loot Bags,Sunset Stripes,15,180,1
 2026-10-20,lootbag,Loot Bags,Tressage,,198,1
-2026-10-20,lootbag,Loot Bags,Tropical,,220,1
-2026-10-20,lootbag,Loot Bags,Vert d’Eau,,147,3
+2026-10-20,lootbag,Loot Bags,Tropical,15,220,1
+2026-10-20,lootbag,Loot Bags,Vert d’Eau,15,147,3
 2026-10-20,lootbag,Loot Bags,White Pony,15,155,2
-2026-10-20,lootbag,Loot Bags,Zip Pocket,,238,1
+2026-10-20,lootbag,Loot Bags,Zip Pocket,20,238,1
 2026-10-20,lovecandle,Love Candles,Afterglow,30,14,2
 2026-10-20,lovecandle,Love Candles,Celadon,30,14,1
 2026-10-20,lovecandle,Love Candles,Celebrity,15,14,2
-2026-10-20,lovecandle,Love Candles,Coral Reef,,15,1
+2026-10-20,lovecandle,Love Candles,Coral Reef,30,15,1
 2026-10-20,lovecandle,Love Candles,Crystal Dream,30,14,2
-2026-10-20,lovecandle,Love Candles,Dreamscape,,12,3
-2026-10-20,lovecandle,Love Candles,Gentle Wind,,13,1
+2026-10-20,lovecandle,Love Candles,Dreamscape,30,12,3
+2026-10-20,lovecandle,Love Candles,Gentle Wind,30,13,1
 2026-10-20,lovecandle,Love Candles,Gouda Wax,10,14,3
 2026-10-20,lovecandle,Love Candles,Gray Smoke,30,14,1
 2026-10-20,lovecandle,Love Candles,Herbal Bliss,30,14,3
 2026-10-20,lovecandle,Love Candles,Midnight Rose,30,12,2
 2026-10-20,lovecandle,Love Candles,Mulberry,30,14,1
-2026-10-20,lovecandle,Love Candles,Mykonos,,14,1
+2026-10-20,lovecandle,Love Candles,Mykonos,30,14,1
 2026-10-20,lovecandle,Love Candles,Nectarine,30,15,2
 2026-10-20,lovecandle,Love Candles,North Pole,5,15,1
 2026-10-20,lovecandle,Love Candles,Passion,30,14,2
 2026-10-20,lovecandle,Love Candles,Porcelain,30,14,3
-2026-10-20,lovecandle,Love Candles,Rose Garden,,16,1
+2026-10-20,lovecandle,Love Candles,Rose Garden,15,16,1
 2026-10-20,lovecandle,Love Candles,Serenity,30,15,2
 2026-10-20,lovecandle,Love Candles,Setting Sun,30,14,1
-2026-10-20,lovecandle,Love Candles,Silver Temple,,14,1
-2026-10-20,lovecandle,Love Candles,Surprise,,12,4
+2026-10-20,lovecandle,Love Candles,Silver Temple,30,14,1
+2026-10-20,lovecandle,Love Candles,Surprise,15,12,4
 2026-10-20,lovecandle,Love Candles,Timber Glow,30,13,2
 2026-10-20,lovecandle,Love Candles,Tropical Rain,30,14,4
 2026-10-20,lovecandle,Love Candles,Vibrant Trio,20,14,3
-2026-10-20,lovecandle,Love Candles,White Wax,,14,1
-2026-10-20,lovecandle,Love Candles,Zen Garden,,14,4
+2026-10-20,lovecandle,Love Candles,White Wax,20,14,1
+2026-10-20,lovecandle,Love Candles,Zen Garden,30,14,4
 2026-10-20,lovepotion,Love Potions,Aerogel,,24,1
 2026-10-20,lovepotion,Love Potions,Astral Guide,5,20,2
 2026-10-20,lovepotion,Love Potions,Bloodlust,5,29,1
-2026-10-20,lovepotion,Love Potions,Bubble Bath,,17,3
+2026-10-20,lovepotion,Love Potions,Bubble Bath,15,17,3
 2026-10-20,lovepotion,Love Potions,Clubs,10,19,2
 2026-10-20,lovepotion,Love Potions,Copper Sulfate,25,22,2
 2026-10-20,lovepotion,Love Potions,Diamonds,10,25,1
@@ -1325,23 +1325,23 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,lovepotion,Love Potions,Espresso,5,20,1
 2026-10-20,lovepotion,Love Potions,Eye-lixir,5,19,1
 2026-10-20,lovepotion,Love Potions,Fairy Pollen,25,22,2
-2026-10-20,lovepotion,Love Potions,Fine Mead,,25,1
+2026-10-20,lovepotion,Love Potions,Fine Mead,15,25,1
 2026-10-20,lovepotion,Love Potions,First Aid,15,24,2
 2026-10-20,lovepotion,Love Potions,Formic Acid,25,25,1
-2026-10-20,lovepotion,Love Potions,Healing Potion,,20,2
+2026-10-20,lovepotion,Love Potions,Healing Potion,5,20,2
 2026-10-20,lovepotion,Love Potions,Hearts,10,21,1
 2026-10-20,lovepotion,Love Potions,Kiwi Juice,10,25,1
 2026-10-20,lovepotion,Love Potions,Laxative,15,22,1
 2026-10-20,lovepotion,Love Potions,Mystic Dew,25,22,1
 2026-10-20,lovepotion,Love Potions,Nurgle’s Rot,5,20,2
-2026-10-20,lovepotion,Love Potions,Old Rum,,16,2
-2026-10-20,lovepotion,Love Potions,Paint Bottle,,23,1
-2026-10-20,lovepotion,Love Potions,Ruby Essence,,16,2
+2026-10-20,lovepotion,Love Potions,Old Rum,25,16,2
+2026-10-20,lovepotion,Love Potions,Paint Bottle,15,23,1
+2026-10-20,lovepotion,Love Potions,Ruby Essence,15,16,2
 2026-10-20,lovepotion,Love Potions,Rusty Water,25,19,1
-2026-10-20,lovepotion,Love Potions,Sea Salt,,20,2
+2026-10-20,lovepotion,Love Potions,Sea Salt,25,20,2
 2026-10-20,lovepotion,Love Potions,Sour Cider,25,20,3
 2026-10-20,lovepotion,Love Potions,Starry Night,25,25,1
-2026-10-20,lovepotion,Love Potions,Toxic Waste,,20,1
+2026-10-20,lovepotion,Love Potions,Toxic Waste,25,20,1
 2026-10-20,lovepotion,Love Potions,Tropicano,10,20,3
 2026-10-20,lovepotion,Love Potions,Unicorn Tears,5,25,1
 2026-10-20,lovepotion,Love Potions,White Ink,15,28,1
@@ -1362,7 +1362,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,lowrider,Low Riders,LA Noir,15,88,3
 2026-10-20,lowrider,Low Riders,Let Me Ride,30,77,3
 2026-10-20,lowrider,Low Riders,Lovemobile,30,72,5
-2026-10-20,lowrider,Low Riders,Malibu,,77,2
+2026-10-20,lowrider,Low Riders,Malibu,30,77,2
 2026-10-20,lowrider,Low Riders,Money Rider,25,80,2
 2026-10-20,lowrider,Low Riders,Mothership,15,85,1
 2026-10-20,lowrider,Low Riders,Paparazzi,25,84,1
@@ -1372,12 +1372,12 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,lowrider,Low Riders,Ultramarine,25,98,1
 2026-10-20,lowrider,Low Riders,War Rig,15,89,2
 2026-10-20,lunarsnake,Lunar Snakes,Albino,15,5,1
-2026-10-20,lunarsnake,Lunar Snakes,Amethyssst,,5,1
-2026-10-20,lunarsnake,Lunar Snakes,Banded Boa,,5,1
-2026-10-20,lunarsnake,Lunar Snakes,Bear Paw,,5,1
+2026-10-20,lunarsnake,Lunar Snakes,Amethyssst,13,5,1
+2026-10-20,lunarsnake,Lunar Snakes,Banded Boa,13,5,1
+2026-10-20,lunarsnake,Lunar Snakes,Bear Paw,10,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Black Mamba,15,5,2
 2026-10-20,lunarsnake,Lunar Snakes,Blue Boa,15,5,1
-2026-10-20,lunarsnake,Lunar Snakes,Blue Horizon,,5,1
+2026-10-20,lunarsnake,Lunar Snakes,Blue Horizon,13,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Caustic Moss,13,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Cherry Glitch,13,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Crimson Jade,13,5,1
@@ -1385,7 +1385,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,lunarsnake,Lunar Snakes,Fromage,8,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Geodesic,5,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Glowbra,10,5,1
-2026-10-20,lunarsnake,Lunar Snakes,Gold Quartz,,5,2
+2026-10-20,lunarsnake,Lunar Snakes,Gold Quartz,5,5,2
 2026-10-20,lunarsnake,Lunar Snakes,Hissmas Tree,10,5,2
 2026-10-20,lunarsnake,Lunar Snakes,Kinder Garter,13,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Lancehead,15,5,2
@@ -1393,30 +1393,30 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,lunarsnake,Lunar Snakes,Limescale,15,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Lunar Year,,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Orange Rocks,13,5,2
-2026-10-20,lunarsnake,Lunar Snakes,Pearl Scales,,5,1
+2026-10-20,lunarsnake,Lunar Snakes,Pearl Scales,10,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Pink Venom,13,5,3
-2026-10-20,lunarsnake,Lunar Snakes,Polarized,,5,2
+2026-10-20,lunarsnake,Lunar Snakes,Polarized,10,5,2
 2026-10-20,lunarsnake,Lunar Snakes,Purple Cap,13,5,1
-2026-10-20,lunarsnake,Lunar Snakes,Purple Laser,,5,2
-2026-10-20,lunarsnake,Lunar Snakes,Purple Mamba,,5,1
+2026-10-20,lunarsnake,Lunar Snakes,Purple Laser,13,5,2
+2026-10-20,lunarsnake,Lunar Snakes,Purple Mamba,15,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Red Amethyst,5,5,2
-2026-10-20,lunarsnake,Lunar Snakes,Red Reptile,,5,1
+2026-10-20,lunarsnake,Lunar Snakes,Red Reptile,15,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Redstone,5,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Saffron,15,5,1
-2026-10-20,lunarsnake,Lunar Snakes,Sandrift,,5,1
+2026-10-20,lunarsnake,Lunar Snakes,Sandrift,13,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Sea Snake,10,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Snake Game,5,5,2
-2026-10-20,lunarsnake,Lunar Snakes,Spring Burst,,5,1
+2026-10-20,lunarsnake,Lunar Snakes,Spring Burst,13,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Straciatella,8,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Timelock,5,5,1
 2026-10-20,lunarsnake,Lunar Snakes,Tropicool,8,5,2
 2026-10-20,lunarsnake,Lunar Snakes,Water Snake,15,5,1
-2026-10-20,lunarsnake,Lunar Snakes,White Grape,,5,1
+2026-10-20,lunarsnake,Lunar Snakes,White Grape,13,5,1
 2026-10-20,lushbouquet,Lush Bouquets,Artichoke,20,11,4
 2026-10-20,lushbouquet,Lush Bouquets,Cabbage,20,7,3
 2026-10-20,lushbouquet,Lush Bouquets,Cactus,,14,1
 2026-10-20,lushbouquet,Lush Bouquets,Carrots,30,7,5
-2026-10-20,lushbouquet,Lush Bouquets,Crocodile,,8,5
+2026-10-20,lushbouquet,Lush Bouquets,Crocodile,30,8,5
 2026-10-20,lushbouquet,Lush Bouquets,Dandelions,,12,1
 2026-10-20,lushbouquet,Lush Bouquets,Donuts,30,10,1
 2026-10-20,lushbouquet,Lush Bouquets,Fast Food,,12,3
@@ -1428,16 +1428,16 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,lushbouquet,Lush Bouquets,Mushrooms,15,7,4
 2026-10-20,lushbouquet,Lush Bouquets,Nucleus,,10,1
 2026-10-20,lushbouquet,Lush Bouquets,Oak Crown,30,7,5
-2026-10-20,lushbouquet,Lush Bouquets,Oculus,,11,1
+2026-10-20,lushbouquet,Lush Bouquets,Oculus,20,11,1
 2026-10-20,lushbouquet,Lush Bouquets,Purple Lilac,30,8,3
 2026-10-20,lushbouquet,Lush Bouquets,Rafflesia,,8,1
 2026-10-20,lushbouquet,Lush Bouquets,Venus Flytrap,,10,2
-2026-10-20,lushbouquet,Lush Bouquets,Yarn Balls,,8,2
+2026-10-20,lushbouquet,Lush Bouquets,Yarn Balls,30,8,2
 2026-10-20,madpumpkin,Mad Pumpkins,Chuckle-ate,20,21,2
 2026-10-20,madpumpkin,Mad Pumpkins,Copperfield,,19,3
 2026-10-20,madpumpkin,Mad Pumpkins,Daredevil,20,27,1
 2026-10-20,madpumpkin,Mad Pumpkins,Dark Humor,20,23,3
-2026-10-20,madpumpkin,Mad Pumpkins,Disco Ball,,22,1
+2026-10-20,madpumpkin,Mad Pumpkins,Disco Ball,10,22,1
 2026-10-20,madpumpkin,Mad Pumpkins,Don Lemon,,18,1
 2026-10-20,madpumpkin,Mad Pumpkins,Evil Grin,,19,1
 2026-10-20,madpumpkin,Mad Pumpkins,Flat Joke,30,20,1
@@ -1471,11 +1471,11 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,mightyarm,Mighty Arms,Dragonborn,15,150,2
 2026-10-20,mightyarm,Mighty Arms,Ex Machina,20,278,2
 2026-10-20,mightyarm,Mighty Arms,Fatality,30,460,1
-2026-10-20,mightyarm,Mighty Arms,Frankenstein,,200,2
+2026-10-20,mightyarm,Mighty Arms,Frankenstein,30,200,2
 2026-10-20,mightyarm,Mighty Arms,Frostbite,20,500,1
 2026-10-20,mightyarm,Mighty Arms,Gem Brawler,15,299,3
 2026-10-20,mightyarm,Mighty Arms,Genie,15,280,2
-2026-10-20,mightyarm,Mighty Arms,Gold Dragon,,333,1
+2026-10-20,mightyarm,Mighty Arms,Gold Dragon,20,333,1
 2026-10-20,mightyarm,Mighty Arms,Gymhotep,15,199,3
 2026-10-20,mightyarm,Mighty Arms,Heisenberg,25,290,2
 2026-10-20,mightyarm,Mighty Arms,Homer,25,300,2
@@ -1490,60 +1490,60 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,mightyarm,Mighty Arms,Robocop,30,399,1
 2026-10-20,mightyarm,Mighty Arms,Salted Flex,25,222,3
 2026-10-20,mightyarm,Mighty Arms,Silver Knight,15,209,1
-2026-10-20,mightyarm,Mighty Arms,Snake Charmer,,200,1
+2026-10-20,mightyarm,Mighty Arms,Snake Charmer,30,200,1
 2026-10-20,mightyarm,Mighty Arms,Werewolf,25,150,2
 2026-10-20,mightyarm,Mighty Arms,Xeno Grip,25,335,1
-2026-10-20,minioscar,Mini Oscars,Astronaut,,105,2
+2026-10-20,minioscar,Mini Oscars,Astronaut,15,105,2
 2026-10-20,minioscar,Mini Oscars,Aztec God,15,199,2
 2026-10-20,minioscar,Mini Oscars,Ballerino,10,386,1
-2026-10-20,minioscar,Mini Oscars,Banana,,188,1
+2026-10-20,minioscar,Mini Oscars,Banana,5,188,1
 2026-10-20,minioscar,Mini Oscars,Catwoman,10,170,2
-2026-10-20,minioscar,Mini Oscars,Caveman,,199,1
-2026-10-20,minioscar,Mini Oscars,Christmas,,120,4
-2026-10-20,minioscar,Mini Oscars,Crusader,,132,1
+2026-10-20,minioscar,Mini Oscars,Caveman,15,199,1
+2026-10-20,minioscar,Mini Oscars,Christmas,20,120,4
+2026-10-20,minioscar,Mini Oscars,Crusader,15,132,1
 2026-10-20,minioscar,Mini Oscars,Dark Knight,15,150,3
-2026-10-20,minioscar,Mini Oscars,Dark Side,,222,1
-2026-10-20,minioscar,Mini Oscars,Deep Freeze,,250,1
+2026-10-20,minioscar,Mini Oscars,Dark Side,15,222,1
+2026-10-20,minioscar,Mini Oscars,Deep Freeze,20,250,1
 2026-10-20,minioscar,Mini Oscars,Electric,20,189,2
 2026-10-20,minioscar,Mini Oscars,Finest Fish,10,78,1
-2026-10-20,minioscar,Mini Oscars,Giraffe,,159,1
-2026-10-20,minioscar,Mini Oscars,Golden Sky,,188,1
-2026-10-20,minioscar,Mini Oscars,Hobgoblin,,80,1
-2026-10-20,minioscar,Mini Oscars,Jokester,,80,2
-2026-10-20,minioscar,Mini Oscars,Laser Scan,,188,1
-2026-10-20,minioscar,Mini Oscars,Legionary,,149,4
-2026-10-20,minioscar,Mini Oscars,Leopard,,222,1
+2026-10-20,minioscar,Mini Oscars,Giraffe,5,159,1
+2026-10-20,minioscar,Mini Oscars,Golden Sky,5,188,1
+2026-10-20,minioscar,Mini Oscars,Hobgoblin,5,80,1
+2026-10-20,minioscar,Mini Oscars,Jokester,5,80,2
+2026-10-20,minioscar,Mini Oscars,Laser Scan,20,188,1
+2026-10-20,minioscar,Mini Oscars,Legionary,15,149,4
+2026-10-20,minioscar,Mini Oscars,Leopard,5,222,1
 2026-10-20,minioscar,Mini Oscars,Mars Attacks,10,188,1
-2026-10-20,minioscar,Mini Oscars,Martian,,150,1
-2026-10-20,minioscar,Mini Oscars,Pharaoh,,251,1
+2026-10-20,minioscar,Mini Oscars,Martian,10,150,1
+2026-10-20,minioscar,Mini Oscars,Pharaoh,15,251,1
 2026-10-20,minioscar,Mini Oscars,Pigeon,15,155,1
-2026-10-20,minioscar,Mini Oscars,Pirate,,78,1
-2026-10-20,minioscar,Mini Oscars,Premiere,,250,1
-2026-10-20,minioscar,Mini Oscars,Producer,,300,1
+2026-10-20,minioscar,Mini Oscars,Pirate,15,78,1
+2026-10-20,minioscar,Mini Oscars,Premiere,5,250,1
+2026-10-20,minioscar,Mini Oscars,Producer,5,300,1
 2026-10-20,minioscar,Mini Oscars,Pumpkin,10,260,1
-2026-10-20,minioscar,Mini Oscars,Rear End,,240,1
-2026-10-20,minioscar,Mini Oscars,Santa Claus,,80,1
-2026-10-20,minioscar,Mini Oscars,Silver Screen,,400,1
-2026-10-20,minioscar,Mini Oscars,Skeleton,,130,3
-2026-10-20,minioscar,Mini Oscars,Spirulina,,228,1
-2026-10-20,minioscar,Mini Oscars,Sprunki,,450,1
-2026-10-20,minioscar,Mini Oscars,Static,,125,4
+2026-10-20,minioscar,Mini Oscars,Rear End,10,240,1
+2026-10-20,minioscar,Mini Oscars,Santa Claus,15,80,1
+2026-10-20,minioscar,Mini Oscars,Silver Screen,5,400,1
+2026-10-20,minioscar,Mini Oscars,Skeleton,10,130,3
+2026-10-20,minioscar,Mini Oscars,Spirulina,5,228,1
+2026-10-20,minioscar,Mini Oscars,Sprunki,15,450,1
+2026-10-20,minioscar,Mini Oscars,Static,15,125,4
 2026-10-20,minioscar,Mini Oscars,Stuntman,10,179,2
-2026-10-20,minioscar,Mini Oscars,The Deep,,339,2
+2026-10-20,minioscar,Mini Oscars,The Deep,15,339,2
 2026-10-20,minioscar,Mini Oscars,Undead,15,170,2
-2026-10-20,minioscar,Mini Oscars,Welder,,188,1
+2026-10-20,minioscar,Mini Oscars,Welder,15,188,1
 2026-10-20,moneypot,Money Pots,Apiary,30,6,4
 2026-10-20,moneypot,Money Pots,Blood Moon,20,7,1
-2026-10-20,moneypot,Money Pots,Broadside,,7,1
+2026-10-20,moneypot,Money Pots,Broadside,30,7,1
 2026-10-20,moneypot,Money Pots,Caustic,10,7,1
 2026-10-20,moneypot,Money Pots,Cowboy,15,7,1
 2026-10-20,moneypot,Money Pots,Dim Sum,30,6,2
 2026-10-20,moneypot,Money Pots,Elf Cup,30,6,4
-2026-10-20,moneypot,Money Pots,Fishing Net,,7,1
-2026-10-20,moneypot,Money Pots,Fungi Soup,,6,7
+2026-10-20,moneypot,Money Pots,Fishing Net,20,7,1
+2026-10-20,moneypot,Money Pots,Fungi Soup,30,6,7
 2026-10-20,moneypot,Money Pots,Hercules,10,7,1
-2026-10-20,moneypot,Money Pots,Mailbox,,6,7
-2026-10-20,moneypot,Money Pots,Metal Soul,,6,1
+2026-10-20,moneypot,Money Pots,Mailbox,25,6,7
+2026-10-20,moneypot,Money Pots,Metal Soul,30,6,1
 2026-10-20,moneypot,Money Pots,Porridge,30,6,1
 2026-10-20,moneypot,Money Pots,Red Hood,30,6,3
 2026-10-20,moneypot,Money Pots,Scavenger,15,7,3
@@ -1551,9 +1551,9 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,moneypot,Money Pots,Tortilla Chips,15,6,4
 2026-10-20,moneypot,Money Pots,Toy Bucket,30,6,1
 2026-10-20,moneypot,Money Pots,Witch Brew,30,7,2
-2026-10-20,moodpack,Mood Packs,Bloom Pack,,5,2
+2026-10-20,moodpack,Mood Packs,Bloom Pack,30,5,2
 2026-10-20,moodpack,Mood Packs,Burger Bag,,6,1
-2026-10-20,moodpack,Mood Packs,Davy Jones,,6,1
+2026-10-20,moodpack,Mood Packs,Davy Jones,25,6,1
 2026-10-20,moodpack,Mood Packs,Gingerbread,,5,1
 2026-10-20,moodpack,Mood Packs,Master Angler,,5,4
 2026-10-20,moodpack,Mood Packs,Movie Night,25,5,3
@@ -1564,7 +1564,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,moodpack,Mood Packs,Rodeo King,,5,2
 2026-10-20,moodpack,Mood Packs,Star Pupil,,5,5
 2026-10-20,moodpack,Mood Packs,Street Art,,5,5
-2026-10-20,moodpack,Mood Packs,Striker,,5,1
+2026-10-20,moodpack,Mood Packs,Striker,25,5,1
 2026-10-20,moodpack,Mood Packs,Wanderer,,5,3
 2026-10-20,moonpendant,Moon Pendants,Amethyst,30,9,2
 2026-10-20,moonpendant,Moon Pendants,Carved Gold,20,8,1
@@ -1575,58 +1575,58 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,moonpendant,Moon Pendants,Diamond Tear,25,8,2
 2026-10-20,moonpendant,Moon Pendants,Emerald,30,8,3
 2026-10-20,moonpendant,Moon Pendants,Frozen Light,30,9,1
-2026-10-20,moonpendant,Moon Pendants,Glass Rainbow,,9,1
+2026-10-20,moonpendant,Moon Pendants,Glass Rainbow,25,9,1
 2026-10-20,moonpendant,Moon Pendants,Gratitude,25,9,1
 2026-10-20,moonpendant,Moon Pendants,Liquid Gold,30,8,3
-2026-10-20,moonpendant,Moon Pendants,Little Star,,9,1
+2026-10-20,moonpendant,Moon Pendants,Little Star,25,9,1
 2026-10-20,moonpendant,Moon Pendants,Rosethorn,10,8,3
 2026-10-20,moonpendant,Moon Pendants,Royal Purple,20,7,2
-2026-10-20,moonpendant,Moon Pendants,Ruby Core,,8,4
+2026-10-20,moonpendant,Moon Pendants,Ruby Core,30,8,4
 2026-10-20,moonpendant,Moon Pendants,Sand Dune,20,8,3
-2026-10-20,moonpendant,Moon Pendants,Silver Moon,,8,1
+2026-10-20,moonpendant,Moon Pendants,Silver Moon,30,8,1
 2026-10-20,moonpendant,Moon Pendants,Sovereign,15,8,7
 2026-10-20,moonpendant,Moon Pendants,Starlit Silver,15,8,2
 2026-10-20,moonpendant,Moon Pendants,Stellar Grace,30,9,2
 2026-10-20,moonpendant,Moon Pendants,Twilight Wish,15,9,2
-2026-10-20,moussecake,Mousse Cakes,Cheesecake,,6,5
+2026-10-20,moussecake,Mousse Cakes,Cheesecake,25,6,5
 2026-10-20,moussecake,Mousse Cakes,Circus Show,25,6,5
 2026-10-20,moussecake,Mousse Cakes,Fiesta Muerta,25,6,6
 2026-10-20,moussecake,Mousse Cakes,Glacier,30,6,2
 2026-10-20,moussecake,Mousse Cakes,Gummy Bears,30,6,1
-2026-10-20,moussecake,Mousse Cakes,Harvest,,6,15
+2026-10-20,moussecake,Mousse Cakes,Harvest,20,6,15
 2026-10-20,moussecake,Mousse Cakes,Honey Cake,30,6,1
-2026-10-20,moussecake,Mousse Cakes,Ice Cream,,6,1
-2026-10-20,moussecake,Mousse Cakes,Italian Pie,,6,6
-2026-10-20,moussecake,Mousse Cakes,Meatcake,,6,2
-2026-10-20,moussecake,Mousse Cakes,Mermaid,,6,4
-2026-10-20,moussecake,Mousse Cakes,Sugar Bricks,,6,1
+2026-10-20,moussecake,Mousse Cakes,Ice Cream,25,6,1
+2026-10-20,moussecake,Mousse Cakes,Italian Pie,30,6,6
+2026-10-20,moussecake,Mousse Cakes,Meatcake,20,6,2
+2026-10-20,moussecake,Mousse Cakes,Mermaid,25,6,4
+2026-10-20,moussecake,Mousse Cakes,Sugar Bricks,25,6,1
 2026-10-20,moussecake,Mousse Cakes,Toxic Frog,15,6,1
 2026-10-20,moussecake,Mousse Cakes,Wicked Pie,15,6,6
-2026-10-20,nailbracelet,Nail Bracelets,Aqua Ring,,250,1
+2026-10-20,nailbracelet,Nail Bracelets,Aqua Ring,15,250,1
 2026-10-20,nailbracelet,Nail Bracelets,Blue Dolphin,15,500,1
-2026-10-20,nailbracelet,Nail Bracelets,Duck Amulet,,290,1
+2026-10-20,nailbracelet,Nail Bracelets,Duck Amulet,15,290,1
 2026-10-20,nailbracelet,Nail Bracelets,Explosive,25,190,3
 2026-10-20,nailbracelet,Nail Bracelets,Firebronze,30,150,3
 2026-10-20,nailbracelet,Nail Bracelets,Hachikō,15,199,3
 2026-10-20,nailbracelet,Nail Bracelets,Heavy Metal,15,250,2
 2026-10-20,nailbracelet,Nail Bracelets,Jade Serpent,30,150,4
-2026-10-20,nailbracelet,Nail Bracelets,Mantis,,180,3
-2026-10-20,nailbracelet,Nail Bracelets,Mario Pipe,,388,1
+2026-10-20,nailbracelet,Nail Bracelets,Mantis,30,180,3
+2026-10-20,nailbracelet,Nail Bracelets,Mario Pipe,15,388,1
 2026-10-20,nailbracelet,Nail Bracelets,Market Rally,15,499,1
 2026-10-20,nailbracelet,Nail Bracelets,Monster Eye,20,251,3
-2026-10-20,nailbracelet,Nail Bracelets,Needle,,125,1
+2026-10-20,nailbracelet,Nail Bracelets,Needle,25,125,1
 2026-10-20,nailbracelet,Nail Bracelets,Nuclear Silo,20,265,1
-2026-10-20,nailbracelet,Nail Bracelets,Pearl Glam,,248,2
+2026-10-20,nailbracelet,Nail Bracelets,Pearl Glam,15,248,2
 2026-10-20,nailbracelet,Nail Bracelets,Pug Royale,20,200,3
 2026-10-20,nailbracelet,Nail Bracelets,Pure Amber,30,150,1
 2026-10-20,nailbracelet,Nail Bracelets,Red Fang,35,149,4
-2026-10-20,nailbracelet,Nail Bracelets,Rose Gold,,150,1
-2026-10-20,nailbracelet,Nail Bracelets,Rose Thorn,,250,2
-2026-10-20,nailbracelet,Nail Bracelets,Rusty Nail,,175,3
+2026-10-20,nailbracelet,Nail Bracelets,Rose Gold,35,150,1
+2026-10-20,nailbracelet,Nail Bracelets,Rose Thorn,35,250,2
+2026-10-20,nailbracelet,Nail Bracelets,Rusty Nail,25,175,3
 2026-10-20,nailbracelet,Nail Bracelets,Shadow,35,150,4
-2026-10-20,nailbracelet,Nail Bracelets,Skyline,,200,4
+2026-10-20,nailbracelet,Nail Bracelets,Skyline,35,200,4
 2026-10-20,nailbracelet,Nail Bracelets,Succubus,15,444,1
-2026-10-20,nailbracelet,Nail Bracelets,Tesla Coil,,200,2
+2026-10-20,nailbracelet,Nail Bracelets,Tesla Coil,15,200,2
 2026-10-20,nailbracelet,Nail Bracelets,Ultramarine,35,150,4
 2026-10-20,nailbracelet,Nail Bracelets,X-Ray,25,175,1
 2026-10-20,nekohelmet,Neko Helmets,Acid Punch,27,78,1
@@ -1637,7 +1637,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,nekohelmet,Neko Helmets,Dalmatian,5,80,1
 2026-10-20,nekohelmet,Neko Helmets,Dullahan,10,69,2
 2026-10-20,nekohelmet,Neko Helmets,Formula One,10,69,3
-2026-10-20,nekohelmet,Neko Helmets,Frostbear,,63,1
+2026-10-20,nekohelmet,Neko Helmets,Frostbear,10,63,1
 2026-10-20,nekohelmet,Neko Helmets,Gold Rush,15,85,1
 2026-10-20,nekohelmet,Neko Helmets,Hothead,25,56,2
 2026-10-20,nekohelmet,Neko Helmets,Ladybug,15,42,1
@@ -1645,7 +1645,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,nekohelmet,Neko Helmets,Lime Juice,27,65,2
 2026-10-20,nekohelmet,Neko Helmets,Maneki Neko,10,70,2
 2026-10-20,nekohelmet,Neko Helmets,Panther,25,55,1
-2026-10-20,nekohelmet,Neko Helmets,Retro-Future,,69,2
+2026-10-20,nekohelmet,Neko Helmets,Retro-Future,10,69,2
 2026-10-20,nekohelmet,Neko Helmets,Silver Surfer,27,80,1
 2026-10-20,nekohelmet,Neko Helmets,Solar Glare,27,70,2
 2026-10-20,nekohelmet,Neko Helmets,Starry Sky,15,59,5
@@ -1654,9 +1654,9 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,nekohelmet,Neko Helmets,Techno,20,45,3
 2026-10-20,nekohelmet,Neko Helmets,Tokyo Sunset,25,54,1
 2026-10-20,nekohelmet,Neko Helmets,Twister,20,49,6
-2026-10-20,nekohelmet,Neko Helmets,Unicorn,,77,1
-2026-10-20,nekohelmet,Neko Helmets,Wild Daisy,,59,2
-2026-10-20,partysparkler,Party Sparklers,Amethyst,,6,2
+2026-10-20,nekohelmet,Neko Helmets,Unicorn,10,77,1
+2026-10-20,nekohelmet,Neko Helmets,Wild Daisy,10,59,2
+2026-10-20,partysparkler,Party Sparklers,Amethyst,14,6,2
 2026-10-20,partysparkler,Party Sparklers,Anemone,13,8,1
 2026-10-20,partysparkler,Party Sparklers,Birthday,,7,3
 2026-10-20,partysparkler,Party Sparklers,Blueshift,13,5,2
@@ -1667,17 +1667,17 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,partysparkler,Party Sparklers,Carapace,,7,1
 2026-10-20,partysparkler,Party Sparklers,Chosen One,,7,2
 2026-10-20,partysparkler,Party Sparklers,Cupid Caster,,8,1
-2026-10-20,partysparkler,Party Sparklers,Cyan Sizzle,,8,1
+2026-10-20,partysparkler,Party Sparklers,Cyan Sizzle,14,8,1
 2026-10-20,partysparkler,Party Sparklers,Druidic,7,6,3
 2026-10-20,partysparkler,Party Sparklers,Glenda,,6,3
 2026-10-20,partysparkler,Party Sparklers,Green Shine,,7,1
-2026-10-20,partysparkler,Party Sparklers,Hellfire,,7,1
+2026-10-20,partysparkler,Party Sparklers,Hellfire,13,7,1
 2026-10-20,partysparkler,Party Sparklers,Hot Handle,13,8,1
 2026-10-20,partysparkler,Party Sparklers,Inverted,13,8,2
 2026-10-20,partysparkler,Party Sparklers,Iris Shine,,7,1
 2026-10-20,partysparkler,Party Sparklers,Kenobi,,7,1
 2026-10-20,partysparkler,Party Sparklers,Lime Time,13,7,1
-2026-10-20,partysparkler,Party Sparklers,Little Fairy,,7,1
+2026-10-20,partysparkler,Party Sparklers,Little Fairy,14,7,1
 2026-10-20,partysparkler,Party Sparklers,Lord Vader,9,8,1
 2026-10-20,partysparkler,Party Sparklers,Mai Tai,,6,1
 2026-10-20,partysparkler,Party Sparklers,Midas Party,9,8,1
@@ -1716,7 +1716,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,poolfloat,Pool Floats,Alpaca,30,5,1
 2026-10-20,poolfloat,Pool Floats,Balloon Dog,30,5,4
 2026-10-20,poolfloat,Pool Floats,Dark Swan,,5,1
-2026-10-20,poolfloat,Pool Floats,Duck Boss,,5,1
+2026-10-20,poolfloat,Pool Floats,Duck Boss,25,5,1
 2026-10-20,poolfloat,Pool Floats,Giraffe,30,5,3
 2026-10-20,poolfloat,Pool Floats,Golden Cobra,30,5,1
 2026-10-20,poolfloat,Pool Floats,Khokhloma,,5,1
@@ -1814,7 +1814,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,recordplayer,Record Players,Sonic Fuchsia,10,15,1
 2026-10-20,recordplayer,Record Players,The Wall,,20,1
 2026-10-20,recordplayer,Record Players,Until Dusk,,21,1
-2026-10-20,recordplayer,Record Players,Vanilla Sky,,16,1
+2026-10-20,recordplayer,Record Players,Vanilla Sky,20,16,1
 2026-10-20,recordplayer,Record Players,Yin-Yang,,21,1
 2026-10-20,resistancedog,Resistance Dogs,Squid Guard,8,72000,1
 2026-10-20,restlessjar,Restless Jars,Aquarium,,7,1
@@ -2040,7 +2040,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,snowglobe,Snow Globes,Summer,15,9,1
 2026-10-20,snowglobe,Snow Globes,White Day,30,7,2
 2026-10-20,snowglobe,Snow Globes,Wild West,15,7,2
-2026-10-20,snowmittens,Snow Mittens,Alpine Fern,,11,1
+2026-10-20,snowmittens,Snow Mittens,Alpine Fern,13,11,1
 2026-10-20,snowmittens,Snow Mittens,Amanita,8,10,2
 2026-10-20,snowmittens,Snow Mittens,Arborist,8,11,1
 2026-10-20,snowmittens,Snow Mittens,Bechamel,,8,2
@@ -2066,11 +2066,11 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,snowmittens,Snow Mittens,Mauvelous,,10,1
 2026-10-20,snowmittens,Snow Mittens,Menthol,,9,3
 2026-10-20,snowmittens,Snow Mittens,Milk Tea,13,8,2
-2026-10-20,snowmittens,Snow Mittens,Mintens,,9,1
+2026-10-20,snowmittens,Snow Mittens,Mintens,13,9,1
 2026-10-20,snowmittens,Snow Mittens,Mistletoe,,11,1
 2026-10-20,snowmittens,Snow Mittens,Norway,13,11,1
 2026-10-20,snowmittens,Snow Mittens,Orchid,13,10,2
-2026-10-20,snowmittens,Snow Mittens,Periwinkle,,12,1
+2026-10-20,snowmittens,Snow Mittens,Periwinkle,13,12,1
 2026-10-20,snowmittens,Snow Mittens,Pink Cuffs,13,11,1
 2026-10-20,snowmittens,Snow Mittens,Pink Sparkle,8,9,2
 2026-10-20,snowmittens,Snow Mittens,Pyrite,13,11,1
@@ -2318,7 +2318,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-20,toybear,Toy Bears,Polar Bear,20,49,1
 2026-10-20,toybear,Toy Bears,Polygon,15,49,2
 2026-10-20,toybear,Toy Bears,Purple Heart,20,49,2
-2026-10-20,toybear,Toy Bears,Red Velvet,,50,1
+2026-10-20,toybear,Toy Bears,Red Velvet,22,50,1
 2026-10-20,toybear,Toy Bears,Snowman,,41,2
 2026-10-20,toybear,Toy Bears,Tiger,10,44,2
 2026-10-20,toybear,Toy Bears,Tuxedo,15,41,2
