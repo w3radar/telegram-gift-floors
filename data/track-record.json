@@ -1,6 +1,6 @@
 {
  "source": "https://tggifts.com/track-record",
- "generated": "2026-10-22T04:46:12.242Z",
+ "generated": "2026-10-23T11:54:25.576Z",
  "note": "Hunts younger than 24h are withheld. Outcomes are read from each item's public Fragment page; 'unknown' means no public sale price was found. estimated_profit is an estimate at alert time, not realised profit.",
  "hunts": [
   {
@@ -29,7 +29,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-22T01:39:15.357Z"
+   "outcome_checked_at": "2026-10-23T07:42:07.404Z"
   },
   {
    "found": "2026-10-20T01:20:22.121Z",
@@ -111,7 +111,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-22T01:30:34.064Z"
+   "outcome_checked_at": "2026-10-23T07:33:34.673Z"
   },
   {
    "found": "2026-10-19T07:56:02.772Z",
@@ -124,7 +124,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-22T01:13:52.390Z"
+   "outcome_checked_at": "2026-10-23T07:16:50.645Z"
   },
   {
    "found": "2026-10-19T07:56:02.772Z",
@@ -137,7 +137,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-22T01:14:55.691Z"
+   "outcome_checked_at": "2026-10-23T07:17:53.707Z"
   },
   {
    "found": "2026-10-19T05:10:22.121Z",
@@ -165,7 +165,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-22T04:41:16.510Z"
+   "outcome_checked_at": "2026-10-23T10:43:02.642Z"
   }
  ]
 }
