@@ -1,8 +1,21 @@
 {
  "source": "https://tggifts.com/track-record",
- "generated": "2026-10-24T05:20:39.544Z",
+ "generated": "2026-10-25T05:32:59.161Z",
  "note": "Hunts younger than 24h are withheld. Outcomes are read from each item's public Fragment page; 'unknown' means no public sale price was found. estimated_profit is an estimate at alert time, not realised profit.",
  "hunts": [
+  {
+   "found": "2026-10-23T23:10:24.444Z",
+   "type": "gift",
+   "item": "Astral Shard #1369",
+   "fragment_url": "https://fragment.com/gift/astralshard-1369",
+   "price_at_alert": 127,
+   "our_estimated_value": 148,
+   "estimated_profit_after_5pct_fee": 13.6,
+   "outcome": {
+    "status": "unknown"
+   },
+   "outcome_checked_at": "2026-10-24T01:11:41.474Z"
+  },
   {
    "found": "2026-10-23T03:04:18.064Z",
    "type": "gift",
@@ -14,7 +27,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-24T02:18:21.480Z"
+   "outcome_checked_at": "2026-10-25T00:28:53.631Z"
   },
   {
    "found": "2026-10-23T01:50:22.121Z",
@@ -72,7 +85,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-24T01:43:55.074Z"
+   "outcome_checked_at": "2026-10-25T00:27:48.346Z"
   },
   {
    "found": "2026-10-20T01:20:22.121Z",
@@ -154,7 +167,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-24T01:35:36.895Z"
+   "outcome_checked_at": "2026-10-25T00:26:44.031Z"
   },
   {
    "found": "2026-10-19T07:56:02.772Z",
@@ -167,7 +180,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-24T01:18:59.235Z"
+   "outcome_checked_at": "2026-10-25T00:24:34.459Z"
   },
   {
    "found": "2026-10-19T07:56:02.772Z",
@@ -180,7 +193,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-24T01:20:01.314Z"
+   "outcome_checked_at": "2026-10-25T00:25:39.635Z"
   },
   {
    "found": "2026-10-19T05:10:22.121Z",
@@ -208,7 +221,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-24T04:44:18.397Z"
+   "outcome_checked_at": "2026-10-25T00:30:01.396Z"
   }
  ]
 }
