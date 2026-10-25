@@ -6,6 +6,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,algorithmcup,Algorithm Cups,3333,2
 2026-10-23,algorithmcup,Algorithm Cups,3333,2
 2026-10-24,algorithmcup,Algorithm Cups,3333,2
+2026-10-25,algorithmcup,Algorithm Cups,3333,2
 2026-10-18,artisanbrick,Artisan Bricks,70,60
 2026-10-19,artisanbrick,Artisan Bricks,70,60
 2026-10-20,artisanbrick,Artisan Bricks,70,60
@@ -13,6 +14,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,artisanbrick,Artisan Bricks,70,60
 2026-10-23,artisanbrick,Artisan Bricks,70,60
 2026-10-24,artisanbrick,Artisan Bricks,75,60
+2026-10-25,artisanbrick,Artisan Bricks,75,60
 2026-10-18,astralshard,Astral Shards,149,0
 2026-10-19,astralshard,Astral Shards,149,60
 2026-10-20,astralshard,Astral Shards,149,60
@@ -20,6 +22,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,astralshard,Astral Shards,148,60
 2026-10-23,astralshard,Astral Shards,148,60
 2026-10-24,astralshard,Astral Shards,127,60
+2026-10-25,astralshard,Astral Shards,147,60
 2026-10-18,bdaycandle,B-Day Candles,5,0
 2026-10-19,bdaycandle,B-Day Candles,5,60
 2026-10-20,bdaycandle,B-Day Candles,5,60
@@ -27,6 +30,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,bdaycandle,B-Day Candles,6,60
 2026-10-23,bdaycandle,B-Day Candles,6,60
 2026-10-24,bdaycandle,B-Day Candles,6,60
+2026-10-25,bdaycandle,B-Day Candles,6,60
 2026-10-18,bigyear,Big Years,5,60
 2026-10-19,bigyear,Big Years,5,0
 2026-10-20,bigyear,Big Years,5,0
@@ -34,6 +38,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,bigyear,Big Years,5,60
 2026-10-23,bigyear,Big Years,5,60
 2026-10-24,bigyear,Big Years,5,60
+2026-10-25,bigyear,Big Years,5,60
 2026-10-18,blingbinky,Bling Binkies,30,60
 2026-10-19,blingbinky,Bling Binkies,30,0
 2026-10-20,blingbinky,Bling Binkies,30,0
@@ -41,6 +46,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,blingbinky,Bling Binkies,30,60
 2026-10-23,blingbinky,Bling Binkies,30,0
 2026-10-24,blingbinky,Bling Binkies,30,60
+2026-10-25,blingbinky,Bling Binkies,30,60
 2026-10-18,bondedring,Bonded Rings,44,60
 2026-10-19,bondedring,Bonded Rings,43,60
 2026-10-20,bondedring,Bonded Rings,45,60
@@ -48,6 +54,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,bondedring,Bonded Rings,45,60
 2026-10-23,bondedring,Bonded Rings,46,60
 2026-10-24,bondedring,Bonded Rings,46,60
+2026-10-25,bondedring,Bonded Rings,46,60
 2026-10-18,bowtie,Bow Ties,6,60
 2026-10-19,bowtie,Bow Ties,6,60
 2026-10-20,bowtie,Bow Ties,6,0
@@ -55,6 +62,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,bowtie,Bow Ties,6,60
 2026-10-23,bowtie,Bow Ties,6,60
 2026-10-24,bowtie,Bow Ties,6,60
+2026-10-25,bowtie,Bow Ties,7,60
 2026-10-18,bunnymuffin,Bunny Muffins,9,60
 2026-10-19,bunnymuffin,Bunny Muffins,9,60
 2026-10-20,bunnymuffin,Bunny Muffins,9,0
@@ -62,6 +70,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,bunnymuffin,Bunny Muffins,9,60
 2026-10-23,bunnymuffin,Bunny Muffins,9,0
 2026-10-24,bunnymuffin,Bunny Muffins,9,60
+2026-10-25,bunnymuffin,Bunny Muffins,9,60
 2026-10-18,candycane,Candy Canes,5,60
 2026-10-19,candycane,Candy Canes,5,60
 2026-10-20,candycane,Candy Canes,5,60
@@ -69,6 +78,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,candycane,Candy Canes,5,60
 2026-10-23,candycane,Candy Canes,5,60
 2026-10-24,candycane,Candy Canes,5,60
+2026-10-25,candycane,Candy Canes,5,60
 2026-10-18,chillflame,Chill Flames,4,60
 2026-10-19,chillflame,Chill Flames,5,60
 2026-10-20,chillflame,Chill Flames,5,60
@@ -76,6 +86,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,chillflame,Chill Flames,5,60
 2026-10-23,chillflame,Chill Flames,5,0
 2026-10-24,chillflame,Chill Flames,5,0
+2026-10-25,chillflame,Chill Flames,5,60
 2026-10-18,cloverpin,Clover Pins,5,60
 2026-10-19,cloverpin,Clover Pins,6,60
 2026-10-20,cloverpin,Clover Pins,6,60
@@ -83,6 +94,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,cloverpin,Clover Pins,6,60
 2026-10-23,cloverpin,Clover Pins,6,60
 2026-10-24,cloverpin,Clover Pins,6,60
+2026-10-25,cloverpin,Clover Pins,6,60
 2026-10-18,cookieheart,Cookie Hearts,6,60
 2026-10-19,cookieheart,Cookie Hearts,6,60
 2026-10-20,cookieheart,Cookie Hearts,6,60
@@ -90,6 +102,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,cookieheart,Cookie Hearts,6,60
 2026-10-23,cookieheart,Cookie Hearts,6,60
 2026-10-24,cookieheart,Cookie Hearts,6,60
+2026-10-25,cookieheart,Cookie Hearts,6,60
 2026-10-18,crystalball,Crystal Balls,14,60
 2026-10-19,crystalball,Crystal Balls,14,60
 2026-10-20,crystalball,Crystal Balls,14,60
@@ -97,6 +110,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,crystalball,Crystal Balls,14,60
 2026-10-23,crystalball,Crystal Balls,14,60
 2026-10-24,crystalball,Crystal Balls,15,60
+2026-10-25,crystalball,Crystal Balls,15,60
 2026-10-18,cupidcharm,Cupid Charms,23,60
 2026-10-19,cupidcharm,Cupid Charms,23,60
 2026-10-20,cupidcharm,Cupid Charms,23,60
@@ -104,6 +118,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,cupidcharm,Cupid Charms,23,60
 2026-10-23,cupidcharm,Cupid Charms,23,60
 2026-10-24,cupidcharm,Cupid Charms,23,60
+2026-10-25,cupidcharm,Cupid Charms,25,60
 2026-10-18,deskcalendar,Desk Calendars,7,60
 2026-10-19,deskcalendar,Desk Calendars,7,60
 2026-10-20,deskcalendar,Desk Calendars,7,0
@@ -111,6 +126,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,deskcalendar,Desk Calendars,7,60
 2026-10-23,deskcalendar,Desk Calendars,7,60
 2026-10-24,deskcalendar,Desk Calendars,7,60
+2026-10-25,deskcalendar,Desk Calendars,7,60
 2026-10-18,diamondring,Diamond Rings,33,60
 2026-10-19,diamondring,Diamond Rings,33,60
 2026-10-20,diamondring,Diamond Rings,33,0
@@ -118,6 +134,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,diamondring,Diamond Rings,35,60
 2026-10-23,diamondring,Diamond Rings,35,60
 2026-10-24,diamondring,Diamond Rings,33,60
+2026-10-25,diamondring,Diamond Rings,37,60
 2026-10-18,durovsglasses,Durov’s Glasses,189,33
 2026-10-19,durovsglasses,Durov’s Glasses,189,33
 2026-10-20,durovsglasses,Durov’s Glasses,248,35
@@ -125,6 +142,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,durovsglasses,Durov’s Glasses,230,35
 2026-10-23,durovsglasses,Durov’s Glasses,230,36
 2026-10-24,durovsglasses,Durov’s Glasses,230,37
+2026-10-25,durovsglasses,Durov’s Glasses,230,38
 2026-10-18,easteregg,Easter Eggs,5,60
 2026-10-19,easteregg,Easter Eggs,5,60
 2026-10-20,easteregg,Easter Eggs,5,60
@@ -132,6 +150,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,easteregg,Easter Eggs,5,60
 2026-10-23,easteregg,Easter Eggs,5,0
 2026-10-24,easteregg,Easter Eggs,5,60
+2026-10-25,easteregg,Easter Eggs,5,60
 2026-10-18,electricskull,Electric Skulls,29,60
 2026-10-19,electricskull,Electric Skulls,29,60
 2026-10-20,electricskull,Electric Skulls,29,60
@@ -139,6 +158,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,electricskull,Electric Skulls,32,60
 2026-10-23,electricskull,Electric Skulls,30,60
 2026-10-24,electricskull,Electric Skulls,29,60
+2026-10-25,electricskull,Electric Skulls,32,60
 2026-10-18,eternalcandle,Eternal Candles,7,60
 2026-10-19,eternalcandle,Eternal Candles,7,60
 2026-10-20,eternalcandle,Eternal Candles,7,60
@@ -146,6 +166,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,eternalcandle,Eternal Candles,7,60
 2026-10-23,eternalcandle,Eternal Candles,7,60
 2026-10-24,eternalcandle,Eternal Candles,7,60
+2026-10-25,eternalcandle,Eternal Candles,7,60
 2026-10-18,faithamulet,Faith Amulets,7,60
 2026-10-19,faithamulet,Faith Amulets,7,60
 2026-10-20,faithamulet,Faith Amulets,7,60
@@ -153,6 +174,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,faithamulet,Faith Amulets,6,60
 2026-10-23,faithamulet,Faith Amulets,6,60
 2026-10-24,faithamulet,Faith Amulets,6,60
+2026-10-25,faithamulet,Faith Amulets,7,60
 2026-10-18,finepen,Fine Pens,8,60
 2026-10-19,finepen,Fine Pens,8,60
 2026-10-20,finepen,Fine Pens,9,60
@@ -160,6 +182,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,finepen,Fine Pens,10,60
 2026-10-23,finepen,Fine Pens,10,60
 2026-10-24,finepen,Fine Pens,10,60
+2026-10-25,finepen,Fine Pens,9,60
 2026-10-18,flyingbroom,Flying Brooms,13,60
 2026-10-19,flyingbroom,Flying Brooms,13,60
 2026-10-20,flyingbroom,Flying Brooms,13,60
@@ -167,6 +190,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,flyingbroom,Flying Brooms,14,60
 2026-10-23,flyingbroom,Flying Brooms,14,60
 2026-10-24,flyingbroom,Flying Brooms,14,60
+2026-10-25,flyingbroom,Flying Brooms,14,60
 2026-10-18,freshsocks,Fresh Socks,5,60
 2026-10-19,freshsocks,Fresh Socks,5,60
 2026-10-20,freshsocks,Fresh Socks,5,60
@@ -174,6 +198,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,freshsocks,Fresh Socks,5,60
 2026-10-23,freshsocks,Fresh Socks,6,60
 2026-10-24,freshsocks,Fresh Socks,6,60
+2026-10-25,freshsocks,Fresh Socks,6,0
 2026-10-18,gemsignet,Gem Signets,72,60
 2026-10-19,gemsignet,Gem Signets,72,60
 2026-10-20,gemsignet,Gem Signets,65,60
@@ -181,6 +206,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,gemsignet,Gem Signets,65,60
 2026-10-23,gemsignet,Gem Signets,65,60
 2026-10-24,gemsignet,Gem Signets,65,60
+2026-10-25,gemsignet,Gem Signets,65,0
 2026-10-18,genielamp,Genie Lamps,40,60
 2026-10-19,genielamp,Genie Lamps,40,60
 2026-10-20,genielamp,Genie Lamps,35,60
@@ -188,6 +214,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,genielamp,Genie Lamps,40,60
 2026-10-23,genielamp,Genie Lamps,40,60
 2026-10-24,genielamp,Genie Lamps,40,60
+2026-10-25,genielamp,Genie Lamps,40,0
 2026-10-18,gingercookie,Ginger Cookies,6,60
 2026-10-19,gingercookie,Ginger Cookies,6,60
 2026-10-20,gingercookie,Ginger Cookies,6,60
@@ -195,6 +222,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,gingercookie,Ginger Cookies,6,60
 2026-10-23,gingercookie,Ginger Cookies,5,60
 2026-10-24,gingercookie,Ginger Cookies,5,60
+2026-10-25,gingercookie,Ginger Cookies,6,0
 2026-10-18,hangingstar,Hanging Stars,10,0
 2026-10-19,hangingstar,Hanging Stars,10,60
 2026-10-20,hangingstar,Hanging Stars,10,60
@@ -202,6 +230,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,hangingstar,Hanging Stars,10,60
 2026-10-23,hangingstar,Hanging Stars,10,60
 2026-10-24,hangingstar,Hanging Stars,10,60
+2026-10-25,hangingstar,Hanging Stars,10,60
 2026-10-18,happybrownie,Happy Brownies,5,0
 2026-10-19,happybrownie,Happy Brownies,5,60
 2026-10-20,happybrownie,Happy Brownies,5,60
@@ -209,6 +238,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,happybrownie,Happy Brownies,5,0
 2026-10-23,happybrownie,Happy Brownies,5,60
 2026-10-24,happybrownie,Happy Brownies,5,60
+2026-10-25,happybrownie,Happy Brownies,5,60
 2026-10-18,heartlocket,Heart Lockets,1444,29
 2026-10-19,heartlocket,Heart Lockets,1444,0
 2026-10-20,heartlocket,Heart Lockets,1444,29
@@ -216,6 +246,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,heartlocket,Heart Lockets,1444,0
 2026-10-23,heartlocket,Heart Lockets,1444,29
 2026-10-24,heartlocket,Heart Lockets,1444,29
+2026-10-25,heartlocket,Heart Lockets,1444,0
 2026-10-18,heroichelmet,Heroic Helmets,219,60
 2026-10-19,heroichelmet,Heroic Helmets,219,60
 2026-10-20,heroichelmet,Heroic Helmets,190,60
@@ -223,6 +254,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,heroichelmet,Heroic Helmets,190,0
 2026-10-23,heroichelmet,Heroic Helmets,190,60
 2026-10-24,heroichelmet,Heroic Helmets,190,0
+2026-10-25,heroichelmet,Heroic Helmets,190,0
 2026-10-18,holidaydrink,Holiday Drinks,5,0
 2026-10-19,holidaydrink,Holiday Drinks,5,0
 2026-10-20,holidaydrink,Holiday Drinks,5,60
@@ -230,6 +262,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,holidaydrink,Holiday Drinks,5,60
 2026-10-23,holidaydrink,Holiday Drinks,5,60
 2026-10-24,holidaydrink,Holiday Drinks,5,60
+2026-10-25,holidaydrink,Holiday Drinks,5,0
 2026-10-18,hypnolollipop,Hypno Lollipops,5,0
 2026-10-19,hypnolollipop,Hypno Lollipops,5,60
 2026-10-20,hypnolollipop,Hypno Lollipops,6,60
@@ -237,6 +270,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,hypnolollipop,Hypno Lollipops,6,60
 2026-10-23,hypnolollipop,Hypno Lollipops,5,60
 2026-10-24,hypnolollipop,Hypno Lollipops,5,60
+2026-10-25,hypnolollipop,Hypno Lollipops,5,60
 2026-10-18,icecream,Ice Creams,5,0
 2026-10-19,icecream,Ice Creams,5,60
 2026-10-20,icecream,Ice Creams,5,60
@@ -244,6 +278,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,icecream,Ice Creams,5,60
 2026-10-23,icecream,Ice Creams,5,60
 2026-10-24,icecream,Ice Creams,5,60
+2026-10-25,icecream,Ice Creams,5,60
 2026-10-18,inputkey,Input Keys,7,60
 2026-10-19,inputkey,Input Keys,7,60
 2026-10-20,inputkey,Input Keys,7,60
@@ -251,6 +286,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,inputkey,Input Keys,7,0
 2026-10-23,inputkey,Input Keys,7,60
 2026-10-24,inputkey,Input Keys,7,60
+2026-10-25,inputkey,Input Keys,7,60
 2026-10-18,instantramen,Instant Ramens,5,60
 2026-10-19,instantramen,Instant Ramens,5,60
 2026-10-20,instantramen,Instant Ramens,5,60
@@ -258,6 +294,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,instantramen,Instant Ramens,5,0
 2026-10-23,instantramen,Instant Ramens,5,60
 2026-10-24,instantramen,Instant Ramens,5,0
+2026-10-25,instantramen,Instant Ramens,5,60
 2026-10-18,intelligencecup,Intelligence Cups,3099,2
 2026-10-19,intelligencecup,Intelligence Cups,3099,2
 2026-10-20,intelligencecup,Intelligence Cups,3099,2
@@ -265,6 +302,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,intelligencecup,Intelligence Cups,3099,0
 2026-10-23,intelligencecup,Intelligence Cups,3099,2
 2026-10-24,intelligencecup,Intelligence Cups,3099,2
+2026-10-25,intelligencecup,Intelligence Cups,3099,2
 2026-10-18,iongem,Ion Gems,79,60
 2026-10-19,iongem,Ion Gems,79,60
 2026-10-20,iongem,Ion Gems,79,0
@@ -272,6 +310,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,iongem,Ion Gems,79,60
 2026-10-23,iongem,Ion Gems,79,0
 2026-10-24,iongem,Ion Gems,78,60
+2026-10-25,iongem,Ion Gems,77,60
 2026-10-18,ionicdryer,Ionic Dryers,16,60
 2026-10-19,ionicdryer,Ionic Dryers,16,60
 2026-10-20,ionicdryer,Ionic Dryers,16,0
@@ -279,6 +318,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,ionicdryer,Ionic Dryers,16,60
 2026-10-23,ionicdryer,Ionic Dryers,16,0
 2026-10-24,ionicdryer,Ionic Dryers,16,60
+2026-10-25,ionicdryer,Ionic Dryers,16,60
 2026-10-18,jackinthebox,Jacks-in-the-Box,6,0
 2026-10-19,jackinthebox,Jacks-in-the-Box,6,60
 2026-10-20,jackinthebox,Jacks-in-the-Box,6,0
@@ -286,6 +326,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,jackinthebox,Jacks-in-the-Box,6,60
 2026-10-23,jackinthebox,Jacks-in-the-Box,6,60
 2026-10-24,jackinthebox,Jacks-in-the-Box,6,60
+2026-10-25,jackinthebox,Jacks-in-the-Box,6,60
 2026-10-18,jesterhat,Jester Hats,5,60
 2026-10-19,jesterhat,Jester Hats,5,60
 2026-10-20,jesterhat,Jester Hats,5,60
@@ -293,6 +334,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,jesterhat,Jester Hats,5,60
 2026-10-23,jesterhat,Jester Hats,5,60
 2026-10-24,jesterhat,Jester Hats,5,60
+2026-10-25,jesterhat,Jester Hats,5,60
 2026-10-18,jinglebells,Jingle Bells,11,60
 2026-10-19,jinglebells,Jingle Bells,11,60
 2026-10-20,jinglebells,Jingle Bells,11,60
@@ -300,6 +342,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,jinglebells,Jingle Bells,12,60
 2026-10-23,jinglebells,Jingle Bells,12,0
 2026-10-24,jinglebells,Jingle Bells,12,60
+2026-10-25,jinglebells,Jingle Bells,12,60
 2026-10-18,jollychimp,Jolly Chimps,8,60
 2026-10-19,jollychimp,Jolly Chimps,8,60
 2026-10-20,jollychimp,Jolly Chimps,8,60
@@ -307,6 +350,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,jollychimp,Jolly Chimps,8,60
 2026-10-23,jollychimp,Jolly Chimps,8,60
 2026-10-24,jollychimp,Jolly Chimps,8,60
+2026-10-25,jollychimp,Jolly Chimps,8,60
 2026-10-18,joyfulbundle,Joyful Bundles,11,60
 2026-10-19,joyfulbundle,Joyful Bundles,11,60
 2026-10-20,joyfulbundle,Joyful Bundles,11,60
@@ -314,6 +358,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,joyfulbundle,Joyful Bundles,11,60
 2026-10-23,joyfulbundle,Joyful Bundles,11,60
 2026-10-24,joyfulbundle,Joyful Bundles,9,60
+2026-10-25,joyfulbundle,Joyful Bundles,11,60
 2026-10-18,khabibspapakha,Khabib’s Papakhas,29,60
 2026-10-19,khabibspapakha,Khabib’s Papakhas,29,60
 2026-10-20,khabibspapakha,Khabib’s Papakhas,29,60
@@ -321,6 +366,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,khabibspapakha,Khabib’s Papakhas,29,60
 2026-10-23,khabibspapakha,Khabib’s Papakhas,29,0
 2026-10-24,khabibspapakha,Khabib’s Papakhas,29,60
+2026-10-25,khabibspapakha,Khabib’s Papakhas,29,60
 2026-10-18,libertyfigure,Liberty Figures,5,60
 2026-10-19,libertyfigure,Liberty Figures,6,60
 2026-10-20,libertyfigure,Liberty Figures,6,60
@@ -328,6 +374,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,libertyfigure,Liberty Figures,6,60
 2026-10-23,libertyfigure,Liberty Figures,6,60
 2026-10-24,libertyfigure,Liberty Figures,6,60
+2026-10-25,libertyfigure,Liberty Figures,6,60
 2026-10-18,lightsword,Light Swords,7,60
 2026-10-19,lightsword,Light Swords,7,60
 2026-10-20,lightsword,Light Swords,7,60
@@ -335,6 +382,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,lightsword,Light Swords,7,60
 2026-10-23,lightsword,Light Swords,7,60
 2026-10-24,lightsword,Light Swords,7,60
+2026-10-25,lightsword,Light Swords,7,60
 2026-10-18,lolpop,Lol Pops,5,60
 2026-10-19,lolpop,Lol Pops,5,60
 2026-10-20,lolpop,Lol Pops,5,60
@@ -342,6 +390,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,lolpop,Lol Pops,5,60
 2026-10-23,lolpop,Lol Pops,5,60
 2026-10-24,lolpop,Lol Pops,5,60
+2026-10-25,lolpop,Lol Pops,5,60
 2026-10-18,lootbag,Loot Bags,141,60
 2026-10-19,lootbag,Loot Bags,141,60
 2026-10-20,lootbag,Loot Bags,141,60
@@ -349,6 +398,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,lootbag,Loot Bags,130,60
 2026-10-23,lootbag,Loot Bags,130,60
 2026-10-24,lootbag,Loot Bags,141,60
+2026-10-25,lootbag,Loot Bags,138,60
 2026-10-18,lovecandle,Love Candles,12,60
 2026-10-19,lovecandle,Love Candles,12,60
 2026-10-20,lovecandle,Love Candles,12,60
@@ -356,6 +406,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,lovecandle,Love Candles,12,60
 2026-10-23,lovecandle,Love Candles,12,60
 2026-10-24,lovecandle,Love Candles,12,60
+2026-10-25,lovecandle,Love Candles,12,60
 2026-10-18,lovepotion,Love Potions,15,60
 2026-10-19,lovepotion,Love Potions,15,60
 2026-10-20,lovepotion,Love Potions,16,60
@@ -363,6 +414,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,lovepotion,Love Potions,16,60
 2026-10-23,lovepotion,Love Potions,16,60
 2026-10-24,lovepotion,Love Potions,16,60
+2026-10-25,lovepotion,Love Potions,16,60
 2026-10-18,lowrider,Low Riders,63,60
 2026-10-19,lowrider,Low Riders,63,60
 2026-10-20,lowrider,Low Riders,63,60
@@ -370,6 +422,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,lowrider,Low Riders,62,60
 2026-10-23,lowrider,Low Riders,62,60
 2026-10-24,lowrider,Low Riders,62,60
+2026-10-25,lowrider,Low Riders,62,60
 2026-10-18,lunarsnake,Lunar Snakes,5,60
 2026-10-19,lunarsnake,Lunar Snakes,5,60
 2026-10-20,lunarsnake,Lunar Snakes,5,60
@@ -377,6 +430,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,lunarsnake,Lunar Snakes,5,60
 2026-10-23,lunarsnake,Lunar Snakes,5,60
 2026-10-24,lunarsnake,Lunar Snakes,5,60
+2026-10-25,lunarsnake,Lunar Snakes,5,60
 2026-10-18,lushbouquet,Lush Bouquets,7,60
 2026-10-19,lushbouquet,Lush Bouquets,7,60
 2026-10-20,lushbouquet,Lush Bouquets,7,60
@@ -384,6 +438,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,lushbouquet,Lush Bouquets,7,60
 2026-10-23,lushbouquet,Lush Bouquets,7,60
 2026-10-24,lushbouquet,Lush Bouquets,7,60
+2026-10-25,lushbouquet,Lush Bouquets,7,60
 2026-10-18,madpumpkin,Mad Pumpkins,17,60
 2026-10-19,madpumpkin,Mad Pumpkins,18,60
 2026-10-20,madpumpkin,Mad Pumpkins,18,60
@@ -391,6 +446,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,madpumpkin,Mad Pumpkins,18,60
 2026-10-23,madpumpkin,Mad Pumpkins,19,60
 2026-10-24,madpumpkin,Mad Pumpkins,19,60
+2026-10-25,madpumpkin,Mad Pumpkins,19,60
 2026-10-18,mightyarm,Mighty Arms,150,60
 2026-10-19,mightyarm,Mighty Arms,150,60
 2026-10-20,mightyarm,Mighty Arms,150,60
@@ -398,6 +454,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,mightyarm,Mighty Arms,150,60
 2026-10-23,mightyarm,Mighty Arms,150,60
 2026-10-24,mightyarm,Mighty Arms,150,60
+2026-10-25,mightyarm,Mighty Arms,150,0
 2026-10-18,minioscar,Mini Oscars,78,60
 2026-10-19,minioscar,Mini Oscars,78,60
 2026-10-20,minioscar,Mini Oscars,78,60
@@ -405,8 +462,10 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,minioscar,Mini Oscars,78,60
 2026-10-23,minioscar,Mini Oscars,78,0
 2026-10-24,minioscar,Mini Oscars,78,0
+2026-10-25,minioscar,Mini Oscars,78,0
 2026-10-23,miragelamp,Mirage Lamps,100,0
 2026-10-24,miragelamp,Mirage Lamps,6,13
+2026-10-25,miragelamp,Mirage Lamps,6,0
 2026-10-18,moneypot,Money Pots,6,60
 2026-10-19,moneypot,Money Pots,6,60
 2026-10-20,moneypot,Money Pots,6,60
@@ -414,6 +473,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,moneypot,Money Pots,6,60
 2026-10-23,moneypot,Money Pots,6,60
 2026-10-24,moneypot,Money Pots,6,60
+2026-10-25,moneypot,Money Pots,6,60
 2026-10-18,moodpack,Mood Packs,5,60
 2026-10-19,moodpack,Mood Packs,5,60
 2026-10-20,moodpack,Mood Packs,5,60
@@ -421,6 +481,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,moodpack,Mood Packs,5,60
 2026-10-23,moodpack,Mood Packs,5,60
 2026-10-24,moodpack,Mood Packs,5,60
+2026-10-25,moodpack,Mood Packs,5,60
 2026-10-18,moonpendant,Moon Pendants,7,60
 2026-10-19,moonpendant,Moon Pendants,7,60
 2026-10-20,moonpendant,Moon Pendants,7,60
@@ -428,6 +489,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,moonpendant,Moon Pendants,7,60
 2026-10-23,moonpendant,Moon Pendants,7,60
 2026-10-24,moonpendant,Moon Pendants,7,60
+2026-10-25,moonpendant,Moon Pendants,7,60
 2026-10-18,moussecake,Mousse Cakes,6,60
 2026-10-19,moussecake,Mousse Cakes,6,60
 2026-10-20,moussecake,Mousse Cakes,6,60
@@ -435,6 +497,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,moussecake,Mousse Cakes,6,60
 2026-10-23,moussecake,Mousse Cakes,6,60
 2026-10-24,moussecake,Mousse Cakes,6,60
+2026-10-25,moussecake,Mousse Cakes,6,60
 2026-10-18,nailbracelet,Nail Bracelets,125,60
 2026-10-19,nailbracelet,Nail Bracelets,125,60
 2026-10-20,nailbracelet,Nail Bracelets,125,60
@@ -442,6 +505,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,nailbracelet,Nail Bracelets,149,60
 2026-10-23,nailbracelet,Nail Bracelets,149,60
 2026-10-24,nailbracelet,Nail Bracelets,149,60
+2026-10-25,nailbracelet,Nail Bracelets,149,60
 2026-10-18,nekohelmet,Neko Helmets,40,60
 2026-10-19,nekohelmet,Neko Helmets,40,0
 2026-10-20,nekohelmet,Neko Helmets,40,60
@@ -449,6 +513,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,nekohelmet,Neko Helmets,40,60
 2026-10-23,nekohelmet,Neko Helmets,40,60
 2026-10-24,nekohelmet,Neko Helmets,40,0
+2026-10-25,nekohelmet,Neko Helmets,42,60
 2026-10-18,partysparkler,Party Sparklers,5,60
 2026-10-19,partysparkler,Party Sparklers,5,0
 2026-10-20,partysparkler,Party Sparklers,5,60
@@ -456,6 +521,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,partysparkler,Party Sparklers,5,0
 2026-10-23,partysparkler,Party Sparklers,5,60
 2026-10-24,partysparkler,Party Sparklers,6,60
+2026-10-25,partysparkler,Party Sparklers,6,0
 2026-10-18,petsnake,Pet Snakes,5,60
 2026-10-19,petsnake,Pet Snakes,5,0
 2026-10-20,petsnake,Pet Snakes,5,60
@@ -463,6 +529,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,petsnake,Pet Snakes,5,60
 2026-10-23,petsnake,Pet Snakes,5,60
 2026-10-24,petsnake,Pet Snakes,5,60
+2026-10-25,petsnake,Pet Snakes,5,60
 2026-10-18,poolfloat,Pool Floats,5,0
 2026-10-19,poolfloat,Pool Floats,5,60
 2026-10-20,poolfloat,Pool Floats,5,60
@@ -470,6 +537,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,poolfloat,Pool Floats,5,60
 2026-10-23,poolfloat,Pool Floats,5,60
 2026-10-24,poolfloat,Pool Floats,5,0
+2026-10-25,poolfloat,Pool Floats,5,60
 2026-10-18,prettyposy,Pretty Posies,6,60
 2026-10-19,prettyposy,Pretty Posies,6,60
 2026-10-20,prettyposy,Pretty Posies,6,60
@@ -477,6 +545,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,prettyposy,Pretty Posies,6,60
 2026-10-23,prettyposy,Pretty Posies,6,60
 2026-10-24,prettyposy,Pretty Posies,6,60
+2026-10-25,prettyposy,Pretty Posies,6,60
 2026-10-18,rarebird,Rare Birds,30,60
 2026-10-19,rarebird,Rare Birds,30,60
 2026-10-20,rarebird,Rare Birds,29,0
@@ -484,6 +553,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,rarebird,Rare Birds,30,60
 2026-10-23,rarebird,Rare Birds,30,60
 2026-10-24,rarebird,Rare Birds,30,0
+2026-10-25,rarebird,Rare Birds,30,60
 2026-10-18,recordplayer,Record Players,13,60
 2026-10-19,recordplayer,Record Players,13,60
 2026-10-20,recordplayer,Record Players,13,0
@@ -491,11 +561,13 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,recordplayer,Record Players,13,60
 2026-10-23,recordplayer,Record Players,13,60
 2026-10-24,recordplayer,Record Players,13,60
+2026-10-25,recordplayer,Record Players,13,60
 2026-10-20,resistancedog,Resistance Dogs,72000,0
 2026-10-21,resistancedog,Resistance Dogs,72000,0
 2026-10-22,resistancedog,Resistance Dogs,1500,0
 2026-10-23,resistancedog,Resistance Dogs,1500,0
 2026-10-24,resistancedog,Resistance Dogs,1500,0
+2026-10-25,resistancedog,Resistance Dogs,1500,0
 2026-10-18,restlessjar,Restless Jars,6,60
 2026-10-19,restlessjar,Restless Jars,6,60
 2026-10-20,restlessjar,Restless Jars,6,0
@@ -503,6 +575,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,restlessjar,Restless Jars,6,60
 2026-10-23,restlessjar,Restless Jars,6,60
 2026-10-24,restlessjar,Restless Jars,6,60
+2026-10-25,restlessjar,Restless Jars,6,60
 2026-10-18,sakuraflower,Sakura Flowers,10,60
 2026-10-19,sakuraflower,Sakura Flowers,10,60
 2026-10-20,sakuraflower,Sakura Flowers,11,0
@@ -510,6 +583,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,sakuraflower,Sakura Flowers,11,60
 2026-10-23,sakuraflower,Sakura Flowers,11,60
 2026-10-24,sakuraflower,Sakura Flowers,11,0
+2026-10-25,sakuraflower,Sakura Flowers,12,60
 2026-10-18,skystilettos,Sky Stilettos,19,60
 2026-10-19,skystilettos,Sky Stilettos,19,60
 2026-10-20,skystilettos,Sky Stilettos,19,60
@@ -517,6 +591,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,skystilettos,Sky Stilettos,20,60
 2026-10-23,skystilettos,Sky Stilettos,20,60
 2026-10-24,skystilettos,Sky Stilettos,20,60
+2026-10-25,skystilettos,Sky Stilettos,20,60
 2026-10-18,sleighbell,Sleigh Bells,8,60
 2026-10-19,sleighbell,Sleigh Bells,8,60
 2026-10-20,sleighbell,Sleigh Bells,9,60
@@ -524,6 +599,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,sleighbell,Sleigh Bells,9,60
 2026-10-23,sleighbell,Sleigh Bells,9,60
 2026-10-24,sleighbell,Sleigh Bells,13,60
+2026-10-25,sleighbell,Sleigh Bells,12,60
 2026-10-18,snakebox,Snake Boxes,5,60
 2026-10-19,snakebox,Snake Boxes,5,60
 2026-10-20,snakebox,Snake Boxes,5,60
@@ -531,6 +607,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,snakebox,Snake Boxes,5,60
 2026-10-23,snakebox,Snake Boxes,5,60
 2026-10-24,snakebox,Snake Boxes,5,60
+2026-10-25,snakebox,Snake Boxes,5,60
 2026-10-18,snoopcigar,Snoop Cigars,16,60
 2026-10-19,snoopcigar,Snoop Cigars,16,60
 2026-10-20,snoopcigar,Snoop Cigars,16,60
@@ -538,6 +615,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,snoopcigar,Snoop Cigars,17,60
 2026-10-23,snoopcigar,Snoop Cigars,17,60
 2026-10-24,snoopcigar,Snoop Cigars,18,60
+2026-10-25,snoopcigar,Snoop Cigars,18,60
 2026-10-18,snoopdogg,Snoop Doggs,6,60
 2026-10-19,snoopdogg,Snoop Doggs,6,60
 2026-10-20,snoopdogg,Snoop Doggs,6,60
@@ -545,6 +623,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,snoopdogg,Snoop Doggs,6,60
 2026-10-23,snoopdogg,Snoop Doggs,6,60
 2026-10-24,snoopdogg,Snoop Doggs,6,60
+2026-10-25,snoopdogg,Snoop Doggs,6,60
 2026-10-18,snowglobe,Snow Globes,7,60
 2026-10-19,snowglobe,Snow Globes,7,60
 2026-10-20,snowglobe,Snow Globes,7,60
@@ -552,6 +631,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,snowglobe,Snow Globes,7,60
 2026-10-23,snowglobe,Snow Globes,7,0
 2026-10-24,snowglobe,Snow Globes,7,60
+2026-10-25,snowglobe,Snow Globes,7,60
 2026-10-18,snowmittens,Snow Mittens,7,60
 2026-10-19,snowmittens,Snow Mittens,7,60
 2026-10-20,snowmittens,Snow Mittens,8,60
@@ -559,6 +639,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,snowmittens,Snow Mittens,9,60
 2026-10-23,snowmittens,Snow Mittens,9,60
 2026-10-24,snowmittens,Snow Mittens,10,60
+2026-10-25,snowmittens,Snow Mittens,10,60
 2026-10-18,springbasket,Spring Baskets,6,60
 2026-10-19,springbasket,Spring Baskets,6,60
 2026-10-20,springbasket,Spring Baskets,6,60
@@ -566,6 +647,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,springbasket,Spring Baskets,6,60
 2026-10-23,springbasket,Spring Baskets,6,0
 2026-10-24,springbasket,Spring Baskets,6,60
+2026-10-25,springbasket,Spring Baskets,6,60
 2026-10-18,starnotepad,Star Notepads,5,60
 2026-10-19,starnotepad,Star Notepads,5,60
 2026-10-20,starnotepad,Star Notepads,5,60
@@ -573,6 +655,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,starnotepad,Star Notepads,5,60
 2026-10-23,starnotepad,Star Notepads,5,60
 2026-10-24,starnotepad,Star Notepads,6,60
+2026-10-25,starnotepad,Star Notepads,6,60
 2026-10-18,stellarrocket,Stellar Rockets,6,60
 2026-10-19,stellarrocket,Stellar Rockets,6,60
 2026-10-20,stellarrocket,Stellar Rockets,6,60
@@ -580,6 +663,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,stellarrocket,Stellar Rockets,6,60
 2026-10-23,stellarrocket,Stellar Rockets,6,60
 2026-10-24,stellarrocket,Stellar Rockets,6,60
+2026-10-25,stellarrocket,Stellar Rockets,6,60
 2026-10-18,surgeboard,Surge Boards,9,60
 2026-10-19,surgeboard,Surge Boards,8,60
 2026-10-20,surgeboard,Surge Boards,8,60
@@ -587,6 +671,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,surgeboard,Surge Boards,8,60
 2026-10-23,surgeboard,Surge Boards,8,60
 2026-10-24,surgeboard,Surge Boards,8,60
+2026-10-25,surgeboard,Surge Boards,8,60
 2026-10-18,swagbag,Swag Bags,6,60
 2026-10-19,swagbag,Swag Bags,6,60
 2026-10-20,swagbag,Swag Bags,6,60
@@ -594,6 +679,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,swagbag,Swag Bags,6,60
 2026-10-23,swagbag,Swag Bags,6,60
 2026-10-24,swagbag,Swag Bags,6,60
+2026-10-25,swagbag,Swag Bags,6,60
 2026-10-18,swisswatch,Swiss Watches,56,60
 2026-10-19,swisswatch,Swiss Watches,56,60
 2026-10-20,swisswatch,Swiss Watches,62,60
@@ -601,6 +687,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,swisswatch,Swiss Watches,60,60
 2026-10-23,swisswatch,Swiss Watches,75,60
 2026-10-24,swisswatch,Swiss Watches,75,60
+2026-10-25,swisswatch,Swiss Watches,75,60
 2026-10-18,tamagadget,Tama Gadgets,5,60
 2026-10-19,tamagadget,Tama Gadgets,5,60
 2026-10-20,tamagadget,Tama Gadgets,5,60
@@ -608,6 +695,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,tamagadget,Tama Gadgets,5,60
 2026-10-23,tamagadget,Tama Gadgets,5,60
 2026-10-24,tamagadget,Tama Gadgets,5,60
+2026-10-25,tamagadget,Tama Gadgets,5,60
 2026-10-18,timelessbook,Timeless Books,5,60
 2026-10-19,timelessbook,Timeless Books,5,60
 2026-10-20,timelessbook,Timeless Books,5,60
@@ -615,6 +703,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,timelessbook,Timeless Books,5,60
 2026-10-23,timelessbook,Timeless Books,5,60
 2026-10-24,timelessbook,Timeless Books,5,60
+2026-10-25,timelessbook,Timeless Books,5,60
 2026-10-18,tophat,Top Hats,11,60
 2026-10-19,tophat,Top Hats,11,60
 2026-10-20,tophat,Top Hats,11,60
@@ -622,6 +711,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,tophat,Top Hats,12,60
 2026-10-23,tophat,Top Hats,12,60
 2026-10-24,tophat,Top Hats,11,60
+2026-10-25,tophat,Top Hats,12,60
 2026-10-18,toybear,Toy Bears,37,60
 2026-10-19,toybear,Toy Bears,37,60
 2026-10-20,toybear,Toy Bears,38,60
@@ -629,6 +719,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,toybear,Toy Bears,39,60
 2026-10-23,toybear,Toy Bears,38,60
 2026-10-24,toybear,Toy Bears,38,60
+2026-10-25,toybear,Toy Bears,38,60
 2026-10-18,ufcstrike,UFC Strikes,17,60
 2026-10-19,ufcstrike,UFC Strikes,17,60
 2026-10-20,ufcstrike,UFC Strikes,17,60
@@ -636,6 +727,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,ufcstrike,UFC Strikes,19,60
 2026-10-23,ufcstrike,UFC Strikes,19,60
 2026-10-24,ufcstrike,UFC Strikes,19,60
+2026-10-25,ufcstrike,UFC Strikes,19,60
 2026-10-18,valentinebox,Valentine Boxes,13,60
 2026-10-19,valentinebox,Valentine Boxes,13,0
 2026-10-20,valentinebox,Valentine Boxes,13,60
@@ -643,6 +735,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,valentinebox,Valentine Boxes,13,0
 2026-10-23,valentinebox,Valentine Boxes,13,0
 2026-10-24,valentinebox,Valentine Boxes,13,60
+2026-10-25,valentinebox,Valentine Boxes,13,60
 2026-10-18,vicecream,Vice Creams,4,60
 2026-10-19,vicecream,Vice Creams,4,0
 2026-10-20,vicecream,Vice Creams,5,60
@@ -650,6 +743,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,vicecream,Vice Creams,5,0
 2026-10-23,vicecream,Vice Creams,5,60
 2026-10-24,vicecream,Vice Creams,5,60
+2026-10-25,vicecream,Vice Creams,5,60
 2026-10-18,victorymedal,Victory Medals,5,60
 2026-10-19,victorymedal,Victory Medals,5,0
 2026-10-20,victorymedal,Victory Medals,5,60
@@ -657,6 +751,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,victorymedal,Victory Medals,5,60
 2026-10-23,victorymedal,Victory Medals,5,60
 2026-10-24,victorymedal,Victory Medals,6,60
+2026-10-25,victorymedal,Victory Medals,6,0
 2026-10-18,voodoodoll,Voodoo Dolls,37,0
 2026-10-19,voodoodoll,Voodoo Dolls,37,0
 2026-10-20,voodoodoll,Voodoo Dolls,38,0
@@ -664,6 +759,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,voodoodoll,Voodoo Dolls,40,60
 2026-10-23,voodoodoll,Voodoo Dolls,40,60
 2026-10-24,voodoodoll,Voodoo Dolls,40,60
+2026-10-25,voodoodoll,Voodoo Dolls,40,60
 2026-10-18,westsidesign,Westside Signs,128,0
 2026-10-19,westsidesign,Westside Signs,128,0
 2026-10-20,westsidesign,Westside Signs,128,0
@@ -671,6 +767,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,westsidesign,Westside Signs,128,60
 2026-10-23,westsidesign,Westside Signs,128,60
 2026-10-24,westsidesign,Westside Signs,128,60
+2026-10-25,westsidesign,Westside Signs,128,60
 2026-10-18,whipcupcake,Whip Cupcakes,5,60
 2026-10-19,whipcupcake,Whip Cupcakes,5,60
 2026-10-20,whipcupcake,Whip Cupcakes,5,60
@@ -678,6 +775,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,whipcupcake,Whip Cupcakes,5,60
 2026-10-23,whipcupcake,Whip Cupcakes,5,60
 2026-10-24,whipcupcake,Whip Cupcakes,5,60
+2026-10-25,whipcupcake,Whip Cupcakes,5,60
 2026-10-18,winterwreath,Winter Wreaths,5,60
 2026-10-19,winterwreath,Winter Wreaths,5,60
 2026-10-20,winterwreath,Winter Wreaths,5,60
@@ -685,6 +783,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,winterwreath,Winter Wreaths,5,60
 2026-10-23,winterwreath,Winter Wreaths,5,60
 2026-10-24,winterwreath,Winter Wreaths,6,60
+2026-10-25,winterwreath,Winter Wreaths,6,60
 2026-10-18,witchhat,Witch Hats,8,60
 2026-10-19,witchhat,Witch Hats,8,60
 2026-10-20,witchhat,Witch Hats,7,60
@@ -692,6 +791,7 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,witchhat,Witch Hats,7,60
 2026-10-23,witchhat,Witch Hats,7,60
 2026-10-24,witchhat,Witch Hats,8,60
+2026-10-25,witchhat,Witch Hats,10,60
 2026-10-18,xmasstocking,Xmas Stockings,5,60
 2026-10-19,xmasstocking,Xmas Stockings,5,60
 2026-10-20,xmasstocking,Xmas Stockings,5,60
@@ -699,3 +799,4 @@ date,collection_slug,collection_name,floor_gram,recent_sales
 2026-10-22,xmasstocking,Xmas Stockings,5,60
 2026-10-23,xmasstocking,Xmas Stockings,5,60
 2026-10-24,xmasstocking,Xmas Stockings,5,60
+2026-10-25,xmasstocking,Xmas Stockings,5,60
