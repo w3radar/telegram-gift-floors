@@ -1,8 +1,36 @@
 {
  "source": "https://tggifts.com/track-record",
- "generated": "2026-10-25T05:32:59.161Z",
+ "generated": "2026-10-26T04:35:17.711Z",
  "note": "Hunts younger than 24h are withheld. Outcomes are read from each item's public Fragment page; 'unknown' means no public sale price was found. estimated_profit is an estimate at alert time, not realised profit.",
  "hunts": [
+  {
+   "found": "2026-10-24T16:35:22.121Z",
+   "type": "username",
+   "item": "@mwmwmm",
+   "fragment_url": "https://fragment.com/username/mwmwmm",
+   "price_at_alert": 18,
+   "our_estimated_value": 106.5,
+   "estimated_profit_after_5pct_fee": 83.18,
+   "outcome": {
+    "status": "still_listed"
+   },
+   "outcome_checked_at": "2026-10-26T04:34:48.866Z"
+  },
+  {
+   "found": "2026-10-24T06:50:22.121Z",
+   "type": "username_auction",
+   "item": "@llllyl",
+   "fragment_url": "https://fragment.com/username/llllyl",
+   "min_bid_at_alert": 24,
+   "our_estimated_value": 115,
+   "estimated_profit_after_5pct_fee": null,
+   "outcome": {
+    "status": "sold",
+    "price": 22,
+    "sold_at": "2026-10-24T07:00:36.000Z"
+   },
+   "outcome_checked_at": "2026-10-24T07:51:15.945Z"
+  },
   {
    "found": "2026-10-23T23:10:24.444Z",
    "type": "gift",
@@ -27,7 +55,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-25T00:28:53.631Z"
+   "outcome_checked_at": "2026-10-26T00:31:53.444Z"
   },
   {
    "found": "2026-10-23T01:50:22.121Z",
@@ -85,7 +113,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-25T00:27:48.346Z"
+   "outcome_checked_at": "2026-10-26T00:30:51.155Z"
   },
   {
    "found": "2026-10-20T01:20:22.121Z",
@@ -167,7 +195,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-25T00:26:44.031Z"
+   "outcome_checked_at": "2026-10-26T00:29:48.764Z"
   },
   {
    "found": "2026-10-19T07:56:02.772Z",
@@ -178,9 +206,11 @@
    "our_estimated_value": 250,
    "estimated_profit_after_5pct_fee": 18.5,
    "outcome": {
-    "status": "still_listed"
+    "status": "sold",
+    "price": 200,
+    "sold_at": "2026-10-24T20:35:13.000Z"
    },
-   "outcome_checked_at": "2026-10-25T00:24:34.459Z"
+   "outcome_checked_at": "2026-10-25T18:26:41.080Z"
   },
   {
    "found": "2026-10-19T07:56:02.772Z",
@@ -193,7 +223,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-25T00:25:39.635Z"
+   "outcome_checked_at": "2026-10-26T00:28:30.575Z"
   },
   {
    "found": "2026-10-19T05:10:22.121Z",
@@ -221,7 +251,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-25T00:30:01.396Z"
+   "outcome_checked_at": "2026-10-25T18:31:56.955Z"
   }
  ]
 }
