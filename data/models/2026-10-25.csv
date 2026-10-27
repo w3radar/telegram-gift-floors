@@ -816,7 +816,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-25,hangingstar,Hanging Stars,Glacier,15,100,1
 2026-10-25,hangingstar,Hanging Stars,Gold Star,4,30,4
 2026-10-25,hangingstar,Hanging Stars,Gray Sage,11,11,5
-2026-10-25,hangingstar,Hanging Stars,Greench,,18,15
+2026-10-25,hangingstar,Hanging Stars,Greench,14,18,15
 2026-10-25,hangingstar,Hanging Stars,Harlequin,14,11,2
 2026-10-25,hangingstar,Hanging Stars,Honeydew,15,14,4
 2026-10-25,hangingstar,Hanging Stars,Honolulu,4,38,2
@@ -2343,7 +2343,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-25,snoopcigar,Snoop Cigars,Gilded Copper,10,20,1
 2026-10-25,snoopcigar,Snoop Cigars,Happy Face,20,22,1
 2026-10-25,snoopcigar,Snoop Cigars,Herbalist,30,19,4
-2026-10-25,snoopcigar,Snoop Cigars,Highway,,25,15
+2026-10-25,snoopcigar,Snoop Cigars,Highway,10,25,15
 2026-10-25,snoopcigar,Snoop Cigars,Hot Rod,25,22,4
 2026-10-25,snoopcigar,Snoop Cigars,Hot Stuff,20,23,1
 2026-10-25,snoopcigar,Snoop Cigars,Hyperdrive,,36,14
