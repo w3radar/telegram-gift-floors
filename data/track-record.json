@@ -1,8 +1,49 @@
 {
  "source": "https://tggifts.com/track-record",
- "generated": "2026-10-27T04:41:43.212Z",
+ "generated": "2026-10-28T04:51:44.635Z",
  "note": "Hunts younger than 24h are withheld. Outcomes are read from each item's public Fragment page; 'unknown' means no public sale price was found. estimated_profit is an estimate at alert time, not realised profit.",
  "hunts": [
+  {
+   "found": "2026-10-26T15:37:43.323Z",
+   "type": "gift",
+   "item": "Durov’s Glasses #2161",
+   "fragment_url": "https://fragment.com/gift/durovsglasses-2161",
+   "price_at_alert": 180,
+   "our_estimated_value": 230,
+   "estimated_profit_after_5pct_fee": 38.5,
+   "outcome": {
+    "status": "unknown"
+   },
+   "outcome_checked_at": "2026-10-27T20:51:07.849Z"
+  },
+  {
+   "found": "2026-10-26T15:34:29.005Z",
+   "type": "gift",
+   "item": "Westside Sign #4703",
+   "fragment_url": "https://fragment.com/gift/westsidesign-4703",
+   "price_at_alert": 128,
+   "our_estimated_value": 149,
+   "estimated_profit_after_5pct_fee": 13.55,
+   "outcome": {
+    "status": "still_listed"
+   },
+   "outcome_checked_at": "2026-10-28T02:51:01.127Z"
+  },
+  {
+   "found": "2026-10-26T09:30:22.121Z",
+   "type": "username_auction",
+   "item": "@naturals",
+   "fragment_url": "https://fragment.com/username/naturals",
+   "min_bid_at_alert": 210,
+   "our_estimated_value": 589,
+   "estimated_profit_after_5pct_fee": null,
+   "outcome": {
+    "status": "sold",
+    "price": 200,
+    "sold_at": "2026-10-26T09:39:37.000Z"
+   },
+   "outcome_checked_at": "2026-10-26T10:30:58.680Z"
+  },
   {
    "found": "2026-10-26T04:05:22.121Z",
    "type": "username_auction",
@@ -44,7 +85,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-27T04:37:31.741Z"
+   "outcome_checked_at": "2026-10-28T04:40:16.409Z"
   },
   {
    "found": "2026-10-24T06:50:22.121Z",
@@ -85,7 +126,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-27T00:34:12.262Z"
+   "outcome_checked_at": "2026-10-28T00:36:16.692Z"
   },
   {
    "found": "2026-10-23T01:50:22.121Z",
@@ -143,7 +184,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-27T00:32:06.874Z"
+   "outcome_checked_at": "2026-10-27T06:32:40.714Z"
   },
   {
    "found": "2026-10-20T01:20:22.121Z",
@@ -225,7 +266,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-26T06:30:13.840Z"
+   "outcome_checked_at": "2026-10-27T06:31:07.130Z"
   },
   {
    "found": "2026-10-19T07:56:02.772Z",
@@ -253,7 +294,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-26T06:29:09.627Z"
+   "outcome_checked_at": "2026-10-27T06:29:17.772Z"
   },
   {
    "found": "2026-10-19T05:10:22.121Z",
