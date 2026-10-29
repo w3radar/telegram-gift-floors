@@ -161,6 +161,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-29,bondedring,Bonded Rings,Bloody Mary,35,50,1
 2026-10-29,bondedring,Bonded Rings,Cheese,18,90,1
 2026-10-29,bondedring,Bonded Rings,Dalmatian,21,59,1
+2026-10-29,bondedring,Bonded Rings,Duckling,18,99,1
 2026-10-29,bondedring,Bonded Rings,Duo Vision,21,49,8
 2026-10-29,bondedring,Bonded Rings,Eclipse,21,45,2
 2026-10-29,bondedring,Bonded Rings,Fireball,12,65,1
@@ -1885,6 +1886,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-29,miragelamp,Mirage Lamps,Magma Crown,25,6,5
 2026-10-29,miragelamp,Mirage Lamps,Moroccan,20,9,5
 2026-10-29,miragelamp,Mirage Lamps,Mosaic,15,8,3
+2026-10-29,miragelamp,Mirage Lamps,Mystic Purple,30,10,1
 2026-10-29,miragelamp,Mirage Lamps,Oasis,30,5,5
 2026-10-29,miragelamp,Mirage Lamps,Pearl Dome,25,5,3
 2026-10-29,miragelamp,Mirage Lamps,Qamara,10,8,2
@@ -1894,6 +1896,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-29,miragelamp,Mirage Lamps,Ruby Comet,15,8,3
 2026-10-29,miragelamp,Mirage Lamps,Ruby Moon,15,10,5
 2026-10-29,miragelamp,Mirage Lamps,Sacred Love,15,17,6
+2026-10-29,miragelamp,Mirage Lamps,Silent Bell,15,5,1
 2026-10-29,miragelamp,Mirage Lamps,Silver Chalice,25,14,2
 2026-10-29,miragelamp,Mirage Lamps,Soft Glow,10,10,1
 2026-10-29,miragelamp,Mirage Lamps,Split Aura,10,12,1
@@ -3608,32 +3611,43 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-29,tophat,Top Hats,Willy Wonka,20,15,2
 2026-10-29,tophat,Top Hats,Witch Doctor,10,19,17
 2026-10-29,toybear,Toy Bears,Alter Ego,13,44,1
+2026-10-29,toybear,Toy Bears,Angel,10,180,28
 2026-10-29,toybear,Toy Bears,Bearly Visible,12,66,25
 2026-10-29,toybear,Toy Bears,Blue Dandy,22,39,6
 2026-10-29,toybear,Toy Bears,Blueberry,20,46,2
+2026-10-29,toybear,Toy Bears,Blueprint,5,82,28
 2026-10-29,toybear,Toy Bears,Bumblebear,12,44,2
 2026-10-29,toybear,Toy Bears,Carrot,22,50,1
 2026-10-29,toybear,Toy Bears,Checkmate,12,52,29
 2026-10-29,toybear,Toy Bears,Cherry,22,36,1
+2026-10-29,toybear,Toy Bears,Chocolate,8,69,55
 2026-10-29,toybear,Toy Bears,Circus Bear,20,55,24
 2026-10-29,toybear,Toy Bears,Citrus,20,50,1
 2026-10-29,toybear,Toy Bears,Color Switch,15,78,20
 2026-10-29,toybear,Toy Bears,Contractor,15,47,1
+2026-10-29,toybear,Toy Bears,Copper,8,60,43
 2026-10-29,toybear,Toy Bears,Coral Reef,22,48,2
 2026-10-29,toybear,Toy Bears,Cotton,20,66,28
 2026-10-29,toybear,Toy Bears,Cowboy,15,45,2
 2026-10-29,toybear,Toy Bears,Cozy Boy,15,50,4
 2026-10-29,toybear,Toy Bears,Cuddle,13,42,1
+2026-10-29,toybear,Toy Bears,Dark Knight,5,145,25
+2026-10-29,toybear,Toy Bears,Deadpool,5,120,23
+2026-10-29,toybear,Toy Bears,Diamond,5,63,18
 2026-10-29,toybear,Toy Bears,Dragon Ruby,8,44,3
 2026-10-29,toybear,Toy Bears,El Rojo,20,50,2
 2026-10-29,toybear,Toy Bears,Fazbear,10,45,2
 2026-10-29,toybear,Toy Bears,Froggo,15,44,2
+2026-10-29,toybear,Toy Bears,Golden Cub,4,185,51
 2026-10-29,toybear,Toy Bears,Graduate,15,60,22
 2026-10-29,toybear,Toy Bears,Kumamon,10,45,3
+2026-10-29,toybear,Toy Bears,Lapis Lazuli,8,83,33
 2026-10-29,toybear,Toy Bears,Little Pepe,13,63,26
 2026-10-29,toybear,Toy Bears,Los Muertos,15,41,1
+2026-10-29,toybear,Toy Bears,Lunaris,5,99,29
 2026-10-29,toybear,Toy Bears,Macchiato,15,61,20
 2026-10-29,toybear,Toy Bears,Malibu,22,50,3
+2026-10-29,toybear,Toy Bears,Matrix,5,115,37
 2026-10-29,toybear,Toy Bears,Matroskin,15,50,3
 2026-10-29,toybear,Toy Bears,Night Cub,20,70,35
 2026-10-29,toybear,Toy Bears,Noir Et Rose,20,50,1
@@ -3641,60 +3655,95 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-29,toybear,Toy Bears,Pajamas,15,50,18
 2026-10-29,toybear,Toy Bears,Panda,15,45,4
 2026-10-29,toybear,Toy Bears,Panda Cow,15,60,19
-2026-10-29,toybear,Toy Bears,Peanut,,61,24
+2026-10-29,toybear,Toy Bears,Peanut,22,61,24
 2026-10-29,toybear,Toy Bears,Pineapple,22,50,21
 2026-10-29,toybear,Toy Bears,Pink Cactus,22,50,1
 2026-10-29,toybear,Toy Bears,Pink Doodle,20,55,28
 2026-10-29,toybear,Toy Bears,Polar Bear,20,49,1
 2026-10-29,toybear,Toy Bears,Polygon,15,54,18
+2026-10-29,toybear,Toy Bears,Pooh,10,52,34
 2026-10-29,toybear,Toy Bears,Purple Heart,20,49,4
 2026-10-29,toybear,Toy Bears,Red Velvet,22,50,1
 2026-10-29,toybear,Toy Bears,Rilakkuma,10,77,27
 2026-10-29,toybear,Toy Bears,Skittles,20,60,15
 2026-10-29,toybear,Toy Bears,Snowman,15,40,1
 2026-10-29,toybear,Toy Bears,Teddy-800,12,55,44
+2026-10-29,toybear,Toy Bears,The Devil,10,110,25
 2026-10-29,toybear,Toy Bears,Tiger,10,44,4
 2026-10-29,toybear,Toy Bears,Toady Bear,15,52,15
 2026-10-29,toybear,Toy Bears,Tricolor,13,55,27
 2026-10-29,toybear,Toy Bears,Tuxedo,15,55,26
+2026-10-29,toybear,Toy Bears,Ursa Major,5,199,23
 2026-10-29,toybear,Toy Bears,Viola Pansy,20,50,1
+2026-10-29,toybear,Toy Bears,Wall Street,8,55,41
 2026-10-29,toybear,Toy Bears,Watermelon,15,50,37
+2026-10-29,toybear,Toy Bears,Winnie,10,67,26
 2026-10-29,toybear,Toy Bears,Wizard,15,58,18
 2026-10-29,toybear,Toy Bears,Zebra,15,45,1
 2026-10-29,ufcstrike,UFC Strikes,A. Pantoja,40,20,3
 2026-10-29,ufcstrike,UFC Strikes,A. Pereira,40,19,1
 2026-10-29,ufcstrike,UFC Strikes,A. Volkanovski,40,23,4
 2026-10-29,ufcstrike,UFC Strikes,Blue Glove Token,20,22,7
+2026-10-29,ufcstrike,UFC Strikes,C. Oliveira,40,45,7
 2026-10-29,ufcstrike,UFC Strikes,Classic Blue,40,28,1
 2026-10-29,ufcstrike,UFC Strikes,Classic Red,40,27,2
 2026-10-29,ufcstrike,UFC Strikes,Combo Hit,30,22,6
 2026-10-29,ufcstrike,UFC Strikes,Dumbbell,30,24,1
 2026-10-29,ufcstrike,UFC Strikes,Fist Bump,30,28,1
+2026-10-29,ufcstrike,UFC Strikes,Gold Adesanya,5,40,8
+2026-10-29,ufcstrike,UFC Strikes,Gold Jones,5,88,3
+2026-10-29,ufcstrike,UFC Strikes,Gold Pantoja,5,59,5
+2026-10-29,ufcstrike,UFC Strikes,Gold Pereira,5,39,7
 2026-10-29,ufcstrike,UFC Strikes,I. Adesanya,40,24,1
+2026-10-29,ufcstrike,UFC Strikes,I. Topuria,40,100,4
 2026-10-29,ufcstrike,UFC Strikes,J. Jones,40,23,2
+2026-10-29,ufcstrike,UFC Strikes,K. Chimaev,40,40,13
+2026-10-29,ufcstrike,UFC Strikes,Keychain Blue,20,29,7
 2026-10-29,ufcstrike,UFC Strikes,Keychain Red,20,18,3
 2026-10-29,ufcstrike,UFC Strikes,Level Up,30,20,2
 2026-10-29,ufcstrike,UFC Strikes,M. Dvalishvili,40,20,5
 2026-10-29,ufcstrike,UFC Strikes,Prime Relic,15,28,1
 2026-10-29,ufcstrike,UFC Strikes,Red Glove Token,20,22,5
+2026-10-29,ufcstrike,UFC Strikes,S. O’Malley,40,30,11
 2026-10-29,ufcstrike,UFC Strikes,Train Time,30,26,1
 2026-10-29,ufcstrike,UFC Strikes,UFC 25 Blue,40,25,4
 2026-10-29,ufcstrike,UFC Strikes,UFC 30 Red,40,20,5
+2026-10-29,ufcstrike,UFC Strikes,UFC BMF,15,49,8
+2026-10-29,ufcstrike,UFC Strikes,UFC Glove Token,10,29,16
 2026-10-29,ufcstrike,UFC Strikes,UFC Keychain,15,21,2
+2026-10-29,ufcstrike,UFC Strikes,UFC Legacy,20,60,6
+2026-10-29,ufcstrike,UFC Strikes,UFC Love,15,35,8
+2026-10-29,ufcstrike,UFC Strikes,UFC Octagon,30,40,9
+2026-10-29,ufcstrike,UFC Strikes,UFC World,5,99,5
+2026-10-29,ufcstrike,UFC Strikes,Ult Fighting,5,75,8
+2026-10-29,ufcstrike,UFC Strikes,Ultimate Ult,10,44,11
 2026-10-29,valentinebox,Valentine Boxes,Art Deco,25,16,3
+2026-10-29,valentinebox,Valentine Boxes,Blue Suede,30,78,2
 2026-10-29,valentinebox,Valentine Boxes,Cherry,20,15,1
+2026-10-29,valentinebox,Valentine Boxes,Chess Set,10,50,2
 2026-10-29,valentinebox,Valentine Boxes,Choco Mint,30,16,1
 2026-10-29,valentinebox,Valentine Boxes,Christmas,30,14,2
 2026-10-29,valentinebox,Valentine Boxes,Clear Case,25,18,2
 2026-10-29,valentinebox,Valentine Boxes,Clockwork,10,20,1
 2026-10-29,valentinebox,Valentine Boxes,Crime Scene,20,22,1
+2026-10-29,valentinebox,Valentine Boxes,First Aid,20,29,7
 2026-10-29,valentinebox,Valentine Boxes,Flash Tattoo,20,20,1
 2026-10-29,valentinebox,Valentine Boxes,Froggie,10,16,1
 2026-10-29,valentinebox,Valentine Boxes,Fuse Box,15,13,2
 2026-10-29,valentinebox,Valentine Boxes,Gold Dust,30,15,3
+2026-10-29,valentinebox,Valentine Boxes,Golden Bear,10,25,9
 2026-10-29,valentinebox,Valentine Boxes,Gothic,15,20,1
 2026-10-29,valentinebox,Valentine Boxes,Green Apple,30,15,3
+2026-10-29,valentinebox,Valentine Boxes,Hitman,5,70,6
+2026-10-29,valentinebox,Valentine Boxes,Hollywood,20,40,5
+2026-10-29,valentinebox,Valentine Boxes,Inbox,10,34,8
+2026-10-29,valentinebox,Valentine Boxes,Infinity,20,25,1
+2026-10-29,valentinebox,Valentine Boxes,Kiss Emoji,15,59,5
+2026-10-29,valentinebox,Valentine Boxes,Kitten,10,100,7
 2026-10-29,valentinebox,Valentine Boxes,Knitting Kit,20,15,3
+2026-10-29,valentinebox,Valentine Boxes,Lavender,30,25,4
+2026-10-29,valentinebox,Valentine Boxes,Minnie,5,24,5
+2026-10-29,valentinebox,Valentine Boxes,Molten Core,10,35,5
 2026-10-29,valentinebox,Valentine Boxes,Moonlight,25,18,2
 2026-10-29,valentinebox,Valentine Boxes,Nikola Tesla,15,14,6
 2026-10-29,valentinebox,Valentine Boxes,Outline,30,16,2
@@ -3703,67 +3752,149 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-10-29,valentinebox,Valentine Boxes,Prestige,30,16,1
 2026-10-29,valentinebox,Valentine Boxes,Red Velvet,30,16,1
 2026-10-29,valentinebox,Valentine Boxes,Redshift,30,20,1
+2026-10-29,valentinebox,Valentine Boxes,Resistance,10,50,3
+2026-10-29,valentinebox,Valentine Boxes,Sakura,20,40,4
 2026-10-29,valentinebox,Valentine Boxes,Silver Blue,30,16,2
 2026-10-29,valentinebox,Valentine Boxes,Snow Queen,15,15,1
+2026-10-29,valentinebox,Valentine Boxes,Snow White,30,25,3
 2026-10-29,valentinebox,Valentine Boxes,Summer,25,15,3
 2026-10-29,valentinebox,Valentine Boxes,Tartan,25,18,1
 2026-10-29,valentinebox,Valentine Boxes,Tiffany,20,15,2
+2026-10-29,valentinebox,Valentine Boxes,Toncoin,5,65,8
 2026-10-29,valentinebox,Valentine Boxes,Top Brass,25,15,5
+2026-10-29,valentinebox,Valentine Boxes,Traveler,10,26,7
+2026-10-29,valentinebox,Valentine Boxes,Vampire,10,40,3
 2026-10-29,valentinebox,Valentine Boxes,Vibrant,25,14,3
 2026-10-29,valentinebox,Valentine Boxes,White Gold,30,13,2
 2026-10-29,vicecream,Vice Creams,Bamboo Ice,30,5,2
+2026-10-29,vicecream,Vice Creams,Berry Shake,30,5,59
+2026-10-29,vicecream,Vice Creams,Birthday,30,5,60
 2026-10-29,vicecream,Vice Creams,Bite Me,20,5,1
+2026-10-29,vicecream,Vice Creams,Bumblebee,15,5,47
 2026-10-29,vicecream,Vice Creams,Cavendish,20,5,2
 2026-10-29,vicecream,Vice Creams,Cherry On Top,30,5,6
+2026-10-29,vicecream,Vice Creams,Chilly Bones,20,5,53
 2026-10-29,vicecream,Vice Creams,Choco Cone,20,5,1
 2026-10-29,vicecream,Vice Creams,Circus,30,5,1
 2026-10-29,vicecream,Vice Creams,Classic,30,5,3
+2026-10-29,vicecream,Vice Creams,Cold Paws,25,6,60
+2026-10-29,vicecream,Vice Creams,Crystal,15,5,41
+2026-10-29,vicecream,Vice Creams,Dark Lord,,6,51
 2026-10-29,vicecream,Vice Creams,Dark Sparkle,25,5,1
 2026-10-29,vicecream,Vice Creams,Disco Funk,30,5,1
 2026-10-29,vicecream,Vice Creams,Dreamland,30,5,1
+2026-10-29,vicecream,Vice Creams,Frappuccino,10,5,59
+2026-10-29,vicecream,Vice Creams,Gelato Rose,20,6,60
+2026-10-29,vicecream,Vice Creams,Gold Leaf,5,7,54
+2026-10-29,vicecream,Vice Creams,Gummy Bear,20,5,52
 2026-10-29,vicecream,Vice Creams,Iceman,25,5,1
+2026-10-29,vicecream,Vice Creams,Love Glazed,15,6,60
+2026-10-29,vicecream,Vice Creams,Mega Scoop,15,5,40
 2026-10-29,vicecream,Vice Creams,Mermaid,25,5,1
 2026-10-29,vicecream,Vice Creams,Pine Cone,30,5,3
 2026-10-29,vicecream,Vice Creams,Porcelain,20,5,2
 2026-10-29,vicecream,Vice Creams,Pumpkin Spice,30,5,1
+2026-10-29,vicecream,Vice Creams,Punk Rock,10,5,52
+2026-10-29,vicecream,Vice Creams,Queen’s Gambit,20,5,57
+2026-10-29,vicecream,Vice Creams,Raspberry,,5,60
+2026-10-29,vicecream,Vice Creams,Red Dragon,,6,60
+2026-10-29,vicecream,Vice Creams,Rock Solid,15,5,44
+2026-10-29,vicecream,Vice Creams,Royal,10,6,60
 2026-10-29,vicecream,Vice Creams,Scoopzilla,20,5,1
+2026-10-29,vicecream,Vice Creams,Star Buddy,,5,57
+2026-10-29,vicecream,Vice Creams,Sub-Zero,15,5,43
+2026-10-29,vicecream,Vice Creams,Sundae Drive,15,5,55
 2026-10-29,vicecream,Vice Creams,Sushi,25,5,1
 2026-10-29,vicecream,Vice Creams,Taiyaki,20,5,2
+2026-10-29,vicecream,Vice Creams,Tralashark,5,6,54
 2026-10-29,vicecream,Vice Creams,Ube Cream,20,5,1
 2026-10-29,vicecream,Vice Creams,Unicone,30,5,1
+2026-10-29,vicecream,Vice Creams,Vanilla,20,5,49
+2026-10-29,vicecream,Vice Creams,Vanilla Brick,20,5,47
+2026-10-29,vicecream,Vice Creams,Viceroy,15,5,57
+2026-10-29,vicecream,Vice Creams,Vintage Bunny,,5,60
+2026-10-29,vicecream,Vice Creams,Wafflesaurus,20,5,59
+2026-10-29,victorymedal,Victory Medals,Aegis,,150,8
+2026-10-29,victorymedal,Victory Medals,Brewmaster,20,7,29
 2026-10-29,victorymedal,Victory Medals,Bronze,30,6,4
 2026-10-29,victorymedal,Victory Medals,Candy King,30,6,5
+2026-10-29,victorymedal,Victory Medals,Crypto Whale,5,98,26
 2026-10-29,victorymedal,Victory Medals,Crystal Trophy,30,6,2
+2026-10-29,victorymedal,Victory Medals,Dealmaker,30,10,44
 2026-10-29,victorymedal,Victory Medals,Dunk Master,30,6,4
+2026-10-29,victorymedal,Victory Medals,Eternal Glory,15,15,25
 2026-10-29,victorymedal,Victory Medals,Finish Line,30,6,5
+2026-10-29,victorymedal,Victory Medals,First Finisher,2,100,9
+2026-10-29,victorymedal,Victory Medals,Gem Holder,5,80,17
+2026-10-29,victorymedal,Victory Medals,Genius,30,6,49
+2026-10-29,victorymedal,Victory Medals,Glory Goal,30,9,36
+2026-10-29,victorymedal,Victory Medals,Gold,10,24,19
 2026-10-29,victorymedal,Victory Medals,Golden Puck,30,6,2
+2026-10-29,victorymedal,Victory Medals,Good Boy,10,28,10
+2026-10-29,victorymedal,Victory Medals,Grandmaster,,18,7
+2026-10-29,victorymedal,Victory Medals,Great Athlete,30,7,39
+2026-10-29,victorymedal,Victory Medals,Heart of Steel,,10,22
+2026-10-29,victorymedal,Victory Medals,Heartbreaker,,30,17
+2026-10-29,victorymedal,Victory Medals,Heroic Honor,30,7,56
+2026-10-29,victorymedal,Victory Medals,High Roller,5,115,19
+2026-10-29,victorymedal,Victory Medals,Illuminatus,10,25,24
 2026-10-29,victorymedal,Victory Medals,Inventor,30,6,5
+2026-10-29,victorymedal,Victory Medals,King Troll,2,95,3
+2026-10-29,victorymedal,Victory Medals,Master Gamer,5,20,11
+2026-10-29,victorymedal,Victory Medals,Master Of Luck,,40,13
 2026-10-29,victorymedal,Victory Medals,Nice Try,30,6,3
+2026-10-29,victorymedal,Victory Medals,Noble Prize,2,150,2
 2026-10-29,victorymedal,Victory Medals,Pathfinder,30,6,1
+2026-10-29,victorymedal,Victory Medals,Queen Bee,,11,60
+2026-10-29,victorymedal,Victory Medals,Racing Champ,,6,51
+2026-10-29,victorymedal,Victory Medals,Radiant Order,30,7,51
 2026-10-29,victorymedal,Victory Medals,Rebel Award,30,6,1
 2026-10-29,victorymedal,Victory Medals,Sharpshooter,30,6,2
+2026-10-29,victorymedal,Victory Medals,Silver,20,6,31
+2026-10-29,victorymedal,Victory Medals,Starbound,30,6,48
 2026-10-29,victorymedal,Victory Medals,Sweet Reward,30,6,1
+2026-10-29,victorymedal,Victory Medals,Telecrafter,,7,41
+2026-10-29,victorymedal,Victory Medals,The Founder,2,350,18
+2026-10-29,victorymedal,Victory Medals,Ton Titan,,13,33
 2026-10-29,victorymedal,Victory Medals,Top Swimmer,30,6,2
+2026-10-29,victorymedal,Victory Medals,Veteran,30,8,34
 2026-10-29,voodoodoll,Voodoo Dolls,Aqua Gem,35,49,3
+2026-10-29,voodoodoll,Voodoo Dolls,Birthday Cake,10,69,4
 2026-10-29,voodoodoll,Voodoo Dolls,Bitten Lip,25,50,2
 2026-10-29,voodoodoll,Voodoo Dolls,Blue Abyss,25,45,2
+2026-10-29,voodoodoll,Voodoo Dolls,Broken Hope,6,125,7
+2026-10-29,voodoodoll,Voodoo Dolls,Bubbles,10,59,7
+2026-10-29,voodoodoll,Voodoo Dolls,Bumblebee,20,69,8
 2026-10-29,voodoodoll,Voodoo Dolls,Chromed Out,20,50,1
 2026-10-29,voodoodoll,Voodoo Dolls,Cold-Blooded,35,50,1
+2026-10-29,voodoodoll,Voodoo Dolls,Cruella,5,79,9
+2026-10-29,voodoodoll,Voodoo Dolls,Electrician,35,55,14
+2026-10-29,voodoodoll,Voodoo Dolls,Emo Curse,20,55,10
 2026-10-29,voodoodoll,Voodoo Dolls,En Passant,20,50,1
+2026-10-29,voodoodoll,Voodoo Dolls,Far Galaxy,25,79,8
+2026-10-29,voodoodoll,Voodoo Dolls,Fingerprint,20,58,15
 2026-10-29,voodoodoll,Voodoo Dolls,Gingerbread,10,50,1
 2026-10-29,voodoodoll,Voodoo Dolls,Horror Movie,35,50,5
+2026-10-29,voodoodoll,Voodoo Dolls,Ice Block,6,68,5
+2026-10-29,voodoodoll,Voodoo Dolls,Layer One,,60,12
 2026-10-29,voodoodoll,Voodoo Dolls,Low Gravity,15,50,3
+2026-10-29,voodoodoll,Voodoo Dolls,Magma Ooze,5,59,5
 2026-10-29,voodoodoll,Voodoo Dolls,Malachite,35,47,3
+2026-10-29,voodoodoll,Voodoo Dolls,Medium Rare,10,64,8
 2026-10-29,voodoodoll,Voodoo Dolls,Mocha Man,25,49,4
 2026-10-29,voodoodoll,Voodoo Dolls,Pain Train,25,43,8
+2026-10-29,voodoodoll,Voodoo Dolls,Pink Needle,15,88,6
 2026-10-29,voodoodoll,Voodoo Dolls,Pumpkin,10,49,2
 2026-10-29,voodoodoll,Voodoo Dolls,Pure Hatred,35,45,2
 2026-10-29,voodoodoll,Voodoo Dolls,Rebel Spirit,35,44,3
 2026-10-29,voodoodoll,Voodoo Dolls,Red Checker,30,52,1
 2026-10-29,voodoodoll,Voodoo Dolls,Redemption,10,47,3
+2026-10-29,voodoodoll,Voodoo Dolls,Revenge,15,68,7
 2026-10-29,voodoodoll,Voodoo Dolls,Royal Gold,35,50,1
+2026-10-29,voodoodoll,Voodoo Dolls,Salad Spell,10,64,9
 2026-10-29,voodoodoll,Voodoo Dolls,Starry Night,20,50,2
 2026-10-29,voodoodoll,Voodoo Dolls,Tan Gent,35,48,4
+2026-10-29,voodoodoll,Voodoo Dolls,Terminator,20,57,14
 2026-10-29,voodoodoll,Voodoo Dolls,Textile,35,48,5
 2026-10-29,voodoodoll,Voodoo Dolls,Toxicity,10,48,2
 2026-10-29,voodoodoll,Voodoo Dolls,Twilight,25,50,1
