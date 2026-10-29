@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below and keep the attribution 'Data: TG Gifts (tggifts.com)' with a link (CC BY 4.0)."
+type: dataset
+title: "TG Gifts Index and Telegram gift floor prices (open data)"
+abstract: "Daily floor prices of every Telegram collectible gift collection listed on Fragment, per-model floors, weekly market reports and the TG Gifts Index (TGGI, base 100 on 2026-10-18). Collected from public Fragment pages by TG Gifts (tggifts.com). Not financial advice."
+authors:
+  - name: "TG Gifts Team"
+    website: "https://tggifts.com"
+repository: "https://github.com/w3radar/telegram-gift-floors"
+url: "https://tggifts.com/index"
+license: CC-BY-4.0
+date-released: "2026-10-29"
+keywords:
+  - telegram gifts
+  - fragment
+  - floor price
+  - ton
+  - open data
+  - tggi
