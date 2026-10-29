@@ -1,0 +1,259 @@
+{
+ "name": "tggifts-open-data",
+ "title": "TG Gifts Index and Telegram gift floor prices (open data)",
+ "description": "Daily Telegram gift floor prices from public Fragment pages and the TG Gifts Index (TGGI). Fragment only; gaps are not interpolated. Not financial advice.",
+ "homepage": "https://tggifts.com/index",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "Creative Commons Attribution 4.0 International"
+  }
+ ],
+ "contributors": [
+  {
+   "title": "TG Gifts Team",
+   "path": "https://tggifts.com",
+   "role": "author"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Fragment (public pages)",
+   "path": "https://fragment.com/gifts"
+  }
+ ],
+ "keywords": [
+  "telegram gifts",
+  "fragment",
+  "floor price",
+  "ton",
+  "open data",
+  "tggi"
+ ],
+ "temporal": {
+  "start": "2026-10-18",
+  "end": "2026-10-29"
+ },
+ "unit": "GRAM (formerly TON)",
+ "resources": [
+  {
+   "name": "tggi-index",
+   "path": "data/index.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "description": "TG Gifts Index history",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "description": "UTC day the index value is frozen for"
+     },
+     {
+      "name": "value",
+      "type": "number",
+      "description": "TG Gifts Index (TGGI) in index points, base 100 on 2026-10-18; GRAM-denominated floors, chain-linked, liquidity-weighted"
+     },
+     {
+      "name": "change_pct",
+      "type": "number",
+      "description": "percent change vs the previous published day; empty on the base day"
+     },
+     {
+      "name": "constituents",
+      "type": "integer",
+      "description": "number of gift collections included in that day's index"
+     }
+    ]
+   }
+  },
+  {
+   "name": "tggi-index-json",
+   "path": "data/index.json",
+   "format": "json",
+   "mediatype": "application/json",
+   "description": "TG Gifts Index: latest value, history, constituents, weights, method version, corrections"
+  },
+  {
+   "name": "floors-daily",
+   "path": "data/floors-daily.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "description": "One floor point per collection per day",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "description": "UTC day"
+     },
+     {
+      "name": "collection_slug",
+      "type": "string",
+      "description": "Fragment collection slug"
+     },
+     {
+      "name": "collection_name",
+      "type": "string",
+      "description": "collection display name"
+     },
+     {
+      "name": "floor_gram",
+      "type": "number",
+      "description": "cheapest Fragment buy-now listing in GRAM (formerly TON), first value seen that UTC day; empty if the scan failed (never interpolated)"
+     },
+     {
+      "name": "recent_sales",
+      "type": "integer",
+      "description": "number of recent sales visible on the Fragment collection page that day (a liquidity hint)"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "floors-daily-json",
+   "path": "data/floors-daily.json",
+   "format": "json",
+   "mediatype": "application/json",
+   "description": "Same data grouped by collection"
+  },
+  {
+   "name": "models-daily",
+   "path": [
+    "data/models/2026-10-19.csv",
+    "data/models/2026-10-20.csv",
+    "data/models/2026-10-21.csv",
+    "data/models/2026-10-22.csv",
+    "data/models/2026-10-23.csv",
+    "data/models/2026-10-24.csv",
+    "data/models/2026-10-25.csv",
+    "data/models/2026-10-26.csv",
+    "data/models/2026-10-27.csv",
+    "data/models/2026-10-28.csv",
+    "data/models/2026-10-29.csv"
+   ],
+   "format": "csv",
+   "mediatype": "text/csv",
+   "description": "Per-model floors, one file per UTC day",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "description": "UTC day"
+     },
+     {
+      "name": "collection_slug",
+      "type": "string",
+      "description": "Fragment collection slug"
+     },
+     {
+      "name": "collection_name",
+      "type": "string",
+      "description": "collection display name"
+     },
+     {
+      "name": "model",
+      "type": "string",
+      "description": "gift model name"
+     },
+     {
+      "name": "rarity_permille",
+      "type": "number",
+      "description": "model rarity in per mille as shown by Fragment"
+     },
+     {
+      "name": "floor_gram",
+      "type": "number",
+      "description": "cheapest buy-now listing of that model in GRAM"
+     },
+     {
+      "name": "buy_now_listings",
+      "type": "integer",
+      "description": "number of buy-now listings of that model that day"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "weekly-reports",
+   "path": [
+    "data/weekly/2026-W43.csv"
+   ],
+   "format": "csv",
+   "mediatype": "text/csv",
+   "description": "Published weekly market reports (frozen)",
+   "schema": {
+    "fields": [
+     {
+      "name": "week",
+      "type": "string",
+      "description": "ISO week, e.g. 2026-W43"
+     },
+     {
+      "name": "collection_slug",
+      "type": "string",
+      "description": "Fragment collection slug"
+     },
+     {
+      "name": "collection_name",
+      "type": "string",
+      "description": "collection display name"
+     },
+     {
+      "name": "open_date",
+      "type": "date",
+      "description": "first day with data in the week"
+     },
+     {
+      "name": "open_floor_gram",
+      "type": "number",
+      "description": "floor in GRAM on open_date"
+     },
+     {
+      "name": "close_date",
+      "type": "date",
+      "description": "last day with data in the week"
+     },
+     {
+      "name": "close_floor_gram",
+      "type": "number",
+      "description": "floor in GRAM on close_date"
+     },
+     {
+      "name": "change_pct",
+      "type": "number",
+      "description": "week-over-week floor change in percent"
+     },
+     {
+      "name": "recent_sales_at_close",
+      "type": "integer",
+      "description": "recent sales visible at close"
+     },
+     {
+      "name": "days_with_data",
+      "type": "integer",
+      "description": "days with a floor value in the week"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "track-record",
+   "path": "data/track-record.json",
+   "format": "json",
+   "mediatype": "application/json",
+   "description": "Snapshot of the public track record: below-floor alerts and what happened to them (sold / still_listed / unknown); estimated_profit_after_5pct_fee is an estimate at alert time, not realised profit"
+  }
+ ]
+}
