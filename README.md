@@ -1,6 +1,6 @@
 # Telegram Gift Floors: open data
 
-Daily floor prices of every Telegram collectible gift collection listed on [Fragment](https://fragment.com/gifts), collected by the radar behind **[TG Gifts](https://tggifts.com)** and the Telegram bot **[Web3 Radar](https://t.me/w3radar_bot)**.
+Daily floor prices of every Telegram collectible gift collection listed on [Fragment](https://fragment.com/gifts), collected by **[TG Gifts](https://tggifts.com)** (site, [bot @w3radar_bot](https://t.me/w3radar_bot), [channel @tggifts_index](https://t.me/tggifts_index)).
 
 - **Coverage:** 122 collections, one point per collection per day, since 2026-10-18.
 - **Source:** public Fragment collection pages; each collection's floor is re-read about every 15 minutes (the newest-listings feed is checked every 15 seconds for below-floor listings). The first floor seen each UTC day is stored.
@@ -31,7 +31,25 @@ Plain explanations of the terms in these files (EN / RU / FA): [all guides](http
 - Gaps are possible if a scan failed that day. Nothing is interpolated or estimated in these files.
 - Not affiliated with Telegram or Fragment. Not financial advice.
 
-## License
-Data: [CC BY 4.0](LICENSE). Please credit **TG Gifts (tggifts.com)** with a link.
+## How to cite
+Please credit **TG Gifts (tggifts.com)** with a link (CC BY 4.0). GitHub's "Cite this repository" button (see `CITATION.cff`) gives APA and BibTeX. For a stable reference cite a dated release tag (see [Releases](https://github.com/w3radar/telegram-gift-floors/releases)) and your access date.
 
-Snapshot updated: 2026-10-29. Built and maintained by the Web3 Radar team.
+- **Plain text:** TG Gifts Team. (2026). *TG Gifts Index and Telegram gift floor prices (open data)* [Data set]. TG Gifts. https://github.com/w3radar/telegram-gift-floors
+- **Markdown:** `Data: [TG Gifts (tggifts.com)](https://tggifts.com)`
+- **BibTeX:**
+```bibtex
+@misc{tggifts_open_data,
+  author       = {{TG Gifts Team}},
+  title        = {TG Gifts Index and Telegram gift floor prices (open data)},
+  year         = {2026},
+  publisher    = {TG Gifts},
+  howpublished = {\url{https://github.com/w3radar/telegram-gift-floors}},
+  note         = {Licensed CC BY 4.0. Data: TG Gifts (tggifts.com). Accessed: YYYY-MM-DD}
+}
+```
+- **Identifiers:** repository above; Software Heritage archive: https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/w3radar/telegram-gift-floors ; DOI: pending (Zenodo).
+
+## License
+Data: [CC BY 4.0](LICENSE) (full legal code). Please credit **TG Gifts (tggifts.com)** with a link. Machine-readable metadata: [`datapackage.json`](datapackage.json) (Frictionless data package with the data dictionary) and [`CITATION.cff`](CITATION.cff).
+
+Snapshot updated: 2026-10-29. Built and maintained by the TG Gifts Team.
