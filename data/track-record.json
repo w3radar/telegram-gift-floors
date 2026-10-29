@@ -1,8 +1,34 @@
 {
  "source": "https://tggifts.com/track-record",
- "generated": "2026-10-28T04:51:44.635Z",
+ "generated": "2026-10-29T09:00:55.284Z",
  "note": "Hunts younger than 24h are withheld. Outcomes are read from each item's public Fragment page; 'unknown' means no public sale price was found. estimated_profit is an estimate at alert time, not realised profit.",
  "hunts": [
+  {
+   "found": "2026-10-28T04:20:30.345Z",
+   "type": "gift",
+   "item": "Heroic Helmet #1369",
+   "fragment_url": "https://fragment.com/gift/heroichelmet-1369",
+   "price_at_alert": 199,
+   "our_estimated_value": 250,
+   "estimated_profit_after_5pct_fee": 38.5,
+   "outcome": {
+    "status": "still_listed"
+   },
+   "outcome_checked_at": "2026-10-29T03:22:24.235Z"
+  },
+  {
+   "found": "2026-10-27T17:55:22.121Z",
+   "type": "username",
+   "item": "@tttuut",
+   "fragment_url": "https://fragment.com/username/tttuut",
+   "price_at_alert": 40,
+   "our_estimated_value": 106.5,
+   "estimated_profit_after_5pct_fee": 61.18,
+   "outcome": {
+    "status": "still_listed"
+   },
+   "outcome_checked_at": "2026-10-29T06:25:10.126Z"
+  },
   {
    "found": "2026-10-26T15:37:43.323Z",
    "type": "gift",
@@ -27,7 +53,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-28T02:51:01.127Z"
+   "outcome_checked_at": "2026-10-29T06:22:00.583Z"
   },
   {
    "found": "2026-10-26T09:30:22.121Z",
@@ -85,7 +111,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-28T04:40:16.409Z"
+   "outcome_checked_at": "2026-10-29T06:24:07.618Z"
   },
   {
    "found": "2026-10-24T06:50:22.121Z",
@@ -126,7 +152,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-28T00:36:16.692Z"
+   "outcome_checked_at": "2026-10-29T06:38:53.024Z"
   },
   {
    "found": "2026-10-23T01:50:22.121Z",
@@ -184,7 +210,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-27T06:32:40.714Z"
+   "outcome_checked_at": "2026-10-29T06:33:36.700Z"
   },
   {
    "found": "2026-10-20T01:20:22.121Z",
@@ -264,9 +290,9 @@
    "our_estimated_value": 219,
    "estimated_profit_after_5pct_fee": 18.05,
    "outcome": {
-    "status": "still_listed"
+    "status": "unknown"
    },
-   "outcome_checked_at": "2026-10-27T06:31:07.130Z"
+   "outcome_checked_at": "2026-10-28T06:31:15.766Z"
   },
   {
    "found": "2026-10-19T07:56:02.772Z",
@@ -294,7 +320,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-27T06:29:17.772Z"
+   "outcome_checked_at": "2026-10-29T06:30:27.477Z"
   },
   {
    "found": "2026-10-19T05:10:22.121Z",
