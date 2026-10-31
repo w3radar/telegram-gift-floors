@@ -33,7 +33,7 @@
  ],
  "temporal": {
   "start": "2026-10-18",
-  "end": "2026-10-29"
+  "end": "2026-10-31"
  },
  "unit": "GRAM (formerly TON)",
  "resources": [
@@ -134,7 +134,9 @@
     "data/models/2026-10-26.csv",
     "data/models/2026-10-27.csv",
     "data/models/2026-10-28.csv",
-    "data/models/2026-10-29.csv"
+    "data/models/2026-10-29.csv",
+    "data/models/2026-10-30.csv",
+    "data/models/2026-10-31.csv"
    ],
    "format": "csv",
    "mediatype": "text/csv",
