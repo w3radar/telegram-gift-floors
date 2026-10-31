@@ -2,12 +2,12 @@
 
 Daily floor prices of every Telegram collectible gift collection listed on [Fragment](https://fragment.com/gifts), collected by **[TG Gifts](https://tggifts.com)** (site, [bot @w3radar_bot](https://t.me/w3radar_bot), [channel @tggifts_index](https://t.me/tggifts_index)).
 
-- **Coverage:** 122 collections, one point per collection per day, since 2026-10-18.
+- **Coverage:** 102 collections with data (of 123 tracked), one point per collection per day, since 2026-10-18.
 - **Source:** public Fragment collection pages; each collection's floor is re-read about every 15 minutes (the newest-listings feed is checked every 15 seconds for below-floor listings). The first floor seen each UTC day is stored.
 - **Live version:** [`https://tggifts.com/data/floors-daily.json`](https://tggifts.com/data/floors-daily.json) (free, no key, CORS enabled, cached 1 h). This repo holds dated snapshots of it.
 
 ## TG Gifts Index (TGGI)
-A daily, chain-linked, liquidity-weighted index of Fragment gift collection floors (base 100 on 2026-10-18). Latest: **106.66** on 2026-10-29. Methodology (v1.0), constituents and weights: [tggifts.com/index](https://tggifts.com/index). Published values are frozen; corrections are listed on that page.
+A daily, chain-linked, liquidity-weighted index of Fragment gift collection floors (base 100 on 2026-10-18). Latest: **107.61** on 2026-10-31. Methodology (v1.0), constituents and weights: [tggifts.com/index](https://tggifts.com/index). Published values are frozen; corrections are listed on that page.
 
 ## Files
 | File | What it is |
@@ -52,4 +52,4 @@ Please credit **TG Gifts (tggifts.com)** with a link (CC BY 4.0). GitHub's "Cite
 ## License
 Data: [CC BY 4.0](LICENSE) (full legal code). Please credit **TG Gifts (tggifts.com)** with a link. Machine-readable metadata: [`datapackage.json`](datapackage.json) (Frictionless data package with the data dictionary) and [`CITATION.cff`](CITATION.cff).
 
-Snapshot updated: 2026-10-29. Built and maintained by the TG Gifts Team.
+Snapshot updated: 2026-10-31. Built and maintained by the TG Gifts Team.
