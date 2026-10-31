@@ -1,8 +1,120 @@
 {
  "source": "https://tggifts.com/track-record",
- "generated": "2026-10-29T09:30:18.744Z",
+ "generated": "2026-10-31T10:24:23.432Z",
  "note": "Hunts younger than 24h are withheld. Outcomes are read from each item's public Fragment page; 'unknown' means no public sale price was found. estimated_profit is an estimate at alert time, not realised profit.",
  "hunts": [
+  {
+   "found": "2026-10-29T20:10:22.121Z",
+   "type": "username_auction",
+   "item": "@iiwiw",
+   "fragment_url": "https://fragment.com/username/iiwiw",
+   "min_bid_at_alert": 36,
+   "our_estimated_value": 104,
+   "estimated_profit_after_5pct_fee": null,
+   "outcome": {
+    "status": "sold",
+    "price": 34.01,
+    "sold_at": "2026-10-29T20:18:25.000Z"
+   },
+   "outcome_checked_at": "2026-10-29T21:10:59.994Z"
+  },
+  {
+   "found": "2026-10-29T18:43:14.076Z",
+   "type": "gift",
+   "item": "Durov’s Glasses #460",
+   "fragment_url": "https://fragment.com/gift/durovsglasses-460",
+   "price_at_alert": 159,
+   "our_estimated_value": 199,
+   "estimated_profit_after_5pct_fee": 30.05,
+   "outcome": {
+    "status": "unknown"
+   },
+   "outcome_checked_at": "2026-10-30T11:51:09.578Z"
+  },
+  {
+   "found": "2026-10-29T17:05:22.121Z",
+   "type": "username_auction",
+   "item": "@fgffg",
+   "fragment_url": "https://fragment.com/username/fgffg",
+   "min_bid_at_alert": 40,
+   "our_estimated_value": 104,
+   "estimated_profit_after_5pct_fee": null,
+   "outcome": {
+    "status": "sold",
+    "price": 37.4955,
+    "sold_at": "2026-10-29T17:10:51.000Z"
+   },
+   "outcome_checked_at": "2026-10-29T19:06:43.491Z"
+  },
+  {
+   "found": "2026-10-29T11:17:56.281Z",
+   "type": "gift",
+   "item": "Durov’s Glasses #2509",
+   "fragment_url": "https://fragment.com/gift/durovsglasses-2509",
+   "price_at_alert": 199,
+   "our_estimated_value": 229,
+   "estimated_profit_after_5pct_fee": 18.55,
+   "outcome": {
+    "status": "still_listed"
+   },
+   "outcome_checked_at": "2026-10-31T04:34:13.550Z"
+  },
+  {
+   "found": "2026-10-29T11:17:35.989Z",
+   "type": "gift",
+   "item": "Durov’s Glasses #2508",
+   "fragment_url": "https://fragment.com/gift/durovsglasses-2508",
+   "price_at_alert": 199,
+   "our_estimated_value": 229,
+   "estimated_profit_after_5pct_fee": 18.55,
+   "outcome": {
+    "status": "still_listed"
+   },
+   "outcome_checked_at": "2026-10-31T04:29:59.660Z"
+  },
+  {
+   "found": "2026-10-29T08:50:22.121Z",
+   "type": "username_auction",
+   "item": "@nhhnh",
+   "fragment_url": "https://fragment.com/username/nhhnh",
+   "min_bid_at_alert": 13,
+   "our_estimated_value": 104,
+   "estimated_profit_after_5pct_fee": null,
+   "outcome": {
+    "status": "sold",
+    "price": 25.01,
+    "sold_at": "2026-10-29T08:53:28.000Z"
+   },
+   "outcome_checked_at": "2026-10-29T10:51:29.528Z"
+  },
+  {
+   "found": "2026-10-29T03:35:22.121Z",
+   "type": "username_auction",
+   "item": "@xxaaaa",
+   "fragment_url": "https://fragment.com/username/xxaaaa",
+   "min_bid_at_alert": 34,
+   "our_estimated_value": 106.5,
+   "estimated_profit_after_5pct_fee": null,
+   "outcome": {
+    "status": "sold",
+    "price": 38,
+    "sold_at": "2026-10-29T04:54:38.000Z"
+   },
+   "outcome_checked_at": "2026-10-29T05:36:27.012Z"
+  },
+  {
+   "found": "2026-10-28T14:14:39.944Z",
+   "type": "gift",
+   "item": "Swiss Watch #7148",
+   "fragment_url": "https://fragment.com/gift/swisswatch-7148",
+   "price_at_alert": 65,
+   "our_estimated_value": 75,
+   "estimated_profit_after_5pct_fee": 6.25,
+   "outcome": {
+    "status": "still_listed"
+   },
+   "outcome_checked_at": "2026-10-31T07:30:17.403Z"
+  },
   {
    "found": "2026-10-28T04:20:30.345Z",
    "type": "gift",
@@ -14,7 +126,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-29T09:22:37.709Z"
+   "outcome_checked_at": "2026-10-31T09:26:44.026Z"
   },
   {
    "found": "2026-10-27T17:55:22.121Z",
@@ -27,7 +139,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-29T06:25:10.126Z"
+   "outcome_checked_at": "2026-10-31T06:32:51.645Z"
   },
   {
    "found": "2026-10-26T15:37:43.323Z",
@@ -53,7 +165,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-29T06:22:00.583Z"
+   "outcome_checked_at": "2026-10-31T06:27:19.135Z"
   },
   {
    "found": "2026-10-26T09:30:22.121Z",
@@ -111,7 +223,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-29T06:24:07.618Z"
+   "outcome_checked_at": "2026-10-31T06:31:31.494Z"
   },
   {
    "found": "2026-10-24T06:50:22.121Z",
@@ -152,7 +264,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-29T06:38:53.024Z"
+   "outcome_checked_at": "2026-10-31T00:41:17.936Z"
   },
   {
    "found": "2026-10-23T01:50:22.121Z",
@@ -208,9 +320,9 @@
    "our_estimated_value": 106.5,
    "estimated_profit_after_5pct_fee": 86.18,
    "outcome": {
-    "status": "still_listed"
+    "status": "unknown"
    },
-   "outcome_checked_at": "2026-10-29T06:33:36.700Z"
+   "outcome_checked_at": "2026-10-30T06:33:42.532Z"
   },
   {
    "found": "2026-10-20T01:20:22.121Z",
@@ -320,7 +432,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-10-29T06:30:27.477Z"
+   "outcome_checked_at": "2026-10-31T06:32:34.239Z"
   },
   {
    "found": "2026-10-19T05:10:22.121Z",
