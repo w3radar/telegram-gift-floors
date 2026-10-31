@@ -1,0 +1,715 @@
+{
+ "openapi": "3.1.0",
+ "info": {
+  "title": "TG Gifts Open Data and Radar API",
+  "version": "1.0.0",
+  "summary": "Telegram gift and username price data from public Fragment pages",
+  "description": "Free daily open data (CC BY 4.0, attribution 'Data: TG Gifts (tggifts.com)') plus a paid real-time Radar API. Data source: public pages of fragment.com. Methodology: https://tggifts.com/how-we-value . Not affiliated with Telegram, Fragment or the TON Foundation. Not financial advice.",
+  "termsOfService": "https://tggifts.com/terms",
+  "contact": {
+   "name": "TG Gifts Team",
+   "url": "https://tggifts.com/about"
+  },
+  "license": {
+   "name": "CC BY 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ },
+ "externalDocs": {
+  "description": "Documentation and citation guidance",
+  "url": "https://tggifts.com/api"
+ },
+ "servers": [
+  {
+   "url": "https://tggifts.com"
+  }
+ ],
+ "tags": [
+  {
+   "name": "Open data (free)"
+  },
+  {
+   "name": "Embeds"
+  },
+  {
+   "name": "Radar API (paid, 50 GRAM / 30 days)"
+  }
+ ],
+ "paths": {
+  "/data/index.json": {
+   "get": {
+    "tags": [
+     "Open data (free)"
+    ],
+    "operationId": "getIndexJson",
+    "summary": "TG Gifts Index (TGGI): value, history, constituents, weights",
+    "description": "Attribution required: show 'Data: TG Gifts (tggifts.com)' with a link to https://tggifts.com near the data. Free, no key, CORS enabled, cached about one hour; a few requests per hour is plenty because data changes daily. Fragment only; gaps are never interpolated. Not financial advice.",
+    "responses": {
+     "200": {
+      "description": "Index document",
+      "content": {
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/Index"
+        }
+       }
+      }
+     },
+     "429": {
+      "description": "Too many requests: slow down"
+     },
+     "5XX": {
+      "description": "Temporary service error: retry later"
+     }
+    }
+   }
+  },
+  "/data/index.csv": {
+   "get": {
+    "tags": [
+     "Open data (free)"
+    ],
+    "operationId": "getIndexCsv",
+    "summary": "TGGI history as CSV (date,value,change_pct,constituents)",
+    "description": "Attribution required: show 'Data: TG Gifts (tggifts.com)' with a link to https://tggifts.com near the data. Free, no key, CORS enabled, cached about one hour; a few requests per hour is plenty because data changes daily. Fragment only; gaps are never interpolated. Not financial advice.",
+    "responses": {
+     "200": {
+      "description": "CSV",
+      "content": {
+       "text/csv": {
+        "schema": {
+         "type": "string"
+        },
+        "example": "date,value,change_pct,constituents\n2026-10-18,100,,86\n2026-10-19,100.62,0.62,94"
+       }
+      }
+     },
+     "429": {
+      "description": "Too many requests: slow down"
+     },
+     "5XX": {
+      "description": "Temporary service error: retry later"
+     }
+    }
+   }
+  },
+  "/data/floors-daily.json": {
+   "get": {
+    "tags": [
+     "Open data (free)"
+    ],
+    "operationId": "getFloorsDaily",
+    "summary": "One floor point per collection per day (Fragment)",
+    "description": "Attribution required: show 'Data: TG Gifts (tggifts.com)' with a link to https://tggifts.com near the data. Free, no key, CORS enabled, cached about one hour; a few requests per hour is plenty because data changes daily. Fragment only; gaps are never interpolated. Not financial advice.",
+    "responses": {
+     "200": {
+      "description": "Floors",
+      "content": {
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/FloorsDaily"
+        }
+       }
+      }
+     },
+     "429": {
+      "description": "Too many requests: slow down"
+     },
+     "5XX": {
+      "description": "Temporary service error: retry later"
+     }
+    }
+   }
+  },
+  "/data/models-daily.json": {
+   "get": {
+    "tags": [
+     "Open data (free)"
+    ],
+    "operationId": "getModelsDaily",
+    "summary": "One floor point per gift model per day (Fragment)",
+    "description": "Attribution required: show 'Data: TG Gifts (tggifts.com)' with a link to https://tggifts.com near the data. Free, no key, CORS enabled, cached about one hour; a few requests per hour is plenty because data changes daily. Fragment only; gaps are never interpolated. Not financial advice.",
+    "responses": {
+     "200": {
+      "description": "Model floors",
+      "content": {
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/ModelsDaily"
+        }
+       }
+      }
+     },
+     "429": {
+      "description": "Too many requests: slow down"
+     },
+     "5XX": {
+      "description": "Temporary service error: retry later"
+     }
+    }
+   }
+  },
+  "/track-record.json": {
+   "get": {
+    "tags": [
+     "Open data (free)"
+    ],
+    "operationId": "getTrackRecord",
+    "summary": "Public track record of below-floor alerts, shown after 24 hours",
+    "description": "Outcomes are read from each item's public Fragment page: sold, still_listed or unknown. estimated_profit_after_5pct_fee is an estimate at alert time, not realised profit. Attribution required: show 'Data: TG Gifts (tggifts.com)' with a link to https://tggifts.com near the data. Free, no key, CORS enabled, cached about one hour; a few requests per hour is plenty because data changes daily. Fragment only; gaps are never interpolated. Not financial advice.",
+    "responses": {
+     "200": {
+      "description": "Track record",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     },
+     "429": {
+      "description": "Too many requests: slow down"
+     },
+     "5XX": {
+      "description": "Temporary service error: retry later"
+     }
+    }
+   }
+  },
+  "/reports.json": {
+   "get": {
+    "tags": [
+     "Open data (free)"
+    ],
+    "operationId": "getReports",
+    "summary": "List of weekly market reports with CSV links",
+    "description": "Attribution required: show 'Data: TG Gifts (tggifts.com)' with a link to https://tggifts.com near the data. Free, no key, CORS enabled, cached about one hour; a few requests per hour is plenty because data changes daily. Fragment only; gaps are never interpolated. Not financial advice.",
+    "responses": {
+     "200": {
+      "description": "Reports list",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     },
+     "429": {
+      "description": "Too many requests: slow down"
+     },
+     "5XX": {
+      "description": "Temporary service error: retry later"
+     }
+    }
+   }
+  },
+  "/badge/index.svg": {
+   "get": {
+    "tags": [
+     "Embeds"
+    ],
+    "operationId": "getIndexBadge",
+    "summary": "SVG badge with today's TGGI value",
+    "description": "Embed with a link to https://tggifts.com/index.",
+    "responses": {
+     "200": {
+      "description": "SVG",
+      "content": {
+       "image/svg+xml": {
+        "schema": {
+         "type": "string"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/widget/index": {
+   "get": {
+    "tags": [
+     "Embeds"
+    ],
+    "operationId": "getIndexWidget",
+    "summary": "Embeddable index widget (iframe)",
+    "parameters": [
+     {
+      "name": "lang",
+      "in": "query",
+      "schema": {
+       "type": "string",
+       "enum": [
+        "en",
+        "ru",
+        "fa"
+       ]
+      }
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "HTML",
+      "content": {
+       "text/html": {
+        "schema": {
+         "type": "string"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/facts.json": {
+   "get": {
+    "tags": [
+     "Open data (free)"
+    ],
+    "operationId": "getFacts",
+    "summary": "Canonical facts about TG Gifts for assistants and citation tools",
+    "responses": {
+     "200": {
+      "description": "Facts",
+      "content": {
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/Facts"
+        }
+       }
+      }
+     },
+     "429": {
+      "description": "Too many requests: slow down"
+     },
+     "5XX": {
+      "description": "Temporary service error: retry later"
+     }
+    }
+   }
+  },
+  "/api/v1/gifts/floors": {
+   "get": {
+    "tags": [
+     "Radar API (paid, 50 GRAM / 30 days)"
+    ],
+    "summary": "Real-time floors for every Fragment gift collection",
+    "description": "Requires header X-API-Key (or ?key=). Pay in the bot @w3radar_bot, the key arrives automatically. Details: https://tggifts.com/api",
+    "security": [
+     {
+      "ApiKey": []
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "JSON"
+     },
+     "401": {
+      "description": "Missing or invalid key"
+     }
+    },
+    "operationId": "paidApiV1GiftsFloors"
+   }
+  },
+  "/api/v1/gifts/snipes": {
+   "get": {
+    "tags": [
+     "Radar API (paid, 50 GRAM / 30 days)"
+    ],
+    "summary": "Below-floor gift listings (updated every 15 s)",
+    "description": "Requires header X-API-Key (or ?key=). Pay in the bot @w3radar_bot, the key arrives automatically. Details: https://tggifts.com/api",
+    "security": [
+     {
+      "ApiKey": []
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "JSON"
+     },
+     "401": {
+      "description": "Missing or invalid key"
+     }
+    },
+    "operationId": "paidApiV1GiftsSnipes"
+   }
+  },
+  "/api/v1/gifts/value/{item}": {
+   "get": {
+    "tags": [
+     "Radar API (paid, 50 GRAM / 30 days)"
+    ],
+    "summary": "Value estimate for one gift, e.g. astralshard-4737",
+    "description": "Requires header X-API-Key (or ?key=). Pay in the bot @w3radar_bot, the key arrives automatically. Details: https://tggifts.com/api",
+    "security": [
+     {
+      "ApiKey": []
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "JSON"
+     },
+     "401": {
+      "description": "Missing or invalid key"
+     }
+    },
+    "operationId": "paidApiV1GiftsValueItem",
+    "parameters": [
+     {
+      "name": "item",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      }
+     }
+    ]
+   }
+  },
+  "/api/v1/usernames/value/{name}": {
+   "get": {
+    "tags": [
+     "Radar API (paid, 50 GRAM / 30 days)"
+    ],
+    "summary": "Value estimate for one Telegram username, e.g. insert",
+    "description": "Requires header X-API-Key (or ?key=). Pay in the bot @w3radar_bot, the key arrives automatically. Details: https://tggifts.com/api",
+    "security": [
+     {
+      "ApiKey": []
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "JSON"
+     },
+     "401": {
+      "description": "Missing or invalid key"
+     }
+    },
+    "operationId": "paidApiV1UsernamesValueName",
+    "parameters": [
+     {
+      "name": "name",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      }
+     }
+    ]
+   }
+  },
+  "/api/v1/usernames/deals": {
+   "get": {
+    "tags": [
+     "Radar API (paid, 50 GRAM / 30 days)"
+    ],
+    "summary": "Current username deals",
+    "description": "Requires header X-API-Key (or ?key=). Pay in the bot @w3radar_bot, the key arrives automatically. Details: https://tggifts.com/api",
+    "security": [
+     {
+      "ApiKey": []
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "JSON"
+     },
+     "401": {
+      "description": "Missing or invalid key"
+     }
+    },
+    "operationId": "paidApiV1UsernamesDeals"
+   }
+  }
+ },
+ "components": {
+  "securitySchemes": {
+   "ApiKey": {
+    "type": "apiKey",
+    "in": "header",
+    "name": "X-API-Key"
+   }
+  },
+  "schemas": {
+   "IndexPoint": {
+    "type": "object",
+    "properties": {
+     "date": {
+      "type": "string",
+      "format": "date"
+     },
+     "value": {
+      "type": "number",
+      "description": "Index points, base 100 on 2026-10-18"
+     },
+     "change_pct": {
+      "type": [
+       "number",
+       "null"
+      ]
+     },
+     "constituents": {
+      "type": "integer"
+     }
+    }
+   },
+   "Constituent": {
+    "type": "object",
+    "properties": {
+     "slug": {
+      "type": "string"
+     },
+     "name": {
+      "type": "string"
+     },
+     "floor_prev_gram": {
+      "type": "number"
+     },
+     "floor_gram": {
+      "type": "number"
+     },
+     "change_pct": {
+      "type": "number"
+     },
+     "recent_sales": {
+      "type": [
+       "string",
+       "integer"
+      ],
+      "description": "count or '60+'"
+     },
+     "weight_pct": {
+      "type": "number"
+     }
+    }
+   },
+   "Index": {
+    "type": "object",
+    "properties": {
+     "name": {
+      "type": "string"
+     },
+     "symbol": {
+      "type": "string",
+      "example": "TGGI"
+     },
+     "method_version": {
+      "type": "string"
+     },
+     "methodology": {
+      "type": "string",
+      "format": "uri"
+     },
+     "base_date": {
+      "type": "string",
+      "format": "date"
+     },
+     "base_value": {
+      "type": "number"
+     },
+     "unit": {
+      "type": "string"
+     },
+     "source": {
+      "type": "string"
+     },
+     "license": {
+      "type": "string"
+     },
+     "generated": {
+      "type": "string",
+      "format": "date-time"
+     },
+     "latest": {
+      "type": "object",
+      "properties": {
+       "date": {
+        "type": "string",
+        "format": "date"
+       },
+       "value": {
+        "type": "number"
+       },
+       "change_1d_pct": {
+        "type": [
+         "number",
+         "null"
+        ]
+       },
+       "change_7d_pct": {
+        "type": [
+         "number",
+         "null"
+        ]
+       },
+       "change_30d_pct": {
+        "type": [
+         "number",
+         "null"
+        ]
+       },
+       "constituents": {
+        "type": "integer"
+       }
+      }
+     },
+     "indicative_intraday": {
+      "type": "object",
+      "description": "Live floors vs last close; not an official value"
+     },
+     "constituents": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/Constituent"
+      }
+     },
+     "series": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/IndexPoint"
+      }
+     },
+     "corrections": {
+      "type": "array",
+      "items": {
+       "type": "object"
+      }
+     }
+    }
+   },
+   "FloorsDaily": {
+    "type": "object",
+    "properties": {
+     "source": {
+      "type": "string"
+     },
+     "license": {
+      "type": "string"
+     },
+     "fields": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      },
+      "example": [
+       "date",
+       "floor_gram",
+       "recent_sales"
+      ]
+     },
+     "generated": {
+      "type": "string",
+      "format": "date-time"
+     },
+     "collections": {
+      "type": "object",
+      "additionalProperties": {
+       "type": "object",
+       "properties": {
+        "name": {
+         "type": "string"
+        },
+        "days": {
+         "type": "array",
+         "items": {
+          "type": "array",
+          "prefixItems": [
+           {
+            "type": "string",
+            "format": "date"
+           },
+           {
+            "type": [
+             "number",
+             "null"
+            ]
+           },
+           {
+            "type": [
+             "integer",
+             "null"
+            ]
+           }
+          ],
+          "description": "[date, floor_gram, recent_sales]"
+         }
+        }
+       }
+      }
+     }
+    }
+   },
+   "ModelsDaily": {
+    "type": "object",
+    "properties": {
+     "source": {
+      "type": "string"
+     },
+     "license": {
+      "type": "string"
+     },
+     "fields": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      },
+      "example": [
+       "date",
+       "floor_gram",
+       "buy_now_listings"
+      ]
+     },
+     "note": {
+      "type": "string"
+     },
+     "generated": {
+      "type": "string",
+      "format": "date-time"
+     },
+     "collections": {
+      "type": "object",
+      "additionalProperties": {
+       "type": "object",
+       "properties": {
+        "name": {
+         "type": "string"
+        },
+        "models": {
+         "type": "object",
+         "additionalProperties": {
+          "type": "object",
+          "properties": {
+           "slug": {
+            "type": "string"
+           },
+           "rarity_permille": {
+            "type": [
+             "number",
+             "null"
+            ]
+           },
+           "days": {
+            "type": "array",
+            "items": {
+             "type": "array",
+             "description": "[date, floor_gram, buy_now_listings]"
+            }
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   },
+   "Facts": {
+    "type": "object",
+    "description": "Canonical facts for AI assistants and citation tools; see /facts.json"
+   }
+  }
+ }
+}
