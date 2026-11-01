@@ -1,7 +1,7 @@
 # TG Gifts press kit
 **One line:** TG Gifts (tggifts.com) is an independent, free reference for Telegram collectible gift, username and TON domain market data, built from public Fragment data and published as open data under CC BY 4.0.
 
-**Short description:** TG Gifts tracks the Telegram gift market from public Fragment data: live floor prices for every gift collection and model, the daily TG Gifts Index (TGGI), weekly market reports, username value estimates and TON domain auctions, in 8 languages. Daily data files are open (CC BY 4.0) and mirrored here with dated releases. Every alert the companion Telegram bot (@w3radar_bot) sends is logged in a public track record with its outcome. Independent: not affiliated with Telegram, Fragment or TON Foundation. Not financial advice.
+**Short description:** TG Gifts tracks the Telegram gift market from public Fragment data: live floors for every Fragment gift collection and model with a buy-now listing (timed-sale collections shown separately), the daily TG Gifts Index (TGGI), weekly market reports, username value estimates and TON domain auctions, in 8 languages. Daily data files are open (CC BY 4.0) and mirrored here with dated releases. Every hunt the companion Telegram bot (@w3radar_bot) sends is logged in a public track record with its outcome. Independent: not affiliated with Telegram, Fragment or TON Foundation. Not financial advice.
 
 | Fact | Value |
 |---|---|
