@@ -7,10 +7,9 @@ authors:
   - name: "TG Gifts Team"
     website: "https://tggifts.com"
 repository: "https://github.com/w3radar/telegram-gift-floors"
-doi: "10.5281/zenodo.23897620"
 url: "https://tggifts.com/index"
 license: CC-BY-4.0
-date-released: "2026-11-02"
+date-released: "2026-11-03"
 keywords:
   - telegram gifts
   - fragment
