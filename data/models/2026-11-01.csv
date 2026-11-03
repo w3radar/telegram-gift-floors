@@ -985,7 +985,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-01,diamondring,Diamond Rings,Snake Eye,5,59,4
 2026-11-01,diamondring,Diamond Rings,Space Steel,15,55,6
 2026-11-01,diamondring,Diamond Rings,Steampunk,10,300,2
-2026-11-01,diamondring,Diamond Rings,Sunrise,,90,2
+2026-11-01,diamondring,Diamond Rings,Sunrise,15,90,2
 2026-11-01,diamondring,Diamond Rings,Sunset,10,100,2
 2026-11-01,diamondring,Diamond Rings,Tesla,5,80,6
 2026-11-01,diamondring,Diamond Rings,Topaz,15,90,4
@@ -1051,7 +1051,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-01,easteregg,Easter Eggs,Bronze,25,6,31
 2026-11-01,easteregg,Easter Eggs,Cactus,10,6,10
 2026-11-01,easteregg,Easter Eggs,Chicken,20,30,6
-2026-11-01,easteregg,Easter Eggs,Choco Bunny,,11,10
+2026-11-01,easteregg,Easter Eggs,Choco Bunny,5,11,10
 2026-11-01,easteregg,Easter Eggs,Chocolate,10,10,11
 2026-11-01,easteregg,Easter Eggs,Creeper,20,80,11
 2026-11-01,easteregg,Easter Eggs,Crown Prince,25,7,41
@@ -1207,7 +1207,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-01,eternalcandle,Eternal Candles,Spring Bloom,10,11,10
 2026-11-01,eternalcandle,Eternal Candles,Sugar Skull,10,9,9
 2026-11-01,eternalcandle,Eternal Candles,Sunrise,15,8,15
-2026-11-01,eternalcandle,Eternal Candles,Supernova,,10,7
+2026-11-01,eternalcandle,Eternal Candles,Supernova,15,10,7
 2026-11-01,eternalcandle,Eternal Candles,Thick Honey,15,7,17
 2026-11-01,eternalcandle,Eternal Candles,Tortuga,10,7,17
 2026-11-01,eternalcandle,Eternal Candles,Toxic Smoke,15,9,8
@@ -2237,11 +2237,11 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-01,jackinthebox,Jacks-in-the-Box,Music Box,30,7,25
 2026-11-01,jackinthebox,Jacks-in-the-Box,New Sneakers,8,15,6
 2026-11-01,jackinthebox,Jacks-in-the-Box,Night Terror,20,7,11
-2026-11-01,jackinthebox,Jacks-in-the-Box,Oktoberfest,,15,10
+2026-11-01,jackinthebox,Jacks-in-the-Box,Oktoberfest,30,15,10
 2026-11-01,jackinthebox,Jacks-in-the-Box,Peace Bro,10,8,20
 2026-11-01,jackinthebox,Jacks-in-the-Box,Pennywise,7,27,5
 2026-11-01,jackinthebox,Jacks-in-the-Box,Pink Bunny,15,8,10
-2026-11-01,jackinthebox,Jacks-in-the-Box,Piranha Plant,,9,5
+2026-11-01,jackinthebox,Jacks-in-the-Box,Piranha Plant,20,9,5
 2026-11-01,jackinthebox,Jacks-in-the-Box,Piñata,15,8,5
 2026-11-01,jackinthebox,Jacks-in-the-Box,Prank Spider,15,8,12
 2026-11-01,jackinthebox,Jacks-in-the-Box,Recursion,15,6,3
@@ -2257,7 +2257,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-01,jackinthebox,Jacks-in-the-Box,Thumbs Up,30,6,10
 2026-11-01,jackinthebox,Jacks-in-the-Box,Toasted,5,8,7
 2026-11-01,jackinthebox,Jacks-in-the-Box,Tombstone,30,6,1
-2026-11-01,jackinthebox,Jacks-in-the-Box,Top Prize,,13,56
+2026-11-01,jackinthebox,Jacks-in-the-Box,Top Prize,7,13,56
 2026-11-01,jackinthebox,Jacks-in-the-Box,Trash Panda,15,9,33
 2026-11-01,jackinthebox,Jacks-in-the-Box,Treasure,5,9,11
 2026-11-01,jackinthebox,Jacks-in-the-Box,Trickster,30,6,12
