@@ -1,8 +1,21 @@
 {
  "source": "https://tggifts.com/track-record",
- "generated": "2026-11-02T12:53:23.850Z",
+ "generated": "2026-11-03T13:05:11.468Z",
  "note": "Hunts younger than 24h are withheld. Outcomes are read from each item's public Fragment page; 'unknown' means no public sale price was found. estimated_profit is an estimate at alert time, not realised profit.",
  "hunts": [
+  {
+   "found": "2026-11-02T12:37:35.225Z",
+   "type": "gift",
+   "item": "Heroic Helmet #2478",
+   "fragment_url": "https://fragment.com/gift/heroichelmet-2478",
+   "price_at_alert": 195,
+   "our_estimated_value": 250,
+   "estimated_profit_after_5pct_fee": 42.5,
+   "outcome": {
+    "status": "still_listed"
+   },
+   "outcome_checked_at": "2026-11-03T11:48:42.743Z"
+  },
   {
    "found": "2026-10-31T14:21:11.871Z",
    "type": "gift",
@@ -29,7 +42,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-02T11:06:45.586Z"
+   "outcome_checked_at": "2026-11-03T11:07:59.335Z"
   },
   {
    "found": "2026-10-29T20:10:22.121Z",
@@ -85,7 +98,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-02T10:38:33.075Z"
+   "outcome_checked_at": "2026-11-03T10:40:31.546Z"
   },
   {
    "found": "2026-10-29T11:17:35.989Z",
@@ -98,7 +111,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-02T10:33:15.848Z"
+   "outcome_checked_at": "2026-11-03T10:35:16.322Z"
   },
   {
    "found": "2026-10-29T08:50:22.121Z",
@@ -141,7 +154,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-02T07:36:08.630Z"
+   "outcome_checked_at": "2026-11-03T07:38:35.364Z"
   },
   {
    "found": "2026-10-28T04:20:30.345Z",
@@ -169,7 +182,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-02T12:37:40.861Z"
+   "outcome_checked_at": "2026-11-03T12:39:41.343Z"
   },
   {
    "found": "2026-10-26T15:37:43.323Z",
@@ -195,7 +208,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-02T12:32:05.280Z"
+   "outcome_checked_at": "2026-11-03T12:32:15.143Z"
   },
   {
    "found": "2026-10-26T09:30:22.121Z",
@@ -253,7 +266,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-02T12:34:15.182Z"
+   "outcome_checked_at": "2026-11-03T12:34:22.938Z"
   },
   {
    "found": "2026-10-24T06:50:22.121Z",
@@ -294,7 +307,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-02T00:42:23.784Z"
+   "outcome_checked_at": "2026-11-03T00:43:30.419Z"
   },
   {
    "found": "2026-10-23T01:50:22.121Z",
