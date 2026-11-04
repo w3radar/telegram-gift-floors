@@ -1,8 +1,36 @@
 {
  "source": "https://tggifts.com/track-record",
- "generated": "2026-11-03T13:05:11.468Z",
+ "generated": "2026-11-04T13:12:32.328Z",
  "note": "Hunts younger than 24h are withheld. Outcomes are read from each item's public Fragment page; 'unknown' means no public sale price was found. estimated_profit is an estimate at alert time, not realised profit.",
  "hunts": [
+  {
+   "found": "2026-11-03T05:47:53.844Z",
+   "type": "gift",
+   "item": "Heart Locket #416",
+   "fragment_url": "https://fragment.com/gift/heartlocket-416",
+   "price_at_alert": 1444,
+   "our_estimated_value": 1700,
+   "estimated_profit_after_5pct_fee": 171,
+   "outcome": {
+    "status": "still_listed"
+   },
+   "outcome_checked_at": "2026-11-04T11:00:19.397Z"
+  },
+  {
+   "found": "2026-11-03T02:03:52.455Z",
+   "type": "gift",
+   "item": "Mad Pumpkin #2621",
+   "fragment_url": "https://fragment.com/gift/madpumpkin-2621",
+   "price_at_alert": 15,
+   "our_estimated_value": 22,
+   "estimated_profit_after_5pct_fee": 5.9,
+   "outcome": {
+    "status": "sold",
+    "price": 15,
+    "sold_at": "2026-11-03T02:04:17.000Z"
+   },
+   "outcome_checked_at": "2026-11-03T03:04:20.322Z"
+  },
   {
    "found": "2026-11-02T12:37:35.225Z",
    "type": "gift",
@@ -14,7 +42,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-03T11:48:42.743Z"
+   "outcome_checked_at": "2026-11-04T11:50:14.932Z"
   },
   {
    "found": "2026-10-31T14:21:11.871Z",
@@ -42,7 +70,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-03T11:07:59.335Z"
+   "outcome_checked_at": "2026-11-04T11:09:52.039Z"
   },
   {
    "found": "2026-10-29T20:10:22.121Z",
@@ -98,7 +126,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-03T10:40:31.546Z"
+   "outcome_checked_at": "2026-11-04T10:43:30.193Z"
   },
   {
    "found": "2026-10-29T11:17:35.989Z",
@@ -111,7 +139,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-03T10:35:16.322Z"
+   "outcome_checked_at": "2026-11-04T10:37:08.764Z"
   },
   {
    "found": "2026-10-29T08:50:22.121Z",
@@ -152,9 +180,9 @@
    "our_estimated_value": 75,
    "estimated_profit_after_5pct_fee": 6.25,
    "outcome": {
-    "status": "still_listed"
+    "status": "unknown"
    },
-   "outcome_checked_at": "2026-11-03T07:38:35.364Z"
+   "outcome_checked_at": "2026-11-03T13:39:05.299Z"
   },
   {
    "found": "2026-10-28T04:20:30.345Z",
@@ -180,9 +208,9 @@
    "our_estimated_value": 106.5,
    "estimated_profit_after_5pct_fee": 61.18,
    "outcome": {
-    "status": "still_listed"
+    "status": "unknown"
    },
-   "outcome_checked_at": "2026-11-03T12:39:41.343Z"
+   "outcome_checked_at": "2026-11-04T12:39:47.852Z"
   },
   {
    "found": "2026-10-26T15:37:43.323Z",
@@ -208,7 +236,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-03T12:32:15.143Z"
+   "outcome_checked_at": "2026-11-04T12:33:12.337Z"
   },
   {
    "found": "2026-10-26T09:30:22.121Z",
@@ -266,7 +294,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-03T12:34:22.938Z"
+   "outcome_checked_at": "2026-11-04T12:35:19.262Z"
   },
   {
    "found": "2026-10-24T06:50:22.121Z",
@@ -307,7 +335,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-03T00:43:30.419Z"
+   "outcome_checked_at": "2026-11-04T00:43:31.480Z"
   },
   {
    "found": "2026-10-23T01:50:22.121Z",
