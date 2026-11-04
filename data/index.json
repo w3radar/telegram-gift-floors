@@ -9,10 +9,10 @@
  "source": "Public Fragment pages, read by TG Gifts (tggifts.com)",
  "license": "CC BY 4.0 — attribution required: \"TG Gifts Index (tggifts.com)\" with a link",
  "latest": {
-  "date": "2026-11-03",
-  "value": 108.87,
-  "change_1d_pct": 0.01,
-  "change_7d_pct": 1.62,
+  "date": "2026-11-04",
+  "value": 109.61,
+  "change_1d_pct": 0.68,
+  "change_7d_pct": 2.13,
   "change_30d_pct": null,
   "constituents": 98,
   "constituents_listed": 98
@@ -22,8 +22,8 @@
    "slug": "artisanbrick",
    "name": "Artisan Bricks",
    "floor_prev_gram": 85,
-   "floor_gram": 85,
-   "change_pct": 0,
+   "floor_gram": 83,
+   "change_pct": -2.35,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -57,18 +57,18 @@
   {
    "slug": "blingbinky",
    "name": "Bling Binkies",
-   "floor_prev_gram": 29,
-   "floor_gram": 27,
-   "change_pct": -6.9,
+   "floor_prev_gram": 27,
+   "floor_gram": 29,
+   "change_pct": 7.41,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
   {
    "slug": "bondedring",
    "name": "Bonded Rings",
-   "floor_prev_gram": 47,
+   "floor_prev_gram": 49,
    "floor_gram": 49,
-   "change_pct": 4.26,
+   "change_pct": 0,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -138,9 +138,9 @@
   {
    "slug": "cupidcharm",
    "name": "Cupid Charms",
-   "floor_prev_gram": 27,
-   "floor_gram": 26,
-   "change_pct": -3.7,
+   "floor_prev_gram": 26,
+   "floor_gram": 27,
+   "change_pct": 3.85,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -219,9 +219,9 @@
   {
    "slug": "freshsocks",
    "name": "Fresh Socks",
-   "floor_prev_gram": 6,
+   "floor_prev_gram": 5,
    "floor_gram": 5,
-   "change_pct": -16.67,
+   "change_pct": 0,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -273,9 +273,9 @@
   {
    "slug": "heroichelmet",
    "name": "Heroic Helmets",
-   "floor_prev_gram": 199,
+   "floor_prev_gram": 195,
    "floor_gram": 195,
-   "change_pct": -2.01,
+   "change_pct": 0,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -336,9 +336,9 @@
   {
    "slug": "ionicdryer",
    "name": "Ionic Dryers",
-   "floor_prev_gram": 17,
+   "floor_prev_gram": 19,
    "floor_gram": 19,
-   "change_pct": 11.76,
+   "change_pct": 0,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -390,9 +390,9 @@
   {
    "slug": "khabibspapakha",
    "name": "Khabib’s Papakhas",
-   "floor_prev_gram": 27,
+   "floor_prev_gram": 29,
    "floor_gram": 29,
-   "change_pct": 7.41,
+   "change_pct": 0,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -481,17 +481,17 @@
    "slug": "madpumpkin",
    "name": "Mad Pumpkins",
    "floor_prev_gram": 15,
-   "floor_gram": 15,
-   "change_pct": 0,
+   "floor_gram": 21,
+   "change_pct": 40,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
   {
    "slug": "mightyarm",
    "name": "Mighty Arms",
-   "floor_prev_gram": 140,
+   "floor_prev_gram": 137,
    "floor_gram": 137,
-   "change_pct": -2.14,
+   "change_pct": 0,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -507,9 +507,9 @@
   {
    "slug": "miragelamp",
    "name": "Mirage Lamps",
-   "floor_prev_gram": 5,
+   "floor_prev_gram": 6,
    "floor_gram": 6,
-   "change_pct": 20,
+   "change_pct": 0,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -525,9 +525,9 @@
   {
    "slug": "moodpack",
    "name": "Mood Packs",
-   "floor_prev_gram": 6,
-   "floor_gram": 5,
-   "change_pct": -16.67,
+   "floor_prev_gram": 5,
+   "floor_gram": 6,
+   "change_pct": 20,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -562,8 +562,8 @@
    "slug": "nekohelmet",
    "name": "Neko Helmets",
    "floor_prev_gram": 45,
-   "floor_gram": 45,
-   "change_pct": 0,
+   "floor_gram": 42,
+   "change_pct": -6.67,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -607,8 +607,8 @@
    "slug": "rarebird",
    "name": "Rare Birds",
    "floor_prev_gram": 30,
-   "floor_gram": 30,
-   "change_pct": 0,
+   "floor_gram": 34,
+   "change_pct": 13.33,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -669,9 +669,9 @@
   {
    "slug": "snoopcigar",
    "name": "Snoop Cigars",
-   "floor_prev_gram": 18,
+   "floor_prev_gram": 19,
    "floor_gram": 19,
-   "change_pct": 5.56,
+   "change_pct": 0,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -706,8 +706,8 @@
    "slug": "springbasket",
    "name": "Spring Baskets",
    "floor_prev_gram": 7,
-   "floor_gram": 7,
-   "change_pct": 0,
+   "floor_gram": 6,
+   "change_pct": -14.29,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -733,8 +733,8 @@
    "slug": "surgeboard",
    "name": "Surge Boards",
    "floor_prev_gram": 9,
-   "floor_gram": 9,
-   "change_pct": 0,
+   "floor_gram": 8,
+   "change_pct": -11.11,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -751,8 +751,8 @@
    "slug": "swisswatch",
    "name": "Swiss Watches",
    "floor_prev_gram": 65,
-   "floor_gram": 65,
-   "change_pct": 0,
+   "floor_gram": 75,
+   "change_pct": 15.38,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -787,8 +787,8 @@
    "slug": "toybear",
    "name": "Toy Bears",
    "floor_prev_gram": 37,
-   "floor_gram": 37,
-   "change_pct": 0,
+   "floor_gram": 38,
+   "change_pct": 2.7,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -805,8 +805,8 @@
    "slug": "valentinebox",
    "name": "Valentine Boxes",
    "floor_prev_gram": 13,
-   "floor_gram": 13,
-   "change_pct": 0,
+   "floor_gram": 14,
+   "change_pct": 7.69,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -868,8 +868,8 @@
    "slug": "witchhat",
    "name": "Witch Hats",
    "floor_prev_gram": 10,
-   "floor_gram": 10,
-   "change_pct": 0,
+   "floor_gram": 9,
+   "change_pct": -10,
    "recent_sales": "60+",
    "weight_pct": 1.029
   },
@@ -1002,6 +1002,12 @@
    "date": "2026-11-03",
    "value": 108.87,
    "change_pct": 0.01,
+   "constituents": 98
+  },
+  {
+   "date": "2026-11-04",
+   "value": 109.61,
+   "change_pct": 0.68,
    "constituents": 98
   }
  ],
