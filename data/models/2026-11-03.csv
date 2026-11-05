@@ -1117,8 +1117,8 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-03,easteregg,Easter Eggs,Deep Freeze,10,7,17
 2026-11-03,easteregg,Easter Eggs,Dogel Mogel,10,18,11
 2026-11-03,easteregg,Easter Eggs,Dragon,15,7,26
-2026-11-03,easteregg,Easter Eggs,Early Bird,,7,5
-2026-11-03,easteregg,Easter Eggs,Easter Bunny,,20,7
+2026-11-03,easteregg,Easter Eggs,Early Bird,5,7,5
+2026-11-03,easteregg,Easter Eggs,Easter Bunny,5,20,7
 2026-11-03,easteregg,Easter Eggs,Eggburger,20,6,16
 2026-11-03,easteregg,Easter Eggs,Egghead,10,6,18
 2026-11-03,easteregg,Easter Eggs,Eggmoji,15,8,18
@@ -1582,7 +1582,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-03,gingercookie,Ginger Cookies,Cardamom,16,6,1
 2026-11-03,gingercookie,Ginger Cookies,Champagne,16,6,9
 2026-11-03,gingercookie,Ginger Cookies,Cheesecake,17,10,5
-2026-11-03,gingercookie,Ginger Cookies,Choco Glazed,,9,4
+2026-11-03,gingercookie,Ginger Cookies,Choco Glazed,12,9,4
 2026-11-03,gingercookie,Ginger Cookies,Choco Swirl,9,40,4
 2026-11-03,gingercookie,Ginger Cookies,Cinnamon,17,15,4
 2026-11-03,gingercookie,Ginger Cookies,Cocoa Powder,12,12,3
@@ -1656,7 +1656,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-03,gingercookie,Ginger Cookies,Toblerone,12,6,2
 2026-11-03,gingercookie,Ginger Cookies,Toffee,17,6,1
 2026-11-03,gingercookie,Ginger Cookies,Truffle,17,6,12
-2026-11-03,gingercookie,Ginger Cookies,Unicorn,,9,7
+2026-11-03,gingercookie,Ginger Cookies,Unicorn,12,9,7
 2026-11-03,gingercookie,Ginger Cookies,Universe,1,135,8
 2026-11-03,gingercookie,Ginger Cookies,Vanilla,17,8,13
 2026-11-03,gingercookie,Ginger Cookies,Waffle,15,15,3
@@ -4625,13 +4625,13 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-03,snoopcigar,Snoop Cigars,Mushizzle,25,23,23
 2026-11-03,snoopcigar,Snoop Cigars,Old School,30,29,16
 2026-11-03,snoopcigar,Snoop Cigars,Puff Puff Pass,30,24,24
-2026-11-03,snoopcigar,Snoop Cigars,Rap Battle,,30,16
+2026-11-03,snoopcigar,Snoop Cigars,Rap Battle,10,30,16
 2026-11-03,snoopcigar,Snoop Cigars,Rasta,30,26,28
 2026-11-03,snoopcigar,Snoop Cigars,Record Label,15,29,14
 2026-11-03,snoopcigar,Snoop Cigars,Royalty,25,33,38
 2026-11-03,snoopcigar,Snoop Cigars,Ruby Doobie,30,20,3
 2026-11-03,snoopcigar,Snoop Cigars,Smoke Dogg,25,20,32
-2026-11-03,snoopcigar,Snoop Cigars,Smoke Nukem,,44,13
+2026-11-03,snoopcigar,Snoop Cigars,Smoke Nukem,15,44,13
 2026-11-03,snoopcigar,Snoop Cigars,Smoke Sway,,47,4
 2026-11-03,snoopcigar,Snoop Cigars,Snoop Doggy,15,39,15
 2026-11-03,snoopcigar,Snoop Cigars,Snoop Graffiti,5,39,7
@@ -4980,7 +4980,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-03,starnotepad,Star Notepads,Watermelon,13,150,2
 2026-11-03,stellarrocket,Stellar Rockets,Alien Pizza,20,7,26
 2026-11-03,stellarrocket,Stellar Rockets,Astro Peach,30,8,20
-2026-11-03,stellarrocket,Stellar Rockets,Baby Carrot,,9,13
+2026-11-03,stellarrocket,Stellar Rockets,Baby Carrot,20,9,13
 2026-11-03,stellarrocket,Stellar Rockets,Banana,25,6,1
 2026-11-03,stellarrocket,Stellar Rockets,Bitcoin,5,250,20
 2026-11-03,stellarrocket,Stellar Rockets,Black Wing,10,20,11
@@ -5009,7 +5009,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-03,stellarrocket,Stellar Rockets,Neon Fuel,30,11,19
 2026-11-03,stellarrocket,Stellar Rockets,Normandy,10,12,14
 2026-11-03,stellarrocket,Stellar Rockets,Nostromo,10,9,13
-2026-11-03,stellarrocket,Stellar Rockets,Pencil,,7,22
+2026-11-03,stellarrocket,Stellar Rockets,Pencil,20,7,22
 2026-11-03,stellarrocket,Stellar Rockets,Pepelatz,15,7,26
 2026-11-03,stellarrocket,Stellar Rockets,Planet Express,15,11,23
 2026-11-03,stellarrocket,Stellar Rockets,Police Box,15,15,16
@@ -5020,7 +5020,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-03,stellarrocket,Stellar Rockets,Sky Ghost,30,10,35
 2026-11-03,stellarrocket,Stellar Rockets,Soap Bubbles,25,14,43
 2026-11-03,stellarrocket,Stellar Rockets,Space Bot,10,7,33
-2026-11-03,stellarrocket,Stellar Rockets,Space Veggie,,28,19
+2026-11-03,stellarrocket,Stellar Rockets,Space Veggie,10,28,19
 2026-11-03,stellarrocket,Stellar Rockets,Squirrel,20,10,17
 2026-11-03,stellarrocket,Stellar Rockets,Submarine,15,6,15
 2026-11-03,stellarrocket,Stellar Rockets,Telegram,10,60,60
@@ -5724,7 +5724,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-03,whipcupcake,Whip Cupcakes,Blueberry Hill,30,6,12
 2026-11-03,whipcupcake,Whip Cupcakes,Cherry Top,30,7,6
 2026-11-03,whipcupcake,Whip Cupcakes,Christmas,15,5,8
-2026-11-03,whipcupcake,Whip Cupcakes,Circus,,6,7
+2026-11-03,whipcupcake,Whip Cupcakes,Circus,10,6,7
 2026-11-03,whipcupcake,Whip Cupcakes,Cloud Nine,30,50,4
 2026-11-03,whipcupcake,Whip Cupcakes,Cream Scream,20,7,12
 2026-11-03,whipcupcake,Whip Cupcakes,Deep State,,9,10
