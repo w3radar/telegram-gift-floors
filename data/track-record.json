@@ -1,6 +1,6 @@
 {
  "source": "https://tggifts.com/track-record",
- "generated": "2026-11-04T13:12:32.328Z",
+ "generated": "2026-11-05T14:52:17.438Z",
  "note": "Hunts younger than 24h are withheld. Outcomes are read from each item's public Fragment page; 'unknown' means no public sale price was found. estimated_profit is an estimate at alert time, not realised profit.",
  "hunts": [
   {
@@ -14,7 +14,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-04T11:00:19.397Z"
+   "outcome_checked_at": "2026-11-05T11:02:25.891Z"
   },
   {
    "found": "2026-11-03T02:03:52.455Z",
@@ -40,9 +40,11 @@
    "our_estimated_value": 250,
    "estimated_profit_after_5pct_fee": 42.5,
    "outcome": {
-    "status": "still_listed"
+    "status": "sold",
+    "price": 195,
+    "sold_at": "2026-11-05T05:22:50.000Z"
    },
-   "outcome_checked_at": "2026-11-04T11:50:14.932Z"
+   "outcome_checked_at": "2026-11-05T05:51:33.592Z"
   },
   {
    "found": "2026-10-31T14:21:11.871Z",
@@ -70,7 +72,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-04T11:09:52.039Z"
+   "outcome_checked_at": "2026-11-05T11:11:54.731Z"
   },
   {
    "found": "2026-10-29T20:10:22.121Z",
@@ -126,7 +128,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-04T10:43:30.193Z"
+   "outcome_checked_at": "2026-11-05T10:45:35.191Z"
   },
   {
    "found": "2026-10-29T11:17:35.989Z",
@@ -139,7 +141,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-04T10:37:08.764Z"
+   "outcome_checked_at": "2026-11-05T10:39:18.080Z"
   },
   {
    "found": "2026-10-29T08:50:22.121Z",
@@ -236,7 +238,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-04T12:33:12.337Z"
+   "outcome_checked_at": "2026-11-05T12:33:28.533Z"
   },
   {
    "found": "2026-10-26T09:30:22.121Z",
@@ -294,7 +296,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-04T12:35:19.262Z"
+   "outcome_checked_at": "2026-11-05T12:35:35.578Z"
   },
   {
    "found": "2026-10-24T06:50:22.121Z",
@@ -335,7 +337,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-04T00:43:31.480Z"
+   "outcome_checked_at": "2026-11-05T00:43:46.494Z"
   },
   {
    "found": "2026-10-23T01:50:22.121Z",
