@@ -7,7 +7,7 @@ Daily floor prices of every Telegram collectible gift collection listed on [Frag
 - **Live version:** [`https://tggifts.com/data/floors-daily.json`](https://tggifts.com/data/floors-daily.json) (free, no key, CORS enabled, cached 1 h). This repo holds dated snapshots of it.
 
 ## TG Gifts Index (TGGI)
-A daily, chain-linked, liquidity-weighted index of Fragment gift collection floors (base 100 on 2026-10-18). Latest: **109.61** on 2026-11-04. Methodology (v1.0), constituents and weights: [tggifts.com/index](https://tggifts.com/index). Published values are frozen; corrections are listed on that page.
+A daily, chain-linked, liquidity-weighted index of Fragment gift collection floors (base 100 on 2026-10-18). Latest: **109.07** on 2026-11-05. Methodology (v1.0), constituents and weights: [tggifts.com/index](https://tggifts.com/index). Published values are frozen; corrections are listed on that page.
 
 ## Files
 | File | What it is |
@@ -52,4 +52,4 @@ Please credit **TG Gifts (tggifts.com)** with a link (CC BY 4.0). GitHub's "Cite
 ## License
 Data: [CC BY 4.0](LICENSE) (full legal code). Please credit **TG Gifts (tggifts.com)** with a link. Machine-readable metadata: [`datapackage.json`](datapackage.json) (Frictionless data package with the data dictionary) and [`CITATION.cff`](CITATION.cff).
 
-Snapshot updated: 2026-11-04. Built and maintained by the TG Gifts Team.
+Snapshot updated: 2026-11-05. Built and maintained by the TG Gifts Team.
