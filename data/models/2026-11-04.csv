@@ -3954,7 +3954,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-04,recordplayer,Record Players,Yin-Yang,5,21,1
 2026-11-04,resistancedog,Resistance Dogs,ACAB,6,20000,1
 2026-11-04,resistancedog,Resistance Dogs,Airbender,5,2888,3
-2026-11-04,resistancedog,Resistance Dogs,Amethyst,,66666,1
+2026-11-04,resistancedog,Resistance Dogs,Amethyst,4,66666,1
 2026-11-04,resistancedog,Resistance Dogs,Anonymous,9,2500,2
 2026-11-04,resistancedog,Resistance Dogs,Arrakis,8,699,1
 2026-11-04,resistancedog,Resistance Dogs,Assassin,9,999,3
@@ -3989,7 +3989,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-04,resistancedog,Resistance Dogs,Leader,12,800,1
 2026-11-04,resistancedog,Resistance Dogs,Legionnaire,9,777,1
 2026-11-04,resistancedog,Resistance Dogs,Lightpaw,10,1000,2
-2026-11-04,resistancedog,Resistance Dogs,Netrunner,,8888,1
+2026-11-04,resistancedog,Resistance Dogs,Netrunner,15,8888,1
 2026-11-04,resistancedog,Resistance Dogs,Nishikigoi,8,1000,1
 2026-11-04,resistancedog,Resistance Dogs,Peacekeeper,7,4200,1
 2026-11-04,resistancedog,Resistance Dogs,Pharaoh,12,867,2
@@ -4360,7 +4360,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-04,snoopcigar,Snoop Cigars,Hot Stuff,20,19,3
 2026-11-04,snoopcigar,Snoop Cigars,Hyperdrive,,36,13
 2026-11-04,snoopcigar,Snoop Cigars,Ice Prince,25,30,39
-2026-11-04,snoopcigar,Snoop Cigars,Infinity Stoned,,28,10
+2026-11-04,snoopcigar,Snoop Cigars,Infinity Stoned,5,28,10
 2026-11-04,snoopcigar,Snoop Cigars,Jade Fade,30,20,16
 2026-11-04,snoopcigar,Snoop Cigars,Lion King,30,38,49
 2026-11-04,snoopcigar,Snoop Cigars,Meteor Impact,15,35,19
@@ -4374,13 +4374,13 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-04,snoopcigar,Snoop Cigars,Ruby Doobie,30,20,3
 2026-11-04,snoopcigar,Snoop Cigars,Smoke Dogg,25,20,32
 2026-11-04,snoopcigar,Snoop Cigars,Smoke Nukem,15,44,12
-2026-11-04,snoopcigar,Snoop Cigars,Smoke Sway,,48,4
+2026-11-04,snoopcigar,Snoop Cigars,Smoke Sway,10,48,4
 2026-11-04,snoopcigar,Snoop Cigars,Snoop Doggy,15,39,15
 2026-11-04,snoopcigar,Snoop Cigars,Snoop Graffiti,5,28,8
 2026-11-04,snoopcigar,Snoop Cigars,Snoop Ring,30,25,37
 2026-11-04,snoopcigar,Snoop Cigars,Snooperman,20,24,19
 2026-11-04,snoopcigar,Snoop Cigars,Snoop’s Pipe,10,22,1
-2026-11-04,snoopcigar,Snoop Cigars,Soul Plane,,30,12
+2026-11-04,snoopcigar,Snoop Cigars,Soul Plane,10,30,12
 2026-11-04,snoopcigar,Snoop Cigars,Space Wrap,20,30,43
 2026-11-04,snoopcigar,Snoop Cigars,Stargazer,15,22,6
 2026-11-04,snoopcigar,Snoop Cigars,Surprise,15,21,3
@@ -5511,7 +5511,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-04,whipcupcake,Whip Cupcakes,Maneki Neko,15,7,17
 2026-11-04,whipcupcake,Whip Cupcakes,March Eight,30,10,7
 2026-11-04,whipcupcake,Whip Cupcakes,Minion,25,10,8
-2026-11-04,whipcupcake,Whip Cupcakes,Ogre Snack,,9,6
+2026-11-04,whipcupcake,Whip Cupcakes,Ogre Snack,10,9,6
 2026-11-04,whipcupcake,Whip Cupcakes,Paradise,25,6,10
 2026-11-04,whipcupcake,Whip Cupcakes,Poopy Pie,15,5,2
 2026-11-04,whipcupcake,Whip Cupcakes,Resistance,5,32,9
