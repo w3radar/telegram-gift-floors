@@ -7,7 +7,7 @@
   "recent_sales",
   "price_kind"
  ],
- "generated": "2026-11-07T08:31:42.664Z",
+ "generated": "2026-11-07T12:31:14.736Z",
  "method": "Each point is the floor recorded at the radar's first reading of that UTC day (the day's open); it is not updated later that day, so today's point can be older than the live floor. Live floor: https://tggifts.com/floors. Price kind: b = cheapest buy-now listing, t = cheapest timed sale.",
  "collections": {
   "algorithmcup": {
@@ -3580,7 +3580,7 @@
    "timed_sale_days": [
     [
      "2026-11-07",
-     6,
+     7,
      null
     ]
    ]
@@ -7400,7 +7400,7 @@
    "timed_sale_days": [
     [
      "2026-11-07",
-     95,
+     99,
      null
     ]
    ]
@@ -7521,7 +7521,7 @@
    "timed_sale_days": [
     [
      "2026-11-07",
-     7150,
+     8000,
      null
     ]
    ]
@@ -7642,7 +7642,7 @@
    "timed_sale_days": [
     [
      "2026-11-07",
-     295,
+     290,
      null
     ]
    ]
@@ -8347,7 +8347,7 @@
    "timed_sale_days": [
     [
      "2026-11-07",
-     13,
+     14,
      null
     ]
    ]
@@ -10250,7 +10250,7 @@
    "timed_sale_days": [
     [
      "2026-11-07",
-     18,
+     19,
      null
     ]
    ]
@@ -10701,7 +10701,7 @@
    "timed_sale_days": [
     [
      "2026-11-07",
-     46,
+     45,
      null
     ]
    ]
@@ -11370,22 +11370,22 @@
  "timed_sale_collections": {
   "p39": 1,
   "note": "Collections listed on Fragment only as timed sales (buy-now with a sale timer). Shown separately: they have no buy-now floor and fewer than the 15 recent sales the TG Gifts Index requires, and the published index history has no rows for them, so they are not in `days` or in the index.",
-  "as_of": "2026-11-07T08:31:40.063Z",
+  "as_of": "2026-11-07T12:31:06.501Z",
   "items": [
    {
     "slug": "plushpepe",
     "name": "Plush Pepes",
-    "cheapest_timed_sale_gram": 7150,
+    "cheapest_timed_sale_gram": 8000,
     "auction_lots": 0,
     "days": [
      [
       "2026-11-07",
-      7150,
+      8000,
       null
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:24:36.606Z"
+    "observed": "2026-11-07T11:59:24.322Z"
    },
    {
     "slug": "durovscap",
@@ -11400,7 +11400,7 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:16:45.962Z"
+    "observed": "2026-11-07T12:24:19.937Z"
    },
    {
     "slug": "scaredcat",
@@ -11415,37 +11415,37 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:25:54.574Z"
+    "observed": "2026-11-07T12:17:15.321Z"
    },
    {
     "slug": "preciouspeach",
     "name": "Precious Peaches",
-    "cheapest_timed_sale_gram": 295,
+    "cheapest_timed_sale_gram": 290,
     "auction_lots": 0,
     "days": [
      [
       "2026-11-07",
-      295,
+      290,
       null
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:24:52.168Z"
+    "observed": "2026-11-07T11:59:40.918Z"
    },
    {
     "slug": "perfumebottle",
     "name": "Perfume Bottles",
-    "cheapest_timed_sale_gram": 95,
+    "cheapest_timed_sale_gram": 99,
     "auction_lots": 0,
     "days": [
      [
       "2026-11-07",
-      95,
+      99,
       null
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:24:21.051Z"
+    "observed": "2026-11-07T12:15:41.222Z"
    },
    {
     "slug": "magicpotion",
@@ -11460,7 +11460,7 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:23:02.698Z"
+    "observed": "2026-11-07T12:30:19.524Z"
    },
    {
     "slug": "kissedfrog",
@@ -11475,7 +11475,7 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:21:28.259Z"
+    "observed": "2026-11-07T12:28:45.787Z"
    },
    {
     "slug": "sharptongue",
@@ -11490,22 +11490,22 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:26:10.318Z"
+    "observed": "2026-11-07T12:17:31.109Z"
    },
    {
     "slug": "vintagecigar",
     "name": "Vintage Cigars",
-    "cheapest_timed_sale_gram": 46,
+    "cheapest_timed_sale_gram": 45,
     "auction_lots": 0,
     "days": [
      [
       "2026-11-07",
-      46,
+      45,
       null
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:29:35.388Z"
+    "observed": "2026-11-07T12:20:56.934Z"
    },
    {
     "slug": "signetring",
@@ -11520,7 +11520,7 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:26:10.318Z"
+    "observed": "2026-11-07T12:17:31.109Z"
    },
    {
     "slug": "eternalrose",
@@ -11535,22 +11535,37 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:17:33.274Z"
+    "observed": "2026-11-07T12:24:51.181Z"
    },
    {
     "slug": "trappedheart",
     "name": "Trapped Hearts",
-    "cheapest_timed_sale_gram": 18,
+    "cheapest_timed_sale_gram": 19,
     "auction_lots": 0,
     "days": [
      [
       "2026-11-07",
-      18,
+      19,
       null
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:29:04.124Z"
+    "observed": "2026-11-07T12:20:25.030Z"
+   },
+   {
+    "slug": "skullflower",
+    "name": "Skull Flowers",
+    "cheapest_timed_sale_gram": 14,
+    "auction_lots": 0,
+    "days": [
+     [
+      "2026-11-07",
+      14,
+      null
+     ]
+    ],
+    "price_kind": "timed_sale",
+    "observed": "2026-11-07T12:17:46.708Z"
    },
    {
     "slug": "evileye",
@@ -11565,22 +11580,7 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:17:33.274Z"
-   },
-   {
-    "slug": "skullflower",
-    "name": "Skull Flowers",
-    "cheapest_timed_sale_gram": 13,
-    "auction_lots": 0,
-    "days": [
-     [
-      "2026-11-07",
-      13,
-      null
-     ]
-    ],
-    "price_kind": "timed_sale",
-    "observed": "2026-11-07T07:54:08.350Z"
+    "observed": "2026-11-07T12:08:36.224Z"
    },
    {
     "slug": "berrybox",
@@ -11595,7 +11595,7 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:14:56.515Z"
+    "observed": "2026-11-07T12:22:30.797Z"
    },
    {
     "slug": "jellybunny",
@@ -11610,7 +11610,22 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:20:41.289Z"
+    "observed": "2026-11-07T12:27:58.964Z"
+   },
+   {
+    "slug": "hexpot",
+    "name": "Hex Pots",
+    "cheapest_timed_sale_gram": 7,
+    "auction_lots": 0,
+    "days": [
+     [
+      "2026-11-07",
+      7,
+      null
+     ]
+    ],
+    "price_kind": "timed_sale",
+    "observed": "2026-11-07T12:26:41.067Z"
    },
    {
     "slug": "santahat",
@@ -11625,7 +11640,7 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:25:54.574Z"
+    "observed": "2026-11-07T12:17:15.321Z"
    },
    {
     "slug": "spyagaric",
@@ -11640,22 +11655,7 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:27:45.324Z"
-   },
-   {
-    "slug": "hexpot",
-    "name": "Hex Pots",
-    "cheapest_timed_sale_gram": 6,
-    "auction_lots": 0,
-    "days": [
-     [
-      "2026-11-07",
-      6,
-      null
-     ]
-    ],
-    "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:19:07.592Z"
+    "observed": "2026-11-07T12:19:05.859Z"
    },
    {
     "slug": "homemadecake",
@@ -11670,7 +11670,7 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T07:46:49.569Z"
+    "observed": "2026-11-07T12:26:56.698Z"
    },
    {
     "slug": "spicedwine",
@@ -11685,7 +11685,7 @@
      ]
     ],
     "price_kind": "timed_sale",
-    "observed": "2026-11-07T08:27:29.673Z"
+    "observed": "2026-11-07T12:18:49.486Z"
    }
   ]
  },
