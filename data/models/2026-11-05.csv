@@ -4208,7 +4208,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-05,resistancedog,Resistance Dogs,Future Savior,7,9000,1
 2026-11-05,resistancedog,Resistance Dogs,Geisha,17,1500,1
 2026-11-05,resistancedog,Resistance Dogs,Genius,8,1100,1
-2026-11-05,resistancedog,Resistance Dogs,Ghost Rider,,7999,1
+2026-11-05,resistancedog,Resistance Dogs,Ghost Rider,13,7999,1
 2026-11-05,resistancedog,Resistance Dogs,Gopnik,14,20000,1
 2026-11-05,resistancedog,Resistance Dogs,Grim Reaper,3,49999,1
 2026-11-05,resistancedog,Resistance Dogs,Guerrilla,10,2000,1
@@ -4233,7 +4233,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-05,resistancedog,Resistance Dogs,Proxy Server,13,999,2
 2026-11-05,resistancedog,Resistance Dogs,Resisted,10,3000,1
 2026-11-05,resistancedog,Resistance Dogs,Road Devil,8,8888,2
-2026-11-05,resistancedog,Resistance Dogs,Ruby,,2800,1
+2026-11-05,resistancedog,Resistance Dogs,Ruby,5,2800,1
 2026-11-05,resistancedog,Resistance Dogs,Salvador,3,1999,1
 2026-11-05,resistancedog,Resistance Dogs,Samurai Onna,12,1000,2
 2026-11-05,resistancedog,Resistance Dogs,Satoshi,1,94000,1
@@ -4579,7 +4579,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-05,snoopcigar,Snoop Cigars,Bandana,30,19,24
 2026-11-05,snoopcigar,Snoop Cigars,Cabbage Roll,25,29,23
 2026-11-05,snoopcigar,Snoop Cigars,California,10,28,10
-2026-11-05,snoopcigar,Snoop Cigars,Cartoon Roll,,30,12
+2026-11-05,snoopcigar,Snoop Cigars,Cartoon Roll,5,30,12
 2026-11-05,snoopcigar,Snoop Cigars,Charmed Roll,10,20,2
 2026-11-05,snoopcigar,Snoop Cigars,Crystal,10,20,1
 2026-11-05,snoopcigar,Snoop Cigars,Debut Album,25,33,20
@@ -4593,7 +4593,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-05,snoopcigar,Snoop Cigars,Highway,10,28,13
 2026-11-05,snoopcigar,Snoop Cigars,Hot Rod,25,23,5
 2026-11-05,snoopcigar,Snoop Cigars,Hot Stuff,20,19,24
-2026-11-05,snoopcigar,Snoop Cigars,Hyperdrive,,36,13
+2026-11-05,snoopcigar,Snoop Cigars,Hyperdrive,10,36,13
 2026-11-05,snoopcigar,Snoop Cigars,Ice Prince,25,30,39
 2026-11-05,snoopcigar,Snoop Cigars,Infinity Stoned,5,28,10
 2026-11-05,snoopcigar,Snoop Cigars,Jade Fade,30,20,16
@@ -5213,7 +5213,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-05,tamagadget,Tama Gadgets,Pepe Feels,3,90,12
 2026-11-05,tamagadget,Tama Gadgets,Pixel Bunny,5,8,6
 2026-11-05,tamagadget,Tama Gadgets,Pixel Pink,5,8,3
-2026-11-05,tamagadget,Tama Gadgets,Poo Byte,,15,6
+2026-11-05,tamagadget,Tama Gadgets,Poo Byte,3,15,6
 2026-11-05,tamagadget,Tama Gadgets,Portal,3,59,10
 2026-11-05,tamagadget,Tama Gadgets,Puck Man,3,35,7
 2026-11-05,tamagadget,Tama Gadgets,Purple,20,9,2
