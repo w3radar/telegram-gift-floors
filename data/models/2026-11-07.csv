@@ -396,6 +396,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,bunnymuffin,Bunny Muffins,Blueberry,14,20,2
 2026-11-07,bunnymuffin,Bunny Muffins,Brave Tiger,8,13,8
 2026-11-07,bunnymuffin,Bunny Muffins,Bronze,5,13,5
+2026-11-07,bunnymuffin,Bunny Muffins,Bubble Gum,14,15,2
 2026-11-07,bunnymuffin,Bunny Muffins,Butterfly Tie,10,12,6
 2026-11-07,bunnymuffin,Bunny Muffins,Chill-Out,14,100,3
 2026-11-07,bunnymuffin,Bunny Muffins,Choco Bear,4,12,7
@@ -427,6 +428,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,bunnymuffin,Bunny Muffins,Green Tea,8,10,1
 2026-11-07,bunnymuffin,Bunny Muffins,Hulk,12,24,1
 2026-11-07,bunnymuffin,Bunny Muffins,Ice Cream,5,17,4
+2026-11-07,bunnymuffin,Bunny Muffins,Iceberry,14,15,2
 2026-11-07,bunnymuffin,Bunny Muffins,Jellyfish,14,12,1
 2026-11-07,bunnymuffin,Bunny Muffins,Juicy Melon,14,12,2
 2026-11-07,bunnymuffin,Bunny Muffins,Key Lime,14,20,3
@@ -437,7 +439,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,bunnymuffin,Bunny Muffins,Lollipop,8,19,8
 2026-11-07,bunnymuffin,Bunny Muffins,Lovely Ruby,3,44,4
 2026-11-07,bunnymuffin,Bunny Muffins,Lu Crystal,4,24,5
-2026-11-07,bunnymuffin,Bunny Muffins,Macaron,14,25,1
+2026-11-07,bunnymuffin,Bunny Muffins,Macaron,,25,1
 2026-11-07,bunnymuffin,Bunny Muffins,Mandarin,14,19,3
 2026-11-07,bunnymuffin,Bunny Muffins,Matcha,14,12,6
 2026-11-07,bunnymuffin,Bunny Muffins,Meltdown,4,20,7
@@ -472,6 +474,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,bunnymuffin,Bunny Muffins,Tiffani,8,13,5
 2026-11-07,bunnymuffin,Bunny Muffins,Unicorn,4,23,5
 2026-11-07,bunnymuffin,Bunny Muffins,Valentine,9,12,9
+2026-11-07,bunnymuffin,Bunny Muffins,Vanilla,14,19,4
 2026-11-07,bunnymuffin,Bunny Muffins,Velvet Rose,8,13,7
 2026-11-07,bunnymuffin,Bunny Muffins,Watermelon,8,55,2
 2026-11-07,bunnymuffin,Bunny Muffins,Winter Dessert,14,13,1
@@ -493,6 +496,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,candycane,Candy Canes,Final Offer,26,8,17
 2026-11-07,candycane,Candy Canes,Golden Jelly,26,6,21
 2026-11-07,candycane,Candy Canes,Goldium,10,9,24
+2026-11-07,candycane,Candy Canes,Grinch,10,9,25
 2026-11-07,candycane,Candy Canes,Hex Pot,6,7,10
 2026-11-07,candycane,Candy Canes,Hologlow,20,8,5
 2026-11-07,candycane,Candy Canes,Honeycomb,10,7,7
@@ -511,6 +515,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,candycane,Candy Canes,Nightmare,20,6,7
 2026-11-07,candycane,Candy Canes,Oblina,10,8,9
 2026-11-07,candycane,Candy Canes,Old School,20,6,10
+2026-11-07,candycane,Candy Canes,Peppy Pink,26,9,7
 2026-11-07,candycane,Candy Canes,Phantom,26,6,12
 2026-11-07,candycane,Candy Canes,Phoenix,26,10,6
 2026-11-07,candycane,Candy Canes,Pink Mango,26,5,4
@@ -536,8 +541,10 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,chillflame,Chill Flames,Candelabra,30,5,1
 2026-11-07,chillflame,Chill Flames,Dark Relic,15,6,49
 2026-11-07,chillflame,Chill Flames,Dark Souls,2,6,21
+2026-11-07,chillflame,Chill Flames,Desk Lamp,10,5,32
 2026-11-07,chillflame,Chill Flames,Druid Flame,30,5,56
 2026-11-07,chillflame,Chill Flames,Dungeon,30,5,1
+2026-11-07,chillflame,Chill Flames,Eye of Sauron,1,18,7
 2026-11-07,chillflame,Chill Flames,Firebrand,5,6,22
 2026-11-07,chillflame,Chill Flames,Flamethrower,5,6,23
 2026-11-07,chillflame,Chill Flames,Flashlight,20,5,51
@@ -554,14 +561,20 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,chillflame,Chill Flames,Pixel Art,10,7,17
 2026-11-07,chillflame,Chill Flames,Revolt,5,6,26
 2026-11-07,chillflame,Chill Flames,Royal Goblet,30,6,57
+2026-11-07,chillflame,Chill Flames,Satis-fire,1,88,3
+2026-11-07,chillflame,Chill Flames,Sea Horse,15,5,25
 2026-11-07,chillflame,Chill Flames,Signal Flare,10,6,18
+2026-11-07,chillflame,Chill Flames,Skyrim,2,7,11
 2026-11-07,chillflame,Chill Flames,Sochi,5,6,30
 2026-11-07,chillflame,Chill Flames,Spaceship,30,5,58
+2026-11-07,chillflame,Chill Flames,Spark Plug,30,5,48
 2026-11-07,chillflame,Chill Flames,Spring Grove,30,5,52
 2026-11-07,chillflame,Chill Flames,Terraria,5,6,16
+2026-11-07,chillflame,Chill Flames,The Match,5,6,37
 2026-11-07,chillflame,Chill Flames,Tiki Torch,30,5,48
 2026-11-07,chillflame,Chill Flames,Tribal Totem,30,5,48
 2026-11-07,chillflame,Chill Flames,Triumph,10,6,37
+2026-11-07,chillflame,Chill Flames,Victory,10,6,44
 2026-11-07,cloverpin,Clover Pins,Balloon,20,8,19
 2026-11-07,cloverpin,Clover Pins,Berry Waffle,20,7,24
 2026-11-07,cloverpin,Clover Pins,Butterfly,15,10,26
@@ -571,13 +584,18 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,cloverpin,Clover Pins,Corrupted,15,8,17
 2026-11-07,cloverpin,Clover Pins,Crystal Hearts,20,9,19
 2026-11-07,cloverpin,Clover Pins,Emo Pin,5,10,11
+2026-11-07,cloverpin,Clover Pins,Fabulous,20,9,27
 2026-11-07,cloverpin,Clover Pins,Fortune Cookie,20,7,34
 2026-11-07,cloverpin,Clover Pins,Fortune Meter,20,8,1
 2026-11-07,cloverpin,Clover Pins,Four Wishes,20,10,25
 2026-11-07,cloverpin,Clover Pins,Glass Rainbow,30,9,18
+2026-11-07,cloverpin,Clover Pins,Golden Ale,20,8,29
+2026-11-07,cloverpin,Clover Pins,Golden Ticket,20,8,32
+2026-11-07,cloverpin,Clover Pins,Good Boy,20,10,21
 2026-11-07,cloverpin,Clover Pins,Hot Brand,20,8,22
 2026-11-07,cloverpin,Clover Pins,Ice Cream,20,7,2
 2026-11-07,cloverpin,Clover Pins,Joystick,20,7,22
+2026-11-07,cloverpin,Clover Pins,Kaleidoscope,20,13,13
 2026-11-07,cloverpin,Clover Pins,Kelly Green,5,38,13
 2026-11-07,cloverpin,Clover Pins,Lava Lamp,20,7,16
 2026-11-07,cloverpin,Clover Pins,Lollipop,20,8,26
@@ -588,32 +606,47 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,cloverpin,Clover Pins,Nebula,30,10,33
 2026-11-07,cloverpin,Clover Pins,Needlework,20,8,21
 2026-11-07,cloverpin,Clover Pins,Orange Juice,20,7,22
+2026-11-07,cloverpin,Clover Pins,Peacock,30,10,12
 2026-11-07,cloverpin,Clover Pins,Pepperoni,15,7,28
 2026-11-07,cloverpin,Clover Pins,Pinwheel,20,7,27
 2026-11-07,cloverpin,Clover Pins,Purrfect Paw,20,8,27
+2026-11-07,cloverpin,Clover Pins,Red Tartan,30,8,34
 2026-11-07,cloverpin,Clover Pins,Rose Quartz,20,9,12
 2026-11-07,cloverpin,Clover Pins,Ruby Clover,20,9,25
 2026-11-07,cloverpin,Clover Pins,Sakura,5,25,14
 2026-11-07,cloverpin,Clover Pins,Sangria,20,7,1
 2026-11-07,cloverpin,Clover Pins,Sell High,30,11,32
 2026-11-07,cloverpin,Clover Pins,Soap Bubbles,20,10,18
+2026-11-07,cloverpin,Clover Pins,Stained Glass,20,9,38
 2026-11-07,cloverpin,Clover Pins,Star Princess,20,13,25
 2026-11-07,cloverpin,Clover Pins,Tama Gadget,5,11,21
 2026-11-07,cloverpin,Clover Pins,Top Student,30,7,5
 2026-11-07,cloverpin,Clover Pins,Verdant Plaid,30,9,35
 2026-11-07,cloverpin,Clover Pins,Vinyl Record,20,11,17
+2026-11-07,cloverpin,Clover Pins,Watermelon,20,8,21
 2026-11-07,cookieheart,Cookie Hearts,Affection,10,100,5
+2026-11-07,cookieheart,Cookie Hearts,Angry Ghost,2,9,5
+2026-11-07,cookieheart,Cookie Hearts,Baked Logo,10,7,13
+2026-11-07,cookieheart,Cookie Hearts,Baking Hot,5,7,7
 2026-11-07,cookieheart,Cookie Hearts,Black Heart,15,3333,1
 2026-11-07,cookieheart,Cookie Hearts,Bloodlust,2,999,1
+2026-11-07,cookieheart,Cookie Hearts,Blueberry,5,9,2
+2026-11-07,cookieheart,Cookie Hearts,Broken Code,10,60,2
 2026-11-07,cookieheart,Cookie Hearts,Caramel Bow,10,25,3
 2026-11-07,cookieheart,Cookie Hearts,Carefree,10,6,6
 2026-11-07,cookieheart,Cookie Hearts,Changeling,15,6,2
 2026-11-07,cookieheart,Cookie Hearts,Cheesecake,10,6,9
 2026-11-07,cookieheart,Cookie Hearts,Chilled,15,6,5
+2026-11-07,cookieheart,Cookie Hearts,Choco Chips,10,9,3
+2026-11-07,cookieheart,Cookie Hearts,Choco Crunch,10,7,8
+2026-11-07,cookieheart,Cookie Hearts,Choco Fudge,10,7,4
 2026-11-07,cookieheart,Cookie Hearts,Citrus Glaze,15,16,4
 2026-11-07,cookieheart,Cookie Hearts,Cold Heart,2,150,2
+2026-11-07,cookieheart,Cookie Hearts,Cold Mint,15,7,9
 2026-11-07,cookieheart,Cookie Hearts,Crayola,15,9,5
 2026-11-07,cookieheart,Cookie Hearts,Cupid’s Arrow,5,9,9
+2026-11-07,cookieheart,Cookie Hearts,Dark Pawder,1,67,4
+2026-11-07,cookieheart,Cookie Hearts,Dark Rainbow,15,9,5
 2026-11-07,cookieheart,Cookie Hearts,Diamond,5,9,4
 2026-11-07,cookieheart,Cookie Hearts,Doughnut,10,6,2
 2026-11-07,cookieheart,Cookie Hearts,Druid Snack,15,500,1
@@ -623,14 +656,22 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,cookieheart,Cookie Hearts,Fairy Tale,10,7,7
 2026-11-07,cookieheart,Cookie Hearts,First Crush,10,10,4
 2026-11-07,cookieheart,Cookie Hearts,Fly Agaric,10,8,10
+2026-11-07,cookieheart,Cookie Hearts,For You,10,7,6
 2026-11-07,cookieheart,Cookie Hearts,Fried Egg,10,6,15
 2026-11-07,cookieheart,Cookie Hearts,Gold Bar,5,10,16
+2026-11-07,cookieheart,Cookie Hearts,Graveyard,10,9,5
 2026-11-07,cookieheart,Cookie Hearts,Grinch,15,6,1
+2026-11-07,cookieheart,Cookie Hearts,Hearth,15,8,3
 2026-11-07,cookieheart,Cookie Hearts,Hearty Crust,5,7,1
+2026-11-07,cookieheart,Cookie Hearts,Honeymoon,10,7,4
+2026-11-07,cookieheart,Cookie Hearts,Ice Rink,15,9,3
 2026-11-07,cookieheart,Cookie Hearts,Infinity Gems,10,6,9
+2026-11-07,cookieheart,Cookie Hearts,Kawaii Bunny,10,8,7
 2026-11-07,cookieheart,Cookie Hearts,Kawaii Frog,10,9,41
+2026-11-07,cookieheart,Cookie Hearts,Last Bites,10,11,5
 2026-11-07,cookieheart,Cookie Hearts,Late Fall,10,6,6
 2026-11-07,cookieheart,Cookie Hearts,Lattice Pie,5,20,4
+2026-11-07,cookieheart,Cookie Hearts,Liquorice,10,7,8
 2026-11-07,cookieheart,Cookie Hearts,Little Daisies,5,7,8
 2026-11-07,cookieheart,Cookie Hearts,Little Star,5,9,3
 2026-11-07,cookieheart,Cookie Hearts,Love Story,5,200,1
@@ -638,37 +679,54 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,cookieheart,Cookie Hearts,Ma Chérie,5,100,1
 2026-11-07,cookieheart,Cookie Hearts,Manga,15,24,4
 2026-11-07,cookieheart,Cookie Hearts,Meadow,15,6,6
+2026-11-07,cookieheart,Cookie Hearts,Medovik,10,7,6
+2026-11-07,cookieheart,Cookie Hearts,Mermaid,10,70,1
 2026-11-07,cookieheart,Cookie Hearts,Midsummer,15,8,3
 2026-11-07,cookieheart,Cookie Hearts,Mint Cream,15,8,6
 2026-11-07,cookieheart,Cookie Hearts,Neon Candy,15,9,6
 2026-11-07,cookieheart,Cookie Hearts,Nightmare,5,6,8
+2026-11-07,cookieheart,Cookie Hearts,Nyam Cat,10,16,9
 2026-11-07,cookieheart,Cookie Hearts,Oatmeal Star,10,6,16
 2026-11-07,cookieheart,Cookie Hearts,Pink Yogurt,15,20,5
 2026-11-07,cookieheart,Cookie Hearts,Pixel Beat,10,9,4
 2026-11-07,cookieheart,Cookie Hearts,Rainbow,15,9,7
 2026-11-07,cookieheart,Cookie Hearts,Red Apple,10,6,5
+2026-11-07,cookieheart,Cookie Hearts,Red Blues,15,9,6
 2026-11-07,cookieheart,Cookie Hearts,Red Rose,2,9,9
 2026-11-07,cookieheart,Cookie Hearts,Red Velvet,15,7,8
+2026-11-07,cookieheart,Cookie Hearts,Rubycake,15,450,1
 2026-11-07,cookieheart,Cookie Hearts,Schnecken,15,7,3
+2026-11-07,cookieheart,Cookie Hearts,Shiny Gem,15,9,4
+2026-11-07,cookieheart,Cookie Hearts,Silver,15,10,3
 2026-11-07,cookieheart,Cookie Hearts,Soap Opera,10,17,4
 2026-11-07,cookieheart,Cookie Hearts,Spades,2,20,2
 2026-11-07,cookieheart,Cookie Hearts,Spicy Maple,15,9,7
 2026-11-07,cookieheart,Cookie Hearts,Sprinkles,10,6,1
+2026-11-07,cookieheart,Cookie Hearts,Squid,10,10,4
 2026-11-07,cookieheart,Cookie Hearts,Stardust,5,13,6
+2026-11-07,cookieheart,Cookie Hearts,Strawberry,10,9,4
 2026-11-07,cookieheart,Cookie Hearts,Sugar Kitty,1,111,3
 2026-11-07,cookieheart,Cookie Hearts,Sunlight,15,6,6
 2026-11-07,cookieheart,Cookie Hearts,Superstar,1,25,11
 2026-11-07,cookieheart,Cookie Hearts,Telecake,10,10,20
+2026-11-07,cookieheart,Cookie Hearts,The Circle,10,7,10
+2026-11-07,cookieheart,Cookie Hearts,The Star,10,7,6
 2026-11-07,cookieheart,Cookie Hearts,The Triangle,10,6,14
 2026-11-07,cookieheart,Cookie Hearts,The Umbrella,10,6,11
 2026-11-07,cookieheart,Cookie Hearts,Toasted,10,9,7
 2026-11-07,cookieheart,Cookie Hearts,Toffee,15,9,5
+2026-11-07,cookieheart,Cookie Hearts,Ultra Pink,15,7,8
 2026-11-07,cookieheart,Cookie Hearts,Valentine,10,19,10
 2026-11-07,cookieheart,Cookie Hearts,Vanilla,15,18,1
+2026-11-07,cookieheart,Cookie Hearts,Watermelon,10,7,5
+2026-11-07,cookieheart,Cookie Hearts,Wink Wink,10,9,4
+2026-11-07,cookieheart,Cookie Hearts,Winterfell,15,55,3
+2026-11-07,cookieheart,Cookie Hearts,Yamete Kudasai,1,90,3
 2026-11-07,crystalball,Crystal Balls,Amanita,20,20,4
 2026-11-07,crystalball,Crystal Balls,Baller,10,67,5
 2026-11-07,crystalball,Crystal Balls,Billiard,10,25,10
 2026-11-07,crystalball,Crystal Balls,Bozo Clown,10,17,7
+2026-11-07,crystalball,Crystal Balls,Brain Freeze,30,19,12
 2026-11-07,crystalball,Crystal Balls,Broken Heart,5,29,4
 2026-11-07,crystalball,Crystal Balls,Cartoon,20,19,10
 2026-11-07,crystalball,Crystal Balls,Crash Test,20,20,4
@@ -706,11 +764,14 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,crystalball,Crystal Balls,Samhain,10,19,2
 2026-11-07,crystalball,Crystal Balls,Sanguine,5,59,3
 2026-11-07,crystalball,Crystal Balls,Seeing Red,30,19,7
+2026-11-07,crystalball,Crystal Balls,Silver,30,26,9
 2026-11-07,crystalball,Crystal Balls,Skullberry,10,19,3
 2026-11-07,crystalball,Crystal Balls,Spice Storm,20,18,5
+2026-11-07,crystalball,Crystal Balls,Teddy Bear,20,30,9
 2026-11-07,crystalball,Crystal Balls,The Lich King,5,39,6
 2026-11-07,crystalball,Crystal Balls,Tim Burton,15,30,3
 2026-11-07,crystalball,Crystal Balls,Vitamin C,20,20,5
+2026-11-07,crystalball,Crystal Balls,Warhol,20,19,1
 2026-11-07,crystalball,Crystal Balls,Warlock,30,19,9
 2026-11-07,crystalball,Crystal Balls,Wednesday,5,32,4
 2026-11-07,crystalball,Crystal Balls,World Cup,10,45,7
@@ -738,6 +799,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,cupidcharm,Cupid Charms,Golden Lace,10,30,2
 2026-11-07,cupidcharm,Cupid Charms,Ice Glass,5,69,5
 2026-11-07,cupidcharm,Cupid Charms,Jewels,15,35,8
+2026-11-07,cupidcharm,Cupid Charms,Lindon,25,48,6
 2026-11-07,cupidcharm,Cupid Charms,Lockpicking,15,30,4
 2026-11-07,cupidcharm,Cupid Charms,Lorien,25,30,7
 2026-11-07,cupidcharm,Cupid Charms,Mistress,15,29,9
@@ -745,14 +807,18 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,cupidcharm,Cupid Charms,Moulin Rouge,20,100,3
 2026-11-07,cupidcharm,Cupid Charms,Obsidian,30,50,3
 2026-11-07,cupidcharm,Cupid Charms,Padlock,25,275,3
+2026-11-07,cupidcharm,Cupid Charms,Pepe Love,10,330,3
+2026-11-07,cupidcharm,Cupid Charms,Pink Glass,30,45,8
 2026-11-07,cupidcharm,Cupid Charms,Pink Zebra,30,29,5
 2026-11-07,cupidcharm,Cupid Charms,Purple Glow,20,33,1
 2026-11-07,cupidcharm,Cupid Charms,Puzzle,15,30,4
 2026-11-07,cupidcharm,Cupid Charms,Ribbons,20,38,7
 2026-11-07,cupidcharm,Cupid Charms,Ruby Red,25,29,8
 2026-11-07,cupidcharm,Cupid Charms,Ruby Whisper,25,45,6
+2026-11-07,cupidcharm,Cupid Charms,Snow Queen,25,150,3
 2026-11-07,cupidcharm,Cupid Charms,Soft Touch,30,50,4
 2026-11-07,cupidcharm,Cupid Charms,Sorceress,10,45,2
+2026-11-07,cupidcharm,Cupid Charms,Starlight,25,60,3
 2026-11-07,cupidcharm,Cupid Charms,Surgery,20,29,5
 2026-11-07,cupidcharm,Cupid Charms,Titanic,15,888,1
 2026-11-07,cupidcharm,Cupid Charms,Vault,20,33,15
@@ -770,6 +836,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,deskcalendar,Desk Calendars,Barbie Day,14,15,5
 2026-11-07,deskcalendar,Desk Calendars,Beachy,13,11,3
 2026-11-07,deskcalendar,Desk Calendars,Beet Diary,13,8,8
+2026-11-07,deskcalendar,Desk Calendars,Black Flip,14,8,6
 2026-11-07,deskcalendar,Desk Calendars,Black Suede,14,8,5
 2026-11-07,deskcalendar,Desk Calendars,Blank Page,8,450,2
 2026-11-07,deskcalendar,Desk Calendars,Blossoms,14,8,1
@@ -786,14 +853,18 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,deskcalendar,Desk Calendars,Crossed Out,9,20,3
 2026-11-07,deskcalendar,Desk Calendars,Crunch Time,2,11,12
 2026-11-07,deskcalendar,Desk Calendars,Cyberpunk,2,14,8
+2026-11-07,deskcalendar,Desk Calendars,Daily Bread,2,14,9
 2026-11-07,deskcalendar,Desk Calendars,Dark Binding,14,20,3
 2026-11-07,deskcalendar,Desk Calendars,Day Five,7,25,1
 2026-11-07,deskcalendar,Desk Calendars,Day of Mars,0,66,7
 2026-11-07,deskcalendar,Desk Calendars,Deadline,2,55,5
 2026-11-07,deskcalendar,Desk Calendars,December,5,20,7
+2026-11-07,deskcalendar,Desk Calendars,Deep Ocean,14,15,3
 2026-11-07,deskcalendar,Desk Calendars,Durov Day,5,15,22
+2026-11-07,deskcalendar,Desk Calendars,Fawkes Night,2,77,59
 2026-11-07,deskcalendar,Desk Calendars,February,6,25,12
 2026-11-07,deskcalendar,Desk Calendars,Fire Path,14,8,4
+2026-11-07,deskcalendar,Desk Calendars,First Date,1,40,11
 2026-11-07,deskcalendar,Desk Calendars,Fresh Start,8,10,2
 2026-11-07,deskcalendar,Desk Calendars,Friday,6,9,4
 2026-11-07,deskcalendar,Desk Calendars,Frjádagr,1,38,8
@@ -806,6 +877,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,deskcalendar,Desk Calendars,Going Green,13,8,4
 2026-11-07,deskcalendar,Desk Calendars,Gold Leaf,14,26,3
 2026-11-07,deskcalendar,Desk Calendars,Gold Pink,14,10,4
+2026-11-07,deskcalendar,Desk Calendars,Golden Touch,13,8,7
 2026-11-07,deskcalendar,Desk Calendars,Golden Years,10,11,15
 2026-11-07,deskcalendar,Desk Calendars,Green Day,13,7,3
 2026-11-07,deskcalendar,Desk Calendars,Grimoire,1,13,11
@@ -824,16 +896,23 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,deskcalendar,Desk Calendars,Kawaii,8,20,6
 2026-11-07,deskcalendar,Desk Calendars,Kronos,1,25,6
 2026-11-07,deskcalendar,Desk Calendars,Launch Date,2,15,13
+2026-11-07,deskcalendar,Desk Calendars,Lavendays,14,10,1
 2026-11-07,deskcalendar,Desk Calendars,Leather Top,13,20,3
+2026-11-07,deskcalendar,Desk Calendars,Lemon,13,8,4
 2026-11-07,deskcalendar,Desk Calendars,Like Cycle,6,20,7
+2026-11-07,deskcalendar,Desk Calendars,Lilac Black,14,10,9
 2026-11-07,deskcalendar,Desk Calendars,Lovely,14,15,1
 2026-11-07,deskcalendar,Desk Calendars,Lucky Day,1,388,5
 2026-11-07,deskcalendar,Desk Calendars,Luftballons,4,20,2
 2026-11-07,deskcalendar,Desk Calendars,Magic Flow,13,7,4
 2026-11-07,deskcalendar,Desk Calendars,March,5,15,10
+2026-11-07,deskcalendar,Desk Calendars,May,5,8,7
 2026-11-07,deskcalendar,Desk Calendars,May the Fourth,0,179,5
 2026-11-07,deskcalendar,Desk Calendars,Mesozoic,2,9,19
+2026-11-07,deskcalendar,Desk Calendars,Miami Beach,14,10,6
 2026-11-07,deskcalendar,Desk Calendars,Minting Date,13,12,9
+2026-11-07,deskcalendar,Desk Calendars,Monday,5,8,8
+2026-11-07,deskcalendar,Desk Calendars,Monochrome,9,8,15
 2026-11-07,deskcalendar,Desk Calendars,Mánadagr,1,15,4
 2026-11-07,deskcalendar,Desk Calendars,New Year,3,14,11
 2026-11-07,deskcalendar,Desk Calendars,Newsprint,10,28,3
@@ -866,22 +945,29 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,deskcalendar,Desk Calendars,Shopping List,3,10,13
 2026-11-07,deskcalendar,Desk Calendars,Shuffle,2,350,5
 2026-11-07,deskcalendar,Desk Calendars,Sol Invictus,1,18,8
+2026-11-07,deskcalendar,Desk Calendars,Space Era,1,11,9
 2026-11-07,deskcalendar,Desk Calendars,Steampunk,2,10,14
 2026-11-07,deskcalendar,Desk Calendars,Sticky Note,13,15,5
 2026-11-07,deskcalendar,Desk Calendars,Strong Circle,13,11,3
 2026-11-07,deskcalendar,Desk Calendars,Sunday,6,25,2
 2026-11-07,deskcalendar,Desk Calendars,Sunshine,14,14,6
 2026-11-07,deskcalendar,Desk Calendars,Surfer,13,30,7
+2026-11-07,deskcalendar,Desk Calendars,TON Core,1,150,7
 2026-11-07,deskcalendar,Desk Calendars,Telegram,5,20,19
 2026-11-07,deskcalendar,Desk Calendars,The Nineties,13,8,1
 2026-11-07,deskcalendar,Desk Calendars,Thursday,5,9,6
+2026-11-07,deskcalendar,Desk Calendars,Tic Tac Toe,3,8,3
+2026-11-07,deskcalendar,Desk Calendars,Time Spin,2,14,5
 2026-11-07,deskcalendar,Desk Calendars,Toy Calendar,3,15,13
 2026-11-07,deskcalendar,Desk Calendars,Treasure Map,1,45,3
 2026-11-07,deskcalendar,Desk Calendars,Tropical,14,330,1
 2026-11-07,deskcalendar,Desk Calendars,Tuesday,5,10,5
+2026-11-07,deskcalendar,Desk Calendars,Vacation,3,14,8
+2026-11-07,deskcalendar,Desk Calendars,Very Visible,13,15,4
 2026-11-07,deskcalendar,Desk Calendars,Vintage,3,11,8
 2026-11-07,deskcalendar,Desk Calendars,Wedding,2,18,10
 2026-11-07,deskcalendar,Desk Calendars,Wednesday,5,7,5
+2026-11-07,deskcalendar,Desk Calendars,Weekly Set,2,13,18
 2026-11-07,deskcalendar,Desk Calendars,Women’s Day,3,8,24
 2026-11-07,deskcalendar,Desk Calendars,Yellow Page,13,22,5
 2026-11-07,deskcalendar,Desk Calendars,Yoga Time,3,11,12
@@ -905,6 +991,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,diamondring,Diamond Rings,Bondi Blue,15,90,1
 2026-11-07,diamondring,Diamond Rings,Bronze Heart,15,39,6
 2026-11-07,diamondring,Diamond Rings,Bubble Burst,5,47,6
+2026-11-07,diamondring,Diamond Rings,Canary,15,90,2
 2026-11-07,diamondring,Diamond Rings,Champagne,15,55,3
 2026-11-07,diamondring,Diamond Rings,Citrus Shift,15,68,3
 2026-11-07,diamondring,Diamond Rings,Clam Shell,15,55,1
@@ -920,11 +1007,13 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,diamondring,Diamond Rings,Dorodango,15,41,9
 2026-11-07,diamondring,Diamond Rings,Dragon Eyes,15,37,4
 2026-11-07,diamondring,Diamond Rings,Eclipse,10,45,2
+2026-11-07,diamondring,Diamond Rings,El Dorado,10,200,2
 2026-11-07,diamondring,Diamond Rings,Elven Tears,15,45,6
 2026-11-07,diamondring,Diamond Rings,Emerald,15,50,6
 2026-11-07,diamondring,Diamond Rings,Fireball,5,80,6
 2026-11-07,diamondring,Diamond Rings,Firestorm,5,100,4
 2026-11-07,diamondring,Diamond Rings,Flamingo,15,99,2
+2026-11-07,diamondring,Diamond Rings,Forest Lake,15,169,2
 2026-11-07,diamondring,Diamond Rings,Freehand,5,200,2
 2026-11-07,diamondring,Diamond Rings,Frostband,5,150,1
 2026-11-07,diamondring,Diamond Rings,Glamour,15,47,5
@@ -940,9 +1029,12 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,diamondring,Diamond Rings,Miami Beach,15,58,4
 2026-11-07,diamondring,Diamond Rings,Midnight,5,55,1
 2026-11-07,diamondring,Diamond Rings,Mikado Yellow,15,42,10
+2026-11-07,diamondring,Diamond Rings,Mint Candy,15,999,1
 2026-11-07,diamondring,Diamond Rings,Neon Chrome,15,80,4
 2026-11-07,diamondring,Diamond Rings,Nightshade,15,49,2
 2026-11-07,diamondring,Diamond Rings,Nocturne,5,90,7
+2026-11-07,diamondring,Diamond Rings,Obsidian,5,60,4
+2026-11-07,diamondring,Diamond Rings,Ocean Agate,5,100,6
 2026-11-07,diamondring,Diamond Rings,Ocean Gem,5,50,2
 2026-11-07,diamondring,Diamond Rings,Orion,5,500,3
 2026-11-07,diamondring,Diamond Rings,Peridot,15,44,7
@@ -959,15 +1051,18 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,diamondring,Diamond Rings,Rose Quartz,15,65,5
 2026-11-07,diamondring,Diamond Rings,Royal Purple,5,100,2
 2026-11-07,diamondring,Diamond Rings,Sapphire,5,150,1
+2026-11-07,diamondring,Diamond Rings,Silver Lake,10,378,2
 2026-11-07,diamondring,Diamond Rings,Silver Smoke,5,500,2
 2026-11-07,diamondring,Diamond Rings,Silver Star,5,500,3
 2026-11-07,diamondring,Diamond Rings,Snake Eye,5,59,5
 2026-11-07,diamondring,Diamond Rings,Space Steel,15,55,1
 2026-11-07,diamondring,Diamond Rings,Steampunk,10,300,2
 2026-11-07,diamondring,Diamond Rings,Sunrise,15,70,3
+2026-11-07,diamondring,Diamond Rings,Sunset,10,100,2
 2026-11-07,diamondring,Diamond Rings,Tesla,5,80,6
 2026-11-07,diamondring,Diamond Rings,Topaz,15,90,4
 2026-11-07,diamondring,Diamond Rings,Twilight,10,43,1
+2026-11-07,diamondring,Diamond Rings,Ultramarine,15,80,2
 2026-11-07,diamondring,Diamond Rings,Valentine,5,888,2
 2026-11-07,diamondring,Diamond Rings,Velvet Rose,5,111,6
 2026-11-07,diamondring,Diamond Rings,Vice City,5,77,3
@@ -986,6 +1081,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,durovsglasses,Durov’s Glasses,Curious,10,7500,1
 2026-11-07,durovsglasses,Durov’s Glasses,Cyberpunk,25,250,1
 2026-11-07,durovsglasses,Durov’s Glasses,Cyclops,30,370,3
+2026-11-07,durovsglasses,Durov’s Glasses,Disguise,20,888,2
 2026-11-07,durovsglasses,Durov’s Glasses,Dogfight,20,350,3
 2026-11-07,durovsglasses,Durov’s Glasses,Finish Line,25,220,3
 2026-11-07,durovsglasses,Durov’s Glasses,Glam Hero,20,300,2
@@ -996,9 +1092,12 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,durovsglasses,Durov’s Glasses,Leopard Glam,20,320,1
 2026-11-07,durovsglasses,Durov’s Glasses,Lovestruck,30,148,4
 2026-11-07,durovsglasses,Durov’s Glasses,Mecha Pilot,20,650,4
+2026-11-07,durovsglasses,Durov’s Glasses,Miami Sunset,20,700,1
 2026-11-07,durovsglasses,Durov’s Glasses,New Dimension,15,333,3
+2026-11-07,durovsglasses,Durov’s Glasses,Paintball,30,700,1
 2026-11-07,durovsglasses,Durov’s Glasses,Pepe Dream,10,599,3
 2026-11-07,durovsglasses,Durov’s Glasses,Project Mayhem,15,444,4
+2026-11-07,durovsglasses,Durov’s Glasses,Raphael,10,800,1
 2026-11-07,durovsglasses,Durov’s Glasses,Retro Disco,30,300,4
 2026-11-07,durovsglasses,Durov’s Glasses,Ruby Dynasty,20,333,1
 2026-11-07,durovsglasses,Durov’s Glasses,Scuba,25,899,3
@@ -1029,10 +1128,13 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,easteregg,Easter Eggs,Cryptid,5,77,21
 2026-11-07,easteregg,Easter Eggs,Deep Freeze,10,7,18
 2026-11-07,easteregg,Easter Eggs,Dogel Mogel,10,18,12
+2026-11-07,easteregg,Easter Eggs,Dragon,15,7,26
+2026-11-07,easteregg,Easter Eggs,Early Bird,5,7,5
 2026-11-07,easteregg,Easter Eggs,Easter Bunny,5,20,6
 2026-11-07,easteregg,Easter Eggs,Eggburger,20,7,3
 2026-11-07,easteregg,Easter Eggs,Egghead,10,6,19
 2026-11-07,easteregg,Easter Eggs,Eggmoji,15,8,17
+2026-11-07,easteregg,Easter Eggs,Eggsecutive,20,15,8
 2026-11-07,easteregg,Easter Eggs,Faberge,10,300,20
 2026-11-07,easteregg,Easter Eggs,Fine Silver,20,9,27
 2026-11-07,easteregg,Easter Eggs,Fish Pod,20,6,2
@@ -1041,24 +1143,31 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,easteregg,Easter Eggs,Foliage,15,8,11
 2026-11-07,easteregg,Easter Eggs,Free Flight,20,6,42
 2026-11-07,easteregg,Easter Eggs,Frosted,25,8,21
+2026-11-07,easteregg,Easter Eggs,Gzhel,25,8,11
+2026-11-07,easteregg,Easter Eggs,Ice Cream,15,7,13
 2026-11-07,easteregg,Easter Eggs,Jupiter,20,9,20
 2026-11-07,easteregg,Easter Eggs,Khokhloma,25,6,34
 2026-11-07,easteregg,Easter Eggs,Koshchei,10,6,22
 2026-11-07,easteregg,Easter Eggs,Ladybird,20,6,3
 2026-11-07,easteregg,Easter Eggs,Little Dino,5,10,7
 2026-11-07,easteregg,Easter Eggs,Little Doge,5,8,8
+2026-11-07,easteregg,Easter Eggs,Magic Key,20,7,22
 2026-11-07,easteregg,Easter Eggs,Matryoshka,25,6,31
 2026-11-07,easteregg,Easter Eggs,Meadow,25,6,24
 2026-11-07,easteregg,Easter Eggs,Meowling,10,18,10
 2026-11-07,easteregg,Easter Eggs,Moon Watch,25,10,33
+2026-11-07,easteregg,Easter Eggs,Mr. Benedict,25,7,39
 2026-11-07,easteregg,Easter Eggs,OS Shell,20,6,8
 2026-11-07,easteregg,Easter Eggs,Omeletron,20,7,26
 2026-11-07,easteregg,Easter Eggs,Pearl,10,11,20
+2026-11-07,easteregg,Easter Eggs,Porcelain,25,7,21
 2026-11-07,easteregg,Easter Eggs,Protein Lamp,25,6,47
 2026-11-07,easteregg,Easter Eggs,Pure Gold,15,10,50
 2026-11-07,easteregg,Easter Eggs,Purple Bird,25,6,30
 2026-11-07,easteregg,Easter Eggs,Red Whelp,5,22,8
+2026-11-07,easteregg,Easter Eggs,Scrambull,20,7,20
 2026-11-07,easteregg,Easter Eggs,Sea Turtle,5,17,8
+2026-11-07,easteregg,Easter Eggs,Stained Glass,15,7,19
 2026-11-07,easteregg,Easter Eggs,Stamper,20,6,1
 2026-11-07,easteregg,Easter Eggs,Starry Gift,10,6,18
 2026-11-07,easteregg,Easter Eggs,Treasure Map,15,6,21
@@ -1102,6 +1211,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,electricskull,Electric Skulls,Smiley,5,555,10
 2026-11-07,electricskull,Electric Skulls,Solar Stone,40,42,8
 2026-11-07,electricskull,Electric Skulls,Starborn,10,666,1
+2026-11-07,electricskull,Electric Skulls,Starman,5,199,13
 2026-11-07,electricskull,Electric Skulls,Sunset Veil,20,450,1
 2026-11-07,electricskull,Electric Skulls,Tangerine,40,50,5
 2026-11-07,electricskull,Electric Skulls,Terminator,3,333,4
@@ -1141,12 +1251,14 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,eternalcandle,Eternal Candles,Hydrangea,15,18,2
 2026-11-07,eternalcandle,Eternal Candles,Iceberg,10,8,2
 2026-11-07,eternalcandle,Eternal Candles,Indiglow,15,10,6
+2026-11-07,eternalcandle,Eternal Candles,Jasmine,15,8,3
 2026-11-07,eternalcandle,Eternal Candles,Krakatoa,10,10,11
 2026-11-07,eternalcandle,Eternal Candles,Late Dusk,15,10,8
 2026-11-07,eternalcandle,Eternal Candles,Little Star,5,22,6
 2026-11-07,eternalcandle,Eternal Candles,Love Dreams,10,8,10
 2026-11-07,eternalcandle,Eternal Candles,Mermaid,15,8,6
 2026-11-07,eternalcandle,Eternal Candles,Mirkwood,10,15,3
+2026-11-07,eternalcandle,Eternal Candles,My Precious,15,10,11
 2026-11-07,eternalcandle,Eternal Candles,Neroli Noir,15,18,3
 2026-11-07,eternalcandle,Eternal Candles,Pearl Clam,10,12,12
 2026-11-07,eternalcandle,Eternal Candles,Pinstripe,15,11,4
@@ -1162,11 +1274,14 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,eternalcandle,Eternal Candles,Satin Bow,5,18,6
 2026-11-07,eternalcandle,Eternal Candles,Saturated,15,21,6
 2026-11-07,eternalcandle,Eternal Candles,Sequin,5,15,4
+2026-11-07,eternalcandle,Eternal Candles,Serenity,15,10,4
 2026-11-07,eternalcandle,Eternal Candles,Silver Spark,15,17,3
 2026-11-07,eternalcandle,Eternal Candles,Snake Skin,5,8,5
+2026-11-07,eternalcandle,Eternal Candles,Spiced Apple,15,10,7
 2026-11-07,eternalcandle,Eternal Candles,Spring Bloom,10,10,13
 2026-11-07,eternalcandle,Eternal Candles,Sugar Skull,10,9,11
 2026-11-07,eternalcandle,Eternal Candles,Sunrise,15,8,5
+2026-11-07,eternalcandle,Eternal Candles,Supernova,15,10,7
 2026-11-07,eternalcandle,Eternal Candles,Thick Honey,15,7,16
 2026-11-07,eternalcandle,Eternal Candles,Tortuga,10,8,17
 2026-11-07,eternalcandle,Eternal Candles,Toxic Smoke,15,9,9
@@ -1175,9 +1290,11 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,eternalcandle,Eternal Candles,Unicorn,15,8,9
 2026-11-07,eternalcandle,Eternal Candles,Vanilla Oasis,15,35,3
 2026-11-07,eternalcandle,Eternal Candles,Warm Embrace,15,11,8
+2026-11-07,eternalcandle,Eternal Candles,White Ash,15,9,8
 2026-11-07,eternalcandle,Eternal Candles,Wildflowers,5,12,2
 2026-11-07,eternalcandle,Eternal Candles,Winter Mist,15,8,1
 2026-11-07,eternalcandle,Eternal Candles,Witch’s Candle,15,20,1
+2026-11-07,eternalcandle,Eternal Candles,Wolfsbane,15,8,6
 2026-11-07,eternalcandle,Eternal Candles,Yellow Gold,15,13,12
 2026-11-07,faithamulet,Faith Amulets,Azure Glow,25,9,2
 2026-11-07,faithamulet,Faith Amulets,Constellation,30,7,19
@@ -1198,6 +1315,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,faithamulet,Faith Amulets,Princess,15,9,1
 2026-11-07,faithamulet,Faith Amulets,Purple Dunes,20,9,1
 2026-11-07,faithamulet,Faith Amulets,Radiance,20,10,18
+2026-11-07,faithamulet,Faith Amulets,Rose Gold,30,8,1
 2026-11-07,faithamulet,Faith Amulets,Royal Green,25,8,18
 2026-11-07,faithamulet,Faith Amulets,Ruby Drop,5,15,3
 2026-11-07,faithamulet,Faith Amulets,Secret Bloom,10,15,5
@@ -1437,6 +1555,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,gingercookie,Ginger Cookies,Eskimo,13,8,1
 2026-11-07,gingercookie,Ginger Cookies,Frostbite,2,37,7
 2026-11-07,gingercookie,Ginger Cookies,Frozen Dough,16,9,6
+2026-11-07,gingercookie,Ginger Cookies,Galleta,6,8,1
 2026-11-07,gingercookie,Ginger Cookies,Ginger Geek,7,7,1
 2026-11-07,gingercookie,Ginger Cookies,Ginger Grape,17,10,8
 2026-11-07,gingercookie,Ginger Cookies,Glowberry,15,9,7
@@ -1582,6 +1701,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,happybrownie,Happy Brownies,Cactus,30,6,20
 2026-11-07,happybrownie,Happy Brownies,Cat Scat,5,15,9
 2026-11-07,happybrownie,Happy Brownies,Cherry Cake,30,8,20
+2026-11-07,happybrownie,Happy Brownies,Cookie Monster,25,7,1
 2026-11-07,happybrownie,Happy Brownies,Dirty Bomb,25,6,18
 2026-11-07,happybrownie,Happy Brownies,Dung Beetle,15,7,10
 2026-11-07,happybrownie,Happy Brownies,Gold Nugget,5,8,12
@@ -2092,6 +2212,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,jesterhat,Jester Hats,Great Again,8,6,4
 2026-11-07,jesterhat,Jester Hats,Green Tassels,8,6,1
 2026-11-07,jesterhat,Jester Hats,Harley Quinn,13,19,5
+2026-11-07,jesterhat,Jester Hats,Harley-Bee,5,6,1
 2026-11-07,jesterhat,Jester Hats,Hellfire,5,7,3
 2026-11-07,jesterhat,Jester Hats,Hellscape,2,39,6
 2026-11-07,jesterhat,Jester Hats,Holidays,5,7,1
@@ -2276,6 +2397,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,jollychimp,Jolly Chimps,Knight,20,12,1
 2026-11-07,jollychimp,Jolly Chimps,La Baboon,10,46,60
 2026-11-07,jollychimp,Jolly Chimps,Liberation,5,39,16
+2026-11-07,jollychimp,Jolly Chimps,Little Sister,20,12,1
 2026-11-07,jollychimp,Jolly Chimps,Luminous,25,13,28
 2026-11-07,jollychimp,Jolly Chimps,Monkey Mouse,20,13,21
 2026-11-07,jollychimp,Jolly Chimps,Patchwork,30,10,45
@@ -2418,6 +2540,8 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,libertyfigure,Liberty Figures,Red Porcelain,20,8,60
 2026-11-07,libertyfigure,Liberty Figures,Rose Quartz,25,10,49
 2026-11-07,libertyfigure,Liberty Figures,Ruby Flame,30,8,59
+2026-11-07,libertyfigure,Liberty Figures,Settler,25,6,1
+2026-11-07,libertyfigure,Liberty Figures,Tesla,15,6,1
 2026-11-07,libertyfigure,Liberty Figures,Warhol,10,10,29
 2026-11-07,libertyfigure,Liberty Figures,Washington,15,7,2
 2026-11-07,libertyfigure,Liberty Figures,West Egg,25,6,2
@@ -2520,6 +2644,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,lolpop,Lol Pops,Orangery,12,5,12
 2026-11-07,lolpop,Lol Pops,Pink Foil,10,6,14
 2026-11-07,lolpop,Lol Pops,Plastic Ice,10,10,12
+2026-11-07,lolpop,Lol Pops,Plum Candy,12,5,1
 2026-11-07,lolpop,Lol Pops,Prisma,12,5,23
 2026-11-07,lolpop,Lol Pops,Pumpkin,5,6,41
 2026-11-07,lolpop,Lol Pops,Red Grape,12,6,11
@@ -3096,6 +3221,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,miragelamp,Mirage Lamps,Agrabah,25,5,12
 2026-11-07,miragelamp,Mirage Lamps,Amber Alcove,10,9,5
 2026-11-07,miragelamp,Mirage Lamps,Azure Tear,25,8,2
+2026-11-07,miragelamp,Mirage Lamps,Captured Night,20,6,1
 2026-11-07,miragelamp,Mirage Lamps,Celestia,25,6,2
 2026-11-07,miragelamp,Mirage Lamps,Copper Halo,20,6,9
 2026-11-07,miragelamp,Mirage Lamps,Crimson Dusk,10,20,3
@@ -3515,6 +3641,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,poolfloat,Pool Floats,Gzhel,10,5,24
 2026-11-07,poolfloat,Pool Floats,Homer,15,5,21
 2026-11-07,poolfloat,Pool Floats,Khokhloma,10,6,16
+2026-11-07,poolfloat,Pool Floats,Leonardo,20,5,1
 2026-11-07,poolfloat,Pool Floats,Lizard,30,6,17
 2026-11-07,poolfloat,Pool Floats,Los Muertos,15,6,11
 2026-11-07,poolfloat,Pool Floats,Lucky Dragon,30,6,27
@@ -3526,6 +3653,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,poolfloat,Pool Floats,Pelican Decoy,25,5,26
 2026-11-07,poolfloat,Pool Floats,Pigeon,20,6,16
 2026-11-07,poolfloat,Pool Floats,Pool King,10,8,24
+2026-11-07,poolfloat,Pool Floats,Pool Party,20,5,1
 2026-11-07,poolfloat,Pool Floats,Pool Pepe,10,43,43
 2026-11-07,poolfloat,Pool Floats,Private Jet,30,5,28
 2026-11-07,poolfloat,Pool Floats,Quacky,30,5,23
@@ -4088,6 +4216,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,snoopdogg,Snoop Doggs,Chrome,20,15,59
 2026-11-07,snoopdogg,Snoop Doggs,Club Dawg,30,7,45
 2026-11-07,snoopdogg,Snoop Doggs,Cold Topaz,20,10,55
+2026-11-07,snoopdogg,Snoop Doggs,Dapper Doggo,15,7,1
 2026-11-07,snoopdogg,Snoop Doggs,Doberman,10,13,49
 2026-11-07,snoopdogg,Snoop Doggs,Doggfather,5,13,37
 2026-11-07,snoopdogg,Snoop Doggs,Fish Hat,30,7,53
@@ -4408,6 +4537,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,surgeboard,Surge Boards,Drakkar,30,9,10
 2026-11-07,surgeboard,Surge Boards,Duke,5,135,5
 2026-11-07,surgeboard,Surge Boards,Firefly Board,10,15,3
+2026-11-07,surgeboard,Surge Boards,Golden Hoard,15,11,1
 2026-11-07,surgeboard,Surge Boards,Golden Siren,15,25,7
 2026-11-07,surgeboard,Surge Boards,Gothic Glider,25,9,9
 2026-11-07,surgeboard,Surge Boards,Graffiti,40,9,5
@@ -4519,6 +4649,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,swisswatch,Swiss Watches,The Original,30,133,29
 2026-11-07,swisswatch,Swiss Watches,Timeless,20,123,1
 2026-11-07,swisswatch,Swiss Watches,Top Gun,20,167,12
+2026-11-07,swisswatch,Swiss Watches,Xenowatch,15,138,1
 2026-11-07,swisswatch,Swiss Watches,Zenith,25,155,10
 2026-11-07,tamagadget,Tama Gadgets,Alien Attack,3,20,2
 2026-11-07,tamagadget,Tama Gadgets,Amber,20,5,5
@@ -4778,6 +4909,7 @@ date,collection_slug,collection_name,model,rarity_permille,floor_gram,buy_now_li
 2026-11-07,toybear,Toy Bears,Pineapple,22,50,21
 2026-11-07,toybear,Toy Bears,Pink Cactus,22,50,14
 2026-11-07,toybear,Toy Bears,Pink Doodle,20,55,31
+2026-11-07,toybear,Toy Bears,Polar Bear,20,46,2
 2026-11-07,toybear,Toy Bears,Polygon,15,53,18
 2026-11-07,toybear,Toy Bears,Pooh,10,43,1
 2026-11-07,toybear,Toy Bears,Purple Heart,20,49,3
