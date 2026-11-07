@@ -1,8 +1,21 @@
 {
  "source": "https://tggifts.com/track-record",
- "generated": "2026-11-06T14:31:23.720Z",
+ "generated": "2026-11-07T08:31:43.467Z",
  "note": "Hunts younger than 24h are withheld. Outcomes are read from each item's public Fragment page; 'unknown' means no public sale price was found. estimated_profit is an estimate at alert time, not realised profit.",
  "hunts": [
+  {
+   "found": "2026-11-06T05:04:57.251Z",
+   "type": "gift",
+   "item": "Heroic Helmet #1764",
+   "fragment_url": "https://fragment.com/gift/heroichelmet-1764",
+   "price_at_alert": 200,
+   "our_estimated_value": 250,
+   "estimated_profit_after_5pct_fee": 37.5,
+   "outcome": {
+    "status": "still_listed"
+   },
+   "outcome_checked_at": "2026-11-07T04:15:28.574Z"
+  },
   {
    "found": "2026-11-05T09:41:56.412Z",
    "type": "gift",
@@ -87,7 +100,7 @@
    "outcome": {
     "status": "still_listed"
    },
-   "outcome_checked_at": "2026-11-06T11:14:19.840Z"
+   "outcome_checked_at": "2026-11-07T05:15:45.455Z"
   },
   {
    "found": "2026-10-29T20:10:22.121Z",
